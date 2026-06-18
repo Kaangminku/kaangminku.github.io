@@ -4,7 +4,7 @@
 #
 #   powershell -ExecutionPolicy Bypass -File .\build.ps1
 #
-$ErrorActionPreference = 'Stop'
+$ErrorActionPreference = 'Continue'  # quarto writes progress to stderr; don't abort on it
 $proj   = $PSScriptRoot
 $quarto = 'C:\Users\mk7ma\AppData\Local\Programs\quarto\bin\quarto.exe'
 if (-not (Test-Path $quarto)) { $quarto = 'quarto' }
