@@ -1,0 +1,69 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Minku Kang"
+  description: "Minku Kang (강민구) — preventive medicine physician, epidemiologist, and health policy researcher."
+  site-url: "https://minku93.github.io"
+  favicon: images/profile.jpg
+  reader-mode: false
+  navbar:
+    pinned: true
+    background: light
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "CV"
+        href: cv.qmd
+      - text: "Research"
+        menu:
+          - text: "Research projects & grants"
+            href: research.qmd
+          - text: "Publications"
+            href: publications.qmd
+      - text: "Teaching"
+        menu:
+          - text: "Teaching"
+            href: teaching.qmd
+          - text: "What is preventive medicine?"
+            href: teaching-prevmed.qmd
+      - text: "Media"
+        href: media.qmd
+      - text: "한국어"
+        menu:
+          - text: "약력 (한국어)"
+            href: korean.qmd
+          - text: "인터뷰"
+            href: interview.qmd
+          - text: "일상"
+            href: life.qmd
+      - text: "Contact"
+        href: contact.qmd
+    right:
+      - text: "Scholar"
+        href: "https://scholar.google.com/citations?user=BUn--4YAAAAJ"
+        target: _blank
+      - text: "ORCID"
+        href: "https://orcid.org/0000-0002-7226-8159"
+        target: _blank
+      - icon: linkedin
+        href: "https://www.linkedin.com/in/kangminku/"
+        target: _blank
+      - icon: envelope
+        href: "mailto:minku93@korea.ac.kr"
+  page-footer:
+    border: true
+    left: "© 2026 Minku Kang"
+    center: "Seoul, Republic of Korea"
+    right: "Built with [Quarto](https://quarto.org)"
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    anchor-sections: true

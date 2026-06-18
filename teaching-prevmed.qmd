@@ -1,0 +1,174 @@
+---
+title: "What is preventive medicine?"
+toc: true
+toc-depth: 3
+---
+
+**Source:** [https://www.theabpm.org/become-certified/exam-content/preventive-medicine-core-content-outline/](https://www.theabpm.org/become-certified/exam-content/preventive-medicine-core-content-outline/)
+
+## I. Clinical Preventive Medicine 25%
+
+Knowledge and skills that enable preventive medicine practitioners to:
+
+- Perform/obtain comprehensive individual health history, including but not limited to lifestyle, occupation, environmental exposures, hobbies, social determinants of health, sexual health, complementary and alternative therapies.
+- Assess individual's health risks based on personal, family, and exposure history, lifestyle choices, and other risk factors.
+- Provide evidence-based guidance, advice and/or interventions to modify, mitigate, and/or eliminate risks in order to improve health outcomes and functional status.
+- Assess individuals using current standards and guidelines to determine suitability for duty, return to work, school, play/leisure, travel or other essential life activities.
+
+## II. Public Health/Population Health Medicine 25%
+
+Knowledge and skills that enable preventive medicine practitioners to:
+
+- Perform population or community health assessment (including defining health questions, collecting, organizing, analyzing and interpreting data) to determine potential relationships, correlations, and/or causations between factors and variables related to health outcomes.
+- Develop and communicate policies, guidance, advice and/or interventions to various audiences (e.g., the public, organizations, media, government, publication) to modify, mitigate, and/or eliminate risks in order to improve health outcomes.
+- Develop assurance plan including implementation, monitoring, and surveillance recommendations in collaboration with relevant stakeholders (e.g., policy makers, community leaders, business leaders, union representatives, military leaders).
+
+## III. Epidemiology, Biostatistics, and Informatics 20%
+
+Knowledge and skills that enable preventive medicine practitioners to:
+
+- Engage in the design of scientifically valid studies to answer questions or address defined hypothesis.
+- Interpret and critically review research methodology and integrate study results into a scientifically sound narrative to develop conclusions and/or inform next steps.
+- Gather, extract, evaluate, and synthesize data and information from diverse sources to inform decisions related to both population and individual health.
+- Communicate scientific knowledge through memos, presentations, posters, articles, media, or other methods to inform stakeholders (e.g., decision-makers, peers, and the public).
+
+## IV. Environmental Medicine 15%
+
+Knowledge and skills that enable preventive medicine practitioners to:
+
+- Perform comprehensive evaluation of the environment to identify risks to which individuals or populations are exposed.
+- Develop and implement plans to mitigate, manage, and/or treat individual and population health risks related to environmental factors.
+- Develop and inform environmental policies and regulations related to the protection of human health.
+- Develop incident management and response plans in collaboration with physician and non-physician professionals.
+- Develop and/or advocate for wellness and lifestyle initiatives to address health issues and health disparities arising from environmental conditions.
+
+## V. Strategic Healthcare Leadership 15%
+
+Knowledge and skills that enable preventive medicine practitioners to:
+
+- Participate in organizational governance supporting the formulation, implementation, and evaluation of health strategy.
+- Participate in quality improvement programs/processes within the organization to improve health outcomes.
+- Evaluate health and/or safety initiatives and programs to determine the efficacy and recommend modifications.
+- Comply with applicable standards and regulations.
+
+## I. Clinical Preventive Medicine
+
+1. **1.01** Risk factors, signs, symptoms, and approaches to prevention related to physical, mental, and behavioral diseases and disorders, including:
+   1. **1.01.01.** Cardiovascular diseases (e.g., peripheral vascular disease, hypertension, Coronary Artery Disease, lipid disorders)
+   2. **1.01.02.** Respiratory diseases (e.g., COPD, asthma, obstructive sleep apnea, pneumoconiosis)
+   3. **1.01.03.** Neoplastic diseases (e.g., colorectal, breast, prostate, leukemia, skin)
+   4. **1.01.04.** Infectious diseases (e.g., STDs, blood borne, zoonotic, parasites, TB, hepatitis, HIV, herpes-zoster, measles, pertussis, Ebola)
+   5. **1.01.05.** Metabolic disorders and nutrition (e.g., metabolic syndrome, diabetes, thyroid disorder, chronic kidney disease, gout)
+   6. **1.01.06.** Musculoskeletal disorders (e.g., spinal pathology including degenerative joint, disc and facet disease, impingement syndrome)
+   7. **1.01.07.** Neurological disorders (e.g., Traumatic brain injury, syncope, CVA, GBS, multiple sclerosis, migraine, occipital neuralgia, trigeminal neuralgia, sensory neural hearing loss, radiculopathy, spinal stenosis)
+   8. **1.01.08.** Oral health, vision and hearing disorders (e.g., dental caries, periodontal disease, oral cancer; refractive error, glaucoma, cataracts, retinal disorders-macular degeneration, diabetic retinopathy; hearing loss, tinnitus)
+   9. **1.01.09** Reproductive health disorders (e.g., menstrual disorders, preconception care, family planning, ovarian cancer, cervical cancer, uterine cancer)
+   10. **1.01.10.** Dermatological conditions (e.g., melanoma, herpes, impetigo)
+   11. **1.01.11.** Substance use disorders (e.g., opioid addiction, illicit drug use, alcohol, tobacco)
+   12. **1.01.12.** Psychiatric and behavioral disorders (e.g., depression, anxiety, schizophrenia, post-traumatic stress disorder (PTSD), somatoform disorders, ADHD)
+2. **1.02.** Elements of a comprehensive health assessment and medical history (e.g., immunizations, sleep, hygiene, physical fitness, diet, substance use, travel history, occupation, environmental exposures, hobbies, determinants of health, sexual health, complementary and alternative therapies, supplements)
+3. **1.03.** Personal preventive plans
+4. **1.04.** Appropriate screening methods published by organizations (e.g., USPSTF, American Cancer Society, CDC, medical professional societies)
+5. **1.05.** Lifestyle modification, wellness programs, and nutritional approaches to the prevention of diseases and disorders
+6. **1.06.** Maternal and child health (e.g., hazardous exposures for women of childbearing age, supplement use [including folic acid], gestational diabetes, genetic screening and counseling)
+7. **1.07.** Genetics and genetic risk factors
+8. **1.08.** Social determinants of health
+9. **1.09.** Use of immunizations (efficacy, administration considerations, potential interactions, risks, special considerations)
+10. **1.10.** Current standards and guidelines regarding determining suitability for duty, return to work, school, play/leisure, travel or other essential life activities (e.g., FAA criteria, ACOEM practice guidelines, ODG, CDC infections disease guidelines, concussion protocols)
+11. **1.11.** Complementary and alternative medicine
+
+## II. Public Health/Population Health and Medicine
+
+1. **2.01.** Community/population transmissible disease concepts (e.g., immunization, herd immunity, disease transmission)
+2. **2.02.** Population density and its effects (e.g., schools, refugee camps, prisons)
+3. **2.03.** Considerations for screening method selection for specific communities, populations, or special groups
+4. **2.04.** Behavioral economics and behavioral change models (e.g., incentivizing health policy, stages of changes, PRECEDE-PROCEED)
+5. **2.05.** Social and economic factors impacting health (e.g., family and social support, community safety, income, employment)
+6. **2.06.** Considerations regarding access to care and quality of care (e.g., affordability, quality metrics, value-based metrics, efficacy and cost considerations, social norms and beliefs associated with access to care)
+7. **2.07.** Population-level interventions to improve health behaviors (e.g., tobacco use, diet and exercise, alcohol and drug use, safe sex practices)
+8. **2.08.** Health system approach to chronic disease management and chronic disease model
+9. **2.09.** High risk vs total population interventions
+10. **2.10.** Health education and promotion theories and models
+11. **2.11.** Health literacy
+12. **2.12.** Health disparities and health equity
+13. **2.13.** Community engagement strategies and advocacy
+14. **2.14.** Population-level data sources (e.g., NHANES, NHIS, BRFSS, CMS, DOL, WHO, World Data, Robert Wood Johnson Foundation)
+15. **2.15.** Considerations for surveillance method selection and plan development for specific communities, populations, or special groups
+16. **2.16.** Ethical concepts and principles related to public health and population medicine
+17. **2.17.** Legal concepts, principles, cases and legislation related to public health and population medicine
+18. **2.18.** Communication management techniques
+
+## III. Epidemiology, Biostatistics and Informatics
+
+1. **3.01. Design and Methods**
+   1. **3.01.01.** Data sources and structures
+   2. **3.01.02.** Study and research design
+   3. **3.01.03.** Biases and control measures
+   4. **3.01.04.** Methods for controlling for confounding variables
+   5. **3.01.05.** Methods to communicate research findings and disseminate information
+2. **3.02. Statistical Analysis and Interpretation**
+   1. **3.02.01.** Measures of central tendency
+   2. **3.02.02.** Tests of significance
+   3. **3.02.03.** Probability
+   4. **3.02.04.** Hypothesis testing
+   5. **3.02.05.** Type I and type II errors
+   6. **3.02.06.** Confidence intervals
+   7. **3.02.07.** Power
+   8. **3.02.08.** Sample size
+   9. **3.02.09.** Correlation
+   10. **3.02.10.** Causation and association
+   11. **3.02.11.** Strength of evidence
+   12. **3.02.12.** Measurement of effect
+   13. **3.02.13.** Multivariate analysis
+   14. **3.02.14.** Multiple regression
+   15. **3.02.15.** Survival analysis
+   16. **3.02.16.** Meta-analysis
+   17. **3.02.17.** Outcome measures (e.g., number needed to treat, number needed to harm, effective dose, overall survival, quality-adjusted life years)
+   18. **3.02.18.** Tests of clinical significance
+   19. **3.02.19.** Tests of statistical significance
+   20. **3.02.20.** Decision analysis processes, methods, and tools (e.g., decision trees, modeling, ROC curves, Bayesian)
+   21. **3.02.21.** Principles related to systematic review
+3. **3.03. Vital Statistics and Demographics**
+   1. **3.03.01.** Rates and measures (e.g., infant and maternal mortality rates, surrogate markers, incidence versus prevalence)
+   2. **3.03.02.** Trend analysis (e.g., cluster, typical versus atypical, endemics, epidemics, and pandemics)
+4. **3.04. Prevention and Control**
+   1. **3.04.01.** Active and passive disease surveillance tools and methods
+   2. **3.04.02.** Screening tests (e.g., specificity v. sensitivity, positive v. negative predictive value)
+   3. **3.04.03.** Outbreak investigation and intervention
+5. **3.05. Informatics**
+   1. **3.05.01.** Fundamental informatics concepts, models, and theories
+   2. **3.05.02** Data mining methods and techniques
+   3. **3.05.03.** Information resources (e.g., databases and registries, OSHA, CDC Yellow Book, EPA)
+   4. **3.05.04.** Electronic health records, including order entry, use in decision support, user interfaces, patient portals, information sharing, health information exchanges
+
+## IV. Environmental Medicine
+
+1. **4.01.** Physiology and physiological changes related to specific environments/activities (e.g., workplace, commercial air travel, recreational diving mountain climbing)
+2. **4.02.** Environmental agents, including chemical, biological, radiological, nuclear, explosive, and other agents
+3. **4.03.** Environmental factors related to community health (e.g., air and water quality, sanitation, heat and cold stress, food safety, household and workplace injuries, noise)
+4. **4.04.** Environmental considerations regarding social determinants of health
+5. **4.05.** Industrial hygiene principles, methods, tools, and techniques (e.g., exposure dose, noise, radiation, ergonomics, repetitive motion)
+6. **4.06.** Surveillance methods (monitor, control, and prevent) for infectious diseases
+7. **4.07.** Principles and activities related to quarantine procedures
+8. **4.08.** Principles related to interaction of exposures and individuals (e.g., toxicokinetic, toxicodynamic)
+9. **4.09.** Principles and regulations and guidelines related to levels of exposure (e.g., PEL, TLV, STEL, REL)
+10. **4.10.** Health conditions related to environmental factors of natural and/or man-made disasters (e.g., climate change, war, migration, resettlement)
+11. **4.11.** Disaster planning and management models and policies (e.g., National Incident Management System (NIMS), Stafford Act, Defense Support to Civil Authorities, National Guards)
+12. **4.12.** Methods for hazard control (e.g., engineering, administrative, personal protective measures)
+13. **4.13.** Methods to assess, manage, and communicate environmental risk
+14. **4.14.** General scope and impact of major environmental regulations (e.g., Clean Air Act, Clean Water Act, Safe Drinking Water Act) on health and environmental medicine
+
+## V. Strategic Healthcare Leadership
+
+1. **5.01.** Health care delivery systems and governance structures
+2. **5.02.** Health care financing and reimbursement systems (e.g., Medicare, insurance, alternative payment methods)
+3. **5.03.** Healthcare economics concepts
+4. **5.04.** Leadership principles
+5. **5.05.** Interprofessional collaboration principles
+6. **5.06.** Safety considerations (patient and personal)
+7. **5.07.** Frameworks for program evaluation (e.g., CDC, AHRQ)
+8. **5.08.** Organizational effectiveness principles
+9. **5.09.** Strategic planning and policy development
+10. **5.10.** Contingency planning
+11. **5.11.** Quality and process improvement methods, tools, and strategies
+12. **5.12.** Applicable standards and regulations (e.g., Patient protection and affordable care act, Americans with Disabilities Act, HIPAA)

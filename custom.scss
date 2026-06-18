@@ -1,0 +1,40 @@
+/*-- scss:defaults --*/
+// Paula-Moraga-style design tokens
+$font-family-sans-serif: "Source Sans 3", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif !default;
+$body-color:   #343a40 !default;   // soft dark slate (not pure black)
+$link-color:   #2761e3 !default;   // single blue accent
+$primary:      #2761e3 !default;
+$navbar-bg:    #f8f9fa !default;
+$navbar-fg:    #545555 !default;
+$border-color: #dee2e6 !default;
+$body-font-size: 1rem !default;
+
+/*-- scss:rules --*/
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,600;1,400;1,600&display=swap');
+
+body { line-height: 1.6; }
+
+// keep a comfortable reading measure
+main.content { max-width: 51rem; }
+
+h1, h2, h3, h4 { font-weight: 600; }
+h2 { margin-top: 2rem; margin-bottom: 1rem; }
+
+a:hover { color: #1f4eb6; }
+
+.navbar { border-bottom: 1px solid $border-color; }
+
+// trestles about-page: subtle divider + tidy links (mirrors paulamoraga.com)
+.quarto-about-trestles .about-entity .about-link {
+  border: 1px solid #ced4da;
+  color: #495057;
+  border-radius: 6px;
+  padding: 6px 12px;
+  margin: 4px;
+}
+.quarto-about-trestles .about-entity .about-link:hover { color: #2761e3; border-color: #2761e3; }
+.quarto-about-trestles .about-contents { border-left: 1px solid $border-color; }
+
+// simple photo gallery (일상)
+.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 12px; }
+.gallery img { width: 100%; height: 100%; object-fit: cover; border-radius: 6px; }
