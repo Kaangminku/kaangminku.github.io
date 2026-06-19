@@ -1,5 +1,6 @@
 ---
-title: "일상: 취향, 철학, 건강"
+title: "취미생활"
+subtitle: "취향 · 철학 · 건강"
 toc: true
 toc-depth: 3
 ---

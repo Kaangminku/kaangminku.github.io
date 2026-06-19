@@ -14,32 +14,28 @@ website:
     left:
       - text: "Home"
         href: index.qmd
+      - text: "Preventive Medicine"
+        href: teaching-prevmed.qmd
       - text: "CV"
         href: cv.qmd
       - text: "Research"
-        menu:
-          - text: "Research projects & grants"
-            href: research.qmd
-          - text: "Publications"
-            href: publications.qmd
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
       - text: "Teaching"
-        menu:
-          - text: "Teaching"
-            href: teaching.qmd
-          - text: "What is preventive medicine?"
-            href: teaching-prevmed.qmd
+        href: teaching.qmd
       - text: "Media"
         href: media.qmd
+      - text: "Contact"
+        href: contact.qmd
       - text: "한국어"
         menu:
-          - text: "약력 (한국어)"
+          - text: "약력"
             href: korean.qmd
           - text: "인터뷰"
             href: interview.qmd
-          - text: "일상"
+          - text: "취미생활"
             href: life.qmd
-      - text: "Contact"
-        href: contact.qmd
     right:
       - text: "Scholar"
         href: "https://scholar.google.com/citations?user=BUn--4YAAAAJ"
