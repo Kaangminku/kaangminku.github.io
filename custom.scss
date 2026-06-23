@@ -15,8 +15,8 @@ $font-family-sans-serif: "Helvetica Neue", "Helvetica", "Arimo", Arial, "Apple S
 
 $body-bg:               $white;
 $body-color:            $ink;
-$font-size-base:        1.0625rem;   // 17px (Paula)
-$line-height-base:      1.5;
+$font-size-base:        0.9375rem;   // 15px (reduced from 17px — overall smaller)
+$line-height-base:      1.55;
 $body-secondary-color:  $gray;
 $border-color:          $hairline;
 
@@ -40,7 +40,7 @@ $navbar-light-bg:           $white;
 $navbar-light-color:        $ink;
 $navbar-light-hover-color:  $gray;
 $navbar-light-active-color: $ink;
-$nav-link-font-size:        1rem;
+$nav-link-font-size:        0.85rem;
 
 /*-- scss:rules --*/
 
