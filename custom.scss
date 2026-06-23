@@ -1,143 +1,165 @@
 /*-- scss:defaults --*/
 
-// ===== Editorial Mono =====
-// Synthesized from famous designer/fashion/academic portfolios (The Row, Jil Sander,
-// Pentagram, Klim, Paco Coursey, award-winning academic sites): ONE Helvetica-family
-// grotesque, strict black-and-white, hierarchy by size + weight + whitespace only,
-// uppercase tracked micro-labels, hairline rules, grayscale imagery.
+// ===== Editorial Mono · 2026 =====
+// Strict black-and-white editorial portfolio. ONE Helvetica-family grotesque
+// (Arimo = metric-compatible Helvetica/Arial clone, loaded for cross-device unity),
+// hierarchy by size + weight + whitespace only, numbered section eyebrows,
+// fluid display type, hairline rules, grayscale imagery, restrained motion.
 
-$ink:       #111111;   // near-black (softer than pure #000)
+$ink:       #0e0e0e;   // near-black
 $gray:      #6b6b6b;   // secondary: venue, year, captions
 $gray-2:    #9a9a9a;   // hover / hints
-$hairline:  #e4e4e4;   // 1px rules
+$hairline:  #e6e6e6;   // 1px rules
 $white:     #ffffff;
 
-// Helvetica-family stack; Inter loaded as the cross-platform grotesque fallback
-$font-family-sans-serif: "Helvetica Neue", "Helvetica", "Inter", Arial, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif !default;
+// ONE Helvetica-family stack for the whole site (Arimo loaded as the consistent face)
+$font-family-sans-serif: "Helvetica Neue", "Helvetica", "Arimo", Arial, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif !default;
 
 $body-bg:               $white;
 $body-color:            $ink;
 $font-size-base:        1.0625rem;   // 17px
-$line-height-base:      1.6;
+$line-height-base:      1.65;
 $font-weight-base:      400;
 $body-secondary-color:  $gray;
 $border-color:          $hairline;
 
-// Links: monochrome; hover goes LIGHTER (Paco-style inverted hover) — no accent color
 $link-color:        $ink;
 $link-decoration:   none;
-$link-hover-color:  $gray;
+$link-hover-color:  $ink;
 
-// Headings: weight 600 (never 700); hierarchy by size + space
 $headings-font-family: $font-family-sans-serif;
 $headings-color:       $ink;
-$headings-font-weight: 600;
-$headings-line-height: 1.2;
-$h1-font-size: 2.6rem;
-$h2-font-size: 0.8rem;     // small UPPERCASE section label (set in rules)
-$h3-font-size: 1.2rem;
+$headings-font-weight: 700;
+$headings-line-height: 1.08;
+$h1-font-size: 3.2rem;
+$h2-font-size: 0.78rem;
+$h3-font-size: 1.25rem;
 $h4-font-size: 1rem;
 $h5-font-size: 0.95rem;
 
-// Navbar
 $navbar-light-bg:           $white;
 $navbar-light-color:        $ink;
 $navbar-light-hover-color:  $gray;
 $navbar-light-active-color: $ink;
-$nav-link-font-size:        0.75rem;
+$nav-link-font-size:        0.74rem;
 
 /*-- scss:rules --*/
 
-@import url('https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,500;0,700;1,400&display=swap');
 
 body {
-  letter-spacing: -0.011em;
+  letter-spacing: -0.012em;
   -webkit-font-smoothing: antialiased;
   text-rendering: optimizeLegibility;
 }
 ::selection { background: $ink; color: $white; text-shadow: none; }
 
-// ---- One calm reading measure, generous air ----
+// ---- Calm reading measure, generous air ----
 main.content {
-  max-width: 46rem;
-  padding-top: 3rem;
-  padding-bottom: 5rem;
+  max-width: 47rem;
+  padding-top: 3.5rem;
+  padding-bottom: 6rem;
+  counter-reset: section;
+  animation: riseIn 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
 }
+@keyframes riseIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+@media (prefers-reduced-motion: reduce) { main.content { animation: none; } }
 
-// ---- Hero / page title ----
+// ---- Hero / page title: fluid display type, statement scale ----
 h1.title {
-  font-weight: 600;
-  font-size: 2.6rem;
-  letter-spacing: -0.022em;
-  line-height: 1.12;
-  margin-bottom: 0.4rem;
+  font-weight: 700;
+  font-size: clamp(2.4rem, 1.1rem + 3.4vw, 3.6rem);
+  letter-spacing: -0.035em;
+  line-height: 1.0;
+  margin-bottom: 0.5rem;
 }
 .subtitle, .quarto-title .subtitle {
   text-transform: uppercase;
-  letter-spacing: 0.14em;
-  font-size: 0.8rem;
+  letter-spacing: 0.16em;
+  font-size: 0.78rem;
   font-weight: 500;
   color: $gray;
-  margin-top: 0.7rem;
+  margin-top: 0.8rem;
 }
 
-// ---- Section heads = small uppercase tracked label + ink top rule (the "eyebrow") ----
+// ---- Numbered section eyebrows: "01  SECTION" + ink top rule ----
 main.content h2 {
+  counter-increment: section;
+  display: flex;
+  align-items: baseline;
+  gap: 0.9rem;
   text-transform: uppercase;
-  letter-spacing: 0.14em;
-  font-size: 0.8rem;
-  font-weight: 600;
+  letter-spacing: 0.16em;
+  font-size: 0.78rem;
+  font-weight: 700;
   color: $ink;
   border-top: 1px solid $ink;
-  padding-top: 0.7rem;
-  margin-top: 3.25rem;
-  margin-bottom: 1.1rem;
+  padding-top: 0.75rem;
+  margin-top: 3.75rem;
+  margin-bottom: 1.25rem;
+}
+main.content h2::before {
+  content: counter(section, decimal-leading-zero);
+  font-weight: 400;
+  letter-spacing: 0.02em;
+  color: $gray;
 }
 main.content h3 {
-  font-size: 1.2rem;
-  font-weight: 600;
-  letter-spacing: -0.01em;
-  margin-top: 1.9rem;
+  font-size: 1.25rem;
+  font-weight: 700;
+  letter-spacing: -0.018em;
+  margin-top: 2rem;
   margin-bottom: 0.6rem;
 }
-main.content h4 { font-weight: 600; margin-top: 1.4rem; }
+main.content h4 { font-weight: 700; margin-top: 1.5rem; letter-spacing: -0.01em; }
 
-p, li { letter-spacing: -0.006em; }
-main.content a:hover { color: $gray; }
+p, li { letter-spacing: -0.008em; }
+
+// ---- Prose links: animated underline draws in on hover (no layout shift) ----
+main.content p a, main.content li a {
+  color: $ink;
+  background-image: linear-gradient($ink, $ink);
+  background-size: 0% 1px;
+  background-repeat: no-repeat;
+  background-position: left 95%;
+  transition: background-size 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+}
+main.content p a:hover, main.content li a:hover { background-size: 100% 1px; color: $ink; }
 
 // ---- Navbar: thin, frosted, name-as-logo, uppercase tracked links ----
 .navbar {
-  background: rgba(255, 255, 255, 0.82) !important;
-  backdrop-filter: saturate(180%) blur(12px);
-  -webkit-backdrop-filter: saturate(180%) blur(12px);
+  background: rgba(255, 255, 255, 0.78) !important;
+  backdrop-filter: saturate(180%) blur(14px);
+  -webkit-backdrop-filter: saturate(180%) blur(14px);
   border-bottom: 1px solid $hairline;
-  padding-top: 0.85rem;
-  padding-bottom: 0.85rem;
+  padding-top: 0.9rem;
+  padding-bottom: 0.9rem;
 }
 .navbar .navbar-title, .navbar .navbar-brand {
   text-transform: uppercase;
-  letter-spacing: 0.17em;
-  font-weight: 600;
-  font-size: 0.85rem;
+  letter-spacing: 0.22em;
+  font-weight: 700;
+  font-size: 0.84rem;
 }
 .navbar .nav-link {
   text-transform: uppercase;
-  letter-spacing: 0.13em;
+  letter-spacing: 0.14em;
   font-weight: 400;
   padding-left: 0.85rem;
   padding-right: 0.85rem;
-  transition: color 0.15s ease;
+  transition: color 0.15s ease, opacity 0.15s ease;
 }
+.navbar .nav-link:hover { opacity: 0.55; }
 
-// ---- About / trestles: airy, no divider, grayscale square portrait ----
-.quarto-about-trestles { gap: 3.25rem; }
+// ---- About / trestles: airy, no divider, larger grayscale square portrait ----
+.quarto-about-trestles { gap: 3.5rem; padding-top: 2rem; }
 .quarto-about-trestles .about-entity { text-align: left; }
 .quarto-about-trestles .about-contents { border-left: none; padding-left: 0; }
 
 img.round {
-  filter: grayscale(100%);
+  filter: grayscale(100%) contrast(1.03);
   border-radius: 0;
-  transition: filter 0.45s ease;
+  transition: filter 0.5s ease;
 }
 img.round:hover { filter: grayscale(0%); }
 
@@ -148,50 +170,69 @@ img.round:hover { filter: grayscale(0%); }
   border-bottom: 1px solid $ink;
   border-radius: 0;
   color: $ink;
-  padding: 0.1rem 0;
-  margin: 0 1.1rem 0.5rem 0;
+  padding: 0.12rem 0;
+  margin: 0 1.2rem 0.55rem 0;
   text-transform: uppercase;
-  letter-spacing: 0.1em;
-  font-size: 0.7rem;
-  transition: color 0.15s ease, border-color 0.15s ease;
+  letter-spacing: 0.12em;
+  font-size: 0.68rem;
+  transition: opacity 0.15s ease;
 }
-.about-links .about-link:hover { color: $gray; border-bottom-color: $gray; }
+.about-links .about-link:hover { opacity: 0.5; }
 
 // ---- Right "On this page" TOC: quiet ----
 #quarto-margin-sidebar .nav-link {
-  font-size: 0.72rem;
-  letter-spacing: 0.02em;
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
   color: $gray;
 }
-#quarto-margin-sidebar .nav-link:hover { color: $ink; }
+#quarto-margin-sidebar .nav-link:hover,
+#quarto-margin-sidebar .nav-link.active { color: $ink; }
 
 // ---- Footer: hairline, quiet, tracked ----
 .nav-footer {
   border-top: 1px solid $hairline;
-  font-size: 0.78rem;
+  font-size: 0.74rem;
   color: $gray;
-  letter-spacing: 0.04em;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
 }
 
 // ---- Kill card/box chrome anywhere ----
 .card, .quarto-grid-item { box-shadow: none !important; }
 
+// ---- collapsible <details> (used on Teaching): minimal, no box ----
+details > summary {
+  cursor: pointer;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  font-size: 0.72rem;
+  color: $gray;
+  padding: 0.4rem 0;
+  border-top: 1px solid $hairline;
+  list-style: none;
+}
+details > summary::-webkit-details-marker { display: none; }
+details > summary::before { content: "+ "; color: $gray; }
+details[open] > summary::before { content: "– "; }
+details > summary:hover { color: $ink; }
+
 // ---- Gallery photo grid: grayscale -> color on hover ----
 .gallery {
   display: grid;
   grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 1rem;
+  gap: 1.1rem;
 }
 .gallery img {
   width: 100%;
   height: 100%;
   object-fit: cover;
   filter: grayscale(100%);
-  transition: filter 0.5s ease;
+  transition: filter 0.5s ease, transform 0.5s ease;
 }
 .gallery img:hover { filter: grayscale(0%); }
 
 @media (max-width: 768px) {
-  h1.title { font-size: 2.1rem; }
   main.content { padding-top: 1.5rem; }
+  .navbar .navbar-title { letter-spacing: 0.16em; }
 }
