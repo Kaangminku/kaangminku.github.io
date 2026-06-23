@@ -1,238 +1,98 @@
 /*-- scss:defaults --*/
 
-// ===== Editorial Mono · 2026 =====
-// Strict black-and-white editorial portfolio. ONE Helvetica-family grotesque
-// (Arimo = metric-compatible Helvetica/Arial clone, loaded for cross-device unity),
-// hierarchy by size + weight + whitespace only, numbered section eyebrows,
-// fluid display type, hairline rules, grayscale imagery, restrained motion.
+// ===== Mono Helvetica over Paula-Moraga proportions =====
+// Adopt paulamoraga.com's balanced type scale & trestles layout (body 17px;
+// h1 2x / h2 1.65x / h3 1.45x, all weight 600; line-height 1.5; 42% sidebar +
+// 1px content divider; round photo), skinned strictly black-and-white in a
+// Helvetica-family font (Arimo). No uppercase nav, no oversized hero, no numbering.
 
-$ink:       #0e0e0e;   // near-black
-$gray:      #6b6b6b;   // secondary: venue, year, captions
-$gray-2:    #9a9a9a;   // hover / hints
-$hairline:  #e6e6e6;   // 1px rules
+$ink:       #1a1a1a;
+$gray:      #6b6b6b;
+$hairline:  #dee2e6;
 $white:     #ffffff;
 
-// ONE Helvetica-family stack for the whole site (Arimo loaded as the consistent face)
 $font-family-sans-serif: "Helvetica Neue", "Helvetica", "Arimo", Arial, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif !default;
 
 $body-bg:               $white;
 $body-color:            $ink;
-$font-size-base:        1.0625rem;   // 17px
-$line-height-base:      1.65;
-$font-weight-base:      400;
+$font-size-base:        1.0625rem;   // 17px (Paula)
+$line-height-base:      1.5;
 $body-secondary-color:  $gray;
 $border-color:          $hairline;
 
 $link-color:        $ink;
 $link-decoration:   none;
-$link-hover-color:  $ink;
+$link-hover-color:  $gray;
 
+// Balanced heading scale, matched to paulamoraga.com (relative to 17px base)
 $headings-font-family: $font-family-sans-serif;
 $headings-color:       $ink;
-$headings-font-weight: 700;
-$headings-line-height: 1.08;
-$h1-font-size: 3.2rem;
-$h2-font-size: 0.78rem;
-$h3-font-size: 1.25rem;
-$h4-font-size: 1rem;
-$h5-font-size: 0.95rem;
+$headings-font-weight: 600;
+$headings-line-height: 1.2;
+$h1-font-size: $font-size-base * 2;       // 34px
+$h2-font-size: $font-size-base * 1.65;    // ~28px
+$h3-font-size: $font-size-base * 1.45;    // ~25px
+$h4-font-size: $font-size-base * 1.25;    // ~21px
+$h5-font-size: $font-size-base * 1.1;
 
+// Navbar: simple, normal case (like Paula), same size feel as body
 $navbar-light-bg:           $white;
 $navbar-light-color:        $ink;
 $navbar-light-hover-color:  $gray;
 $navbar-light-active-color: $ink;
-$nav-link-font-size:        0.74rem;
+$nav-link-font-size:        1rem;
 
 /*-- scss:rules --*/
 
-@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,500;0,700;1,400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
 
-body {
-  letter-spacing: -0.012em;
-  -webkit-font-smoothing: antialiased;
-  text-rendering: optimizeLegibility;
-}
+body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
 ::selection { background: $ink; color: $white; text-shadow: none; }
 
-// ---- Calm reading measure, generous air ----
-main.content {
-  max-width: 47rem;
-  padding-top: 3.5rem;
-  padding-bottom: 6rem;
-  counter-reset: section;
-  animation: riseIn 0.6s cubic-bezier(0.22, 1, 0.36, 1) both;
-}
-@keyframes riseIn { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
-@media (prefers-reduced-motion: reduce) { main.content { animation: none; } }
+// Headings: comfortable vertical rhythm (no eyebrow labels, no numbering)
+h1, h2, h3, h4 { letter-spacing: -0.01em; }
+.subtitle, .quarto-title .subtitle { color: $gray; font-weight: 400; }
 
-// ---- Hero / page title: fluid display type, statement scale ----
-h1.title {
-  font-weight: 700;
-  font-size: clamp(2.4rem, 1.1rem + 3.4vw, 3.6rem);
-  letter-spacing: -0.035em;
-  line-height: 1.0;
-  margin-bottom: 0.5rem;
-}
-.subtitle, .quarto-title .subtitle {
-  text-transform: uppercase;
-  letter-spacing: 0.16em;
-  font-size: 0.78rem;
-  font-weight: 500;
-  color: $gray;
-  margin-top: 0.8rem;
-}
+main.content h2 { margin-top: 2.5rem; margin-bottom: 1rem; }
+main.content h3 { margin-top: 1.75rem; margin-bottom: 0.6rem; }
 
-// ---- Numbered section eyebrows: "01  SECTION" + ink top rule ----
-main.content h2 {
-  counter-increment: section;
-  display: flex;
-  align-items: baseline;
-  gap: 0.9rem;
-  text-transform: uppercase;
-  letter-spacing: 0.16em;
-  font-size: 0.78rem;
-  font-weight: 700;
-  color: $ink;
-  border-top: 1px solid $ink;
-  padding-top: 0.75rem;
-  margin-top: 3.75rem;
-  margin-bottom: 1.25rem;
-}
-main.content h2::before {
-  content: counter(section, decimal-leading-zero);
-  font-weight: 400;
-  letter-spacing: 0.02em;
-  color: $gray;
-}
-main.content h3 {
-  font-size: 1.25rem;
-  font-weight: 700;
-  letter-spacing: -0.018em;
-  margin-top: 2rem;
-  margin-bottom: 0.6rem;
-}
-main.content h4 { font-weight: 700; margin-top: 1.5rem; letter-spacing: -0.01em; }
-
-p, li { letter-spacing: -0.008em; }
-
-// ---- Prose links: animated underline draws in on hover (no layout shift) ----
+// Monochrome links need a visible affordance -> subtle underline in prose
 main.content p a, main.content li a {
-  color: $ink;
-  background-image: linear-gradient($ink, $ink);
-  background-size: 0% 1px;
-  background-repeat: no-repeat;
-  background-position: left 95%;
-  transition: background-size 0.3s cubic-bezier(0.22, 1, 0.36, 1);
+  text-decoration: underline;
+  text-decoration-thickness: 1px;
+  text-underline-offset: 0.16em;
+  text-decoration-color: #c9c9c9;
+  transition: color 0.15s ease, text-decoration-color 0.15s ease;
 }
-main.content p a:hover, main.content li a:hover { background-size: 100% 1px; color: $ink; }
+main.content p a:hover, main.content li a:hover { color: $gray; text-decoration-color: $gray; }
 
-// ---- Navbar: thin, frosted, name-as-logo, uppercase tracked links ----
-.navbar {
-  background: rgba(255, 255, 255, 0.78) !important;
-  backdrop-filter: saturate(180%) blur(14px);
-  -webkit-backdrop-filter: saturate(180%) blur(14px);
-  border-bottom: 1px solid $hairline;
-  padding-top: 0.9rem;
-  padding-bottom: 0.9rem;
-}
-.navbar .navbar-title, .navbar .navbar-brand {
-  text-transform: uppercase;
-  letter-spacing: 0.22em;
-  font-weight: 700;
-  font-size: 0.84rem;
-}
-.navbar .nav-link {
-  text-transform: uppercase;
-  letter-spacing: 0.14em;
-  font-weight: 400;
-  padding-left: 0.85rem;
-  padding-right: 0.85rem;
-  transition: color 0.15s ease, opacity 0.15s ease;
-}
-.navbar .nav-link:hover { opacity: 0.55; }
+// Navbar: hairline divider, name-as-logo, normal case
+.navbar { border-bottom: 1px solid $hairline; }
+.navbar .navbar-title, .navbar .navbar-brand { font-weight: 600; }
+.navbar .nav-link { transition: color 0.15s ease; }
 
-// ---- About / trestles: airy, no divider, larger grayscale square portrait ----
-.quarto-about-trestles { gap: 3.5rem; padding-top: 2rem; }
-.quarto-about-trestles .about-entity { text-align: left; }
-.quarto-about-trestles .about-contents { border-left: none; padding-left: 0; }
-
-img.round {
-  filter: grayscale(100%) contrast(1.03);
-  border-radius: 0;
-  transition: filter 0.5s ease;
-}
+// About / trestles: keep Quarto's default 42% sidebar + 1px content divider.
+// Round grayscale portrait (Paula's shape), restoring colour on hover.
+img.round { filter: grayscale(100%); transition: filter 0.45s ease; }
 img.round:hover { filter: grayscale(0%); }
 
-// ---- About links: plain uppercase tracked, thin underline ----
-.about-links .about-link {
-  background: none;
-  border: none;
-  border-bottom: 1px solid $ink;
-  border-radius: 0;
-  color: $ink;
-  padding: 0.12rem 0;
-  margin: 0 1.2rem 0.55rem 0;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  font-size: 0.68rem;
-  transition: opacity 0.15s ease;
-}
-.about-links .about-link:hover { opacity: 0.5; }
+// About links: monochrome (no blue accent)
+.about-links .about-link { color: $ink; border-color: $hairline; }
+.about-links .about-link:hover { color: $gray; }
 
-// ---- Right "On this page" TOC: quiet ----
-#quarto-margin-sidebar .nav-link {
-  font-size: 0.7rem;
-  letter-spacing: 0.04em;
-  text-transform: uppercase;
-  color: $gray;
-}
+// Right "On this page" TOC: quiet
+#quarto-margin-sidebar .nav-link { color: $gray; }
 #quarto-margin-sidebar .nav-link:hover,
 #quarto-margin-sidebar .nav-link.active { color: $ink; }
 
-// ---- Footer: hairline, quiet, tracked ----
-.nav-footer {
-  border-top: 1px solid $hairline;
-  font-size: 0.74rem;
-  color: $gray;
-  letter-spacing: 0.06em;
-  text-transform: uppercase;
-}
+// Footer: quiet hairline
+.nav-footer { border-top: 1px solid $hairline; color: $gray; font-size: 0.85rem; }
 
-// ---- Kill card/box chrome anywhere ----
-.card, .quarto-grid-item { box-shadow: none !important; }
-
-// ---- collapsible <details> (used on Teaching): minimal, no box ----
-details > summary {
-  cursor: pointer;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  font-size: 0.72rem;
-  color: $gray;
-  padding: 0.4rem 0;
-  border-top: 1px solid $hairline;
-  list-style: none;
-}
-details > summary::-webkit-details-marker { display: none; }
-details > summary::before { content: "+ "; color: $gray; }
-details[open] > summary::before { content: "– "; }
+// Collapsible <details> (Teaching): minimal
+details > summary { cursor: pointer; color: $gray; font-weight: 600; padding: 0.3rem 0; }
 details > summary:hover { color: $ink; }
 
-// ---- Gallery photo grid: grayscale -> color on hover ----
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(auto-fill, minmax(240px, 1fr));
-  gap: 1.1rem;
-}
-.gallery img {
-  width: 100%;
-  height: 100%;
-  object-fit: cover;
-  filter: grayscale(100%);
-  transition: filter 0.5s ease, transform 0.5s ease;
-}
+// Photo gallery: grayscale -> colour on hover
+.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem; }
+.gallery img { width: 100%; height: 100%; object-fit: cover; filter: grayscale(100%); transition: filter 0.5s ease; }
 .gallery img:hover { filter: grayscale(0%); }
-
-@media (max-width: 768px) {
-  main.content { padding-top: 1.5rem; }
-  .navbar .navbar-title { letter-spacing: 0.16em; }
-}
