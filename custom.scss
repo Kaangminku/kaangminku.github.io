@@ -115,7 +115,7 @@ body.mk-home #quarto-content > *{ padding-top:0; }
 .mk-hgrid{ display:grid; grid-template-columns:1fr 300px; gap:clamp(28px,5vw,64px); align-items:start; }
 @media(max-width:860px){ .mk-hgrid{ grid-template-columns:1fr; gap:34px; } }
 
-.mk-name{ font-weight:700; font-size:clamp(2.5rem,5.6vw,4.05rem); line-height:1.0; letter-spacing:-.035em; margin:0; }
+.mk-name{ font-weight:700; font-size:clamp(2.1rem,4.4vw,3.3rem); line-height:1.02; letter-spacing:-.033em; margin:0; }
 .mk-name .mk-kr{ display:block; font-family:"Pretendard","Helvetica Neue",sans-serif; font-weight:500; font-size:.30em; letter-spacing:.02em; color:$muted; margin-top:.7em; }
 .mk-lead{ font-size:clamp(1.16rem,2.1vw,1.5rem); line-height:1.4; letter-spacing:-.012em; max-width:25ch; margin:34px 0 0; font-weight:400; }
 
@@ -145,7 +145,7 @@ body.mk-home #quarto-content > *{ padding-top:0; }
 @media(max-width:720px){ .mk-theme{ grid-template-columns:1fr; gap:6px; } }
 
 .mk-contact{ padding:clamp(46px,6vw,78px) 0 clamp(30px,4vw,40px); }
-.mk-contact .mk-mail{ display:inline-block; font-weight:600; font-size:clamp(1.15rem,2.4vw,1.5rem); letter-spacing:-.015em; border-bottom:1px solid $ink; padding-bottom:3px; margin-top:4px; color:$ink; }
+.mk-contact .mk-mail{ display:inline-block; font-weight:600; font-size:clamp(1.0rem,1.5vw,1.1rem); letter-spacing:-.008em; border-bottom:1px solid $ink; padding-bottom:2px; margin-top:4px; color:$ink; }
 .mk-contact .mk-mail:hover{ color:$muted; border-color:$muted; }
 .mk-links{ display:flex; flex-wrap:wrap; gap:22px; margin-top:28px; }
 .mk-links a{ font-size:13px; color:$muted; border-bottom:1px solid transparent; padding-bottom:2px; }
