@@ -145,7 +145,7 @@ body.mk-home #quarto-content > *{ padding-top:0; }
 @media(max-width:720px){ .mk-theme{ grid-template-columns:1fr; gap:6px; } }
 
 .mk-contact{ padding:clamp(46px,6vw,78px) 0 clamp(30px,4vw,40px); }
-.mk-contact .mk-mail{ display:inline-block; font-weight:600; font-size:clamp(1.0rem,1.5vw,1.1rem); letter-spacing:-.008em; border-bottom:1px solid $ink; padding-bottom:2px; margin-top:4px; color:$ink; }
+.mk-contact .mk-mail{ display:inline-block; font-weight:600; font-size:0.8rem; letter-spacing:0; border-bottom:1px solid $ink; padding-bottom:2px; margin-top:4px; color:$ink; }
 .mk-contact .mk-mail:hover{ color:$muted; border-color:$muted; }
 .mk-links{ display:flex; flex-wrap:wrap; gap:22px; margin-top:28px; }
 .mk-links a{ font-size:13px; color:$muted; border-bottom:1px solid transparent; padding-bottom:2px; }

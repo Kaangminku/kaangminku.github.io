@@ -48,9 +48,8 @@ toc: false
 
 <section class="mk-contact">
 <div class="mk-lbl">Contact</div>
-<a class="mk-mail" href="mailto:minku93@korea.ac.kr">minku93@korea.ac.kr</a>
+<a class="mk-mail" href="mailto:kangminku.kr@gmail.com">kangminku.kr@gmail.com</a>
 <div class="mk-links">
-<a href="mailto:kangminku.kr@gmail.com">kangminku.kr@gmail.com</a>
 <a href="https://scholar.google.com/citations?user=BUn--4YAAAAJ" target="_blank">Google Scholar</a>
 <a href="https://orcid.org/0000-0002-7226-8159" target="_blank">ORCID</a>
 <a href="https://www.researchgate.net/profile/Minku-Kang-2" target="_blank">ResearchGate</a>
