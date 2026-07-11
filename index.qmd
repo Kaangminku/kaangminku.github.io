@@ -1,118 +1,64 @@
 ---
-title: "Minku Kang"
-subtitle: "강민구 · Preventive medicine physician · Epidemiologist · Health policy researcher"
-pagetitle: "Minku Kang"
-about:
-  template: trestles
-  image: images/profile.jpg
-  image-shape: round
-  image-width: 14em
-  links:
-    - text: "Email (academic)"
-      icon: envelope
-      href: "mailto:minku93@korea.ac.kr"
-    - text: "Email (general)"
-      icon: envelope-paper
-      href: "mailto:kangminku.kr@gmail.com"
-    - text: "Google Scholar"
-      icon: mortarboard
-      href: "https://scholar.google.com/citations?user=BUn--4YAAAAJ"
-    - text: "ORCID"
-      icon: person-badge
-      href: "https://orcid.org/0000-0002-7226-8159"
-    - text: "ResearchGate"
-      icon: journal-text
-      href: "https://www.researchgate.net/profile/Minku-Kang-2"
-    - text: "LinkedIn"
-      icon: linkedin
-      href: "https://www.linkedin.com/in/kangminku/"
+pagetitle: "Minku Kang — Preventive medicine physician & health-policy researcher"
+description: "Minku Kang (강민구) — preventive medicine physician, social epidemiologist, and health-policy researcher in Seoul."
+page-layout: full
 toc: false
 ---
 
-## Welcome
+<style>#title-block-header{display:none}</style>
 
-I am a preventive medicine physician dreaming of finding practical solutions to
-real-world inequalities through social epidemiology and public policy, ultimately
-building a cohesive and inclusive society where diverse individuals can thrive
-together in harmony. I received my M.D. and a B.A. in Sociology (with a minor in
-Economics) from Korea University, and I am currently a Ph.D. candidate in Public
-Health while pursuing a Master of Public Policy at the KDI School. I am a
-board-certified preventive medicine physician, currently serving as an
-Epidemiologist and Healthcare Management Officer at the Armed Forces Medical
-Command in the Republic of Korea.
+<div class="mk-wrap">
 
-Through my roles as a Board Member of the Korean Society for Preventive Medicine
-and Vice President of the Korean Association of Preventive Medicine Physicians, as
-well as my past tenure as President of the Korean Intern Resident Association —
-where I contributed to reforming resident working-hour regulations and received a
-commendation from the Minister of Health and Welfare — I have continuously engaged
-in healthcare policy and institutional reform.
+<section class="mk-hero">
+<div class="mk-hgrid">
+<div>
+<h1 class="mk-name">Minku Kang<span class="mk-kr">강민구</span></h1>
+<p class="mk-lead">I study how work, inequality, and social policy shape mental health — and turn the evidence into reform.</p>
+</div>
+<figure class="mk-portrait">
+<img src="images/profile.jpg" alt="Minku Kang">
+<figcaption>Preventive medicine physician<br>Armed Forces Medical Command, Seoul</figcaption>
+</figure>
+</div>
+</section>
 
-[Download CV (PDF)](assets/CV_Minku_Kang_2026.pdf){.btn .btn-outline-primary .btn-sm target="_blank"}
+<section class="mk-about">
+<p>Minku Kang is a preventive medicine physician and social epidemiologist. His research asks how precarious work, long working hours, and inequality translate into poor mental health — and how that evidence can drive institutional reform.</p>
+<p>As president of the Korean Intern Resident Association, he led the national effort to reform resident duty-hour regulations, for which he received a commendation from the Minister of Health and Welfare. He is completing a PhD in Public Health at Korea University and a Master of Public Policy at the KDI School, and serves as an epidemiologist and health-policy officer at the Armed Forces Medical Command.</p>
+</section>
 
-## Biography
+<section class="mk-sec">
+<div class="mk-lbl">Selected work</div>
+<div class="mk-list">
+<a href="research.qmd"><span class="y">2022–25</span><span class="t">Reform of the resident 36-hour consecutive-duty system</span><span class="m">Principal investigator</span></a>
+<a href="research.qmd"><span class="y">2026–</span><span class="t">Determinants of mental health among military personnel</span><span class="m">Principal investigator</span></a>
+<a href="publications.qmd"><span class="y">2023</span><span class="t">Gender inequalities in pandemic-era mental health</span><span class="m">J. Prev. Med. Public Health</span></a>
+<a href="publications.qmd"><span class="y">2026</span><span class="t">National gastrointestinal cancer screening outcomes</span><span class="m">BMJ Open</span></a>
+</div>
+</section>
 
-I graduated from Korea University with an M.D. and a B.A. in Sociology, with a minor
-in Economics. During my undergraduate years, I served as the Vice President of the
-Korea University Student Union, where I actively engaged in university and community
-governance, focusing on youth housing and education policy issues. Following my
-graduation, I completed my medical internship and residency in Preventive Medicine
-at the Korea University Medical Center. Concurrently, I embarked on a Ph.D. program
-in Public Health at Korea University, complemented by a Master of Public Policy (MPP)
-program at the KDI School to build a strong analytical foundation for policy design.
+<section class="mk-sec">
+<div class="mk-lbl">Focus</div>
+<div class="mk-themes">
+<div class="mk-theme"><h3>Preventive medicine</h3><p>Clinical preventive medicine, health-risk assessment, screening and management, population and occupational medicine, lifestyle medicine.</p></div>
+<div class="mk-theme"><h3>Social determinants of health</h3><p>Workplace mental health, suicide prevention, social epidemiology, labour markets, health inequalities, and the neighbourhood environment.</p></div>
+<div class="mk-theme"><h3>Health policy &amp; management</h3><p>Healthcare workers, health systems, and healthcare reform.</p></div>
+</div>
+</section>
 
-During my residency, I became deeply involved in health policy and healthcare
-workforce advocacy. I served as the President of the Korean Intern Resident
-Association (KIRA), where I led efforts to improve working conditions and mental
-health for young doctors. I acted as the Principal Investigator for the national
-study on reforming the 36-hour consecutive duty system, and my efforts contributed
-to crucial reforms in resident working-hour regulations. For these contributions, I
-received a commendation from the Minister of Health and Welfare. I also represented
-Korean junior doctors internationally as a delegate for the World Medical
-Association – Junior Doctors Network (WMA-JDN).
+<section class="mk-contact">
+<div class="mk-lbl">Contact</div>
+<a class="mk-mail" href="mailto:minku93@korea.ac.kr">minku93@korea.ac.kr</a>
+<div class="mk-links">
+<a href="mailto:kangminku.kr@gmail.com">kangminku.kr@gmail.com</a>
+<a href="https://scholar.google.com/citations?user=BUn--4YAAAAJ" target="_blank">Google Scholar</a>
+<a href="https://orcid.org/0000-0002-7226-8159" target="_blank">ORCID</a>
+<a href="https://www.researchgate.net/profile/Minku-Kang-2" target="_blank">ResearchGate</a>
+<a href="https://www.linkedin.com/in/kangminku/" target="_blank">LinkedIn</a>
+<a href="assets/CV_Minku_Kang_2026.pdf" target="_blank">Curriculum Vitae (PDF)</a>
+</div>
+</section>
 
-After obtaining my board certification in Preventive Medicine, I began my military
-service. I am currently serving as an Epidemiologist and Healthcare Management
-Officer at the Armed Forces Medical Command (AFMC). In this capacity, I manage
-public mental health and infectious disease prevention initiatives and lead research
-projects assessing the mental health and healthcare utilization of military
-personnel. Previously, I contributed to public health crisis management at the
-COVID-19 Community Treatment Center in Seoul and served as a visiting researcher at
-the National Center for Mental Health.
+</div>
 
-My primary research lies at the intersection of social epidemiology and social
-policy. I develop methodological and applied research to understand how social
-inequalities — such as precarious employment, long working hours, and area
-deprivation — translate into adverse health and mental health outcomes. My recent
-publications have addressed gender inequalities in mental health during the COVID-19
-pandemic and the impact of national health screening programs. I am currently
-completing my doctoral dissertation, which extensively analyzes working conditions,
-sleep deprivation, and depressive symptoms among Korean medical residents.
-
-Beyond research, I am deeply committed to community medicine and institutional
-reform. I currently serve as a Board Member and the Chairperson of the Future
-Generations Committee for the Korean Society for Preventive Medicine (KSPM), as well
-as the Vice President and Founding Member of the Korean Association of Preventive
-Medicine Physicians (KAPMP). Through these roles, and my participation in multiple
-Ministry of Health and Welfare advisory committees, I continue to strive for
-practical, preventive approaches to resolve structural issues and build a cohesive
-society where diverse individuals can thrive together.
-
-## Areas of interest
-
-**Social determinants of health** — workplace mental health, suicide prevention,
-social epidemiology, labour market, social policy, health inequalities, urban and
-neighbourhood environment
-
-**Preventive medicine** — clinical preventive medicine, health risk assessment,
-health screening and management, population medicine, occupational medicine,
-lifestyle medicine
-
-**Health policy & management** — healthcare workers, health systems, healthcare
-reform
-
-## Current position
-
-**Epidemiologist & Officer (Health Policy and Management)**<br>
-Armed Forces Medical Command, Ministry of National Defense<br>
-May 2025 – Apr 2027
+<script>document.body.classList.add('mk-home');</script>

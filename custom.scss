@@ -1,98 +1,152 @@
 /*-- scss:defaults --*/
 
-// ===== Mono Helvetica over Paula-Moraga proportions =====
-// Adopt paulamoraga.com's balanced type scale & trestles layout (body 17px;
-// h1 2x / h2 1.65x / h3 1.45x, all weight 600; line-height 1.5; 42% sidebar +
-// 1px content divider; round photo), skinned strictly black-and-white in a
-// Helvetica-family font (Arimo). No uppercase nav, no oversized hero, no numbering.
+// ===== B3 "Restrained Helvetica" — strict black & white =====
+// Helvetica-family grotesque (Helvetica Neue → Arimo fallback) + Pretendard (Korean).
+// No accent colour, no decorative labels. Hierarchy by size, weight, whitespace.
 
-$ink:       #1a1a1a;
-$gray:      #6b6b6b;
-$hairline:  #dee2e6;
-$white:     #ffffff;
+$ink:      #111110;
+$muted:    #6b6a66;
+$faint:    #9b9a95;
+$hair:     #e5e4e0;
+$white:    #ffffff;
 
-$font-family-sans-serif: "Helvetica Neue", "Helvetica", "Arimo", Arial, "Apple SD Gothic Neo", "Malgun Gothic", "Segoe UI", sans-serif !default;
+$font-family-sans-serif: "Helvetica Neue", "Helvetica", "Arimo", Arial, "Pretendard", "Apple SD Gothic Neo", sans-serif !default;
 
 $body-bg:               $white;
 $body-color:            $ink;
-$font-size-base:        0.875rem;    // 14px (small — user prefers compact text)
-$line-height-base:      1.55;
-$body-secondary-color:  $gray;
-$border-color:          $hairline;
+$font-size-base:        1rem;          // 16px
+$line-height-base:      1.62;
+$body-secondary-color:  $muted;
+$border-color:          $hair;
 
 $link-color:        $ink;
 $link-decoration:   none;
-$link-hover-color:  $gray;
+$link-hover-color:  $muted;
 
-// Balanced heading scale, matched to paulamoraga.com (relative to 17px base)
 $headings-font-family: $font-family-sans-serif;
 $headings-color:       $ink;
-$headings-font-weight: 600;
+$headings-font-weight: 700;
 $headings-line-height: 1.2;
-$h1-font-size: $font-size-base * 1.6;     // ~22px (was 2x — titles reduced a lot)
-$h2-font-size: $font-size-base * 1.3;     // ~18px
-$h3-font-size: $font-size-base * 1.15;    // ~16px
-$h4-font-size: $font-size-base * 1.05;    // ~15px
-$h5-font-size: $font-size-base * 1.0;
+$h1-font-size: 1.7rem;
+$h2-font-size: 1.32rem;
+$h3-font-size: 1.12rem;
+$h4-font-size: 1.0rem;
+$h5-font-size: 0.9rem;
 
-// Navbar: simple, normal case (like Paula), same size feel as body
 $navbar-light-bg:           $white;
-$navbar-light-color:        $ink;
-$navbar-light-hover-color:  $gray;
+$navbar-light-color:        $muted;
+$navbar-light-hover-color:  $ink;
 $navbar-light-active-color: $ink;
-$nav-link-font-size:        0.8rem;
 
 /*-- scss:rules --*/
 
-@import url('https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap');
+body{ -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; letter-spacing:-0.003em; }
+::selection{ background:$ink; color:$white; }
 
-body { -webkit-font-smoothing: antialiased; text-rendering: optimizeLegibility; }
-::selection { background: $ink; color: $white; text-shadow: none; }
-
-// Headings: comfortable vertical rhythm (no eyebrow labels, no numbering)
-h1, h2, h3, h4 { letter-spacing: -0.01em; }
-.subtitle, .quarto-title .subtitle { color: $gray; font-weight: 400; }
-
-main.content h2 { margin-top: 2.5rem; margin-bottom: 1rem; }
-main.content h3 { margin-top: 1.75rem; margin-bottom: 0.6rem; }
-
-// Monochrome links need a visible affordance -> subtle underline in prose
-main.content p a, main.content li a {
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 0.16em;
-  text-decoration-color: #c9c9c9;
-  transition: color 0.15s ease, text-decoration-color 0.15s ease;
+/* ---------- navbar → clean Helvetica bar ---------- */
+.navbar{
+  border-bottom:1px solid $hair;
+  background:rgba(255,255,255,.9)!important;
+  -webkit-backdrop-filter:saturate(180%) blur(10px);
+  backdrop-filter:saturate(180%) blur(10px);
+  padding-top:.35rem; padding-bottom:.35rem; min-height:60px;
 }
-main.content p a:hover, main.content li a:hover { color: $gray; text-decoration-color: $gray; }
+.navbar > .container-fluid,
+.navbar > .container{ max-width:1120px; margin:0 auto; padding-left:clamp(20px,5vw,56px); padding-right:clamp(20px,5vw,56px); }
+.navbar .navbar-brand{ font-weight:600; font-size:15px; letter-spacing:.01em; color:$ink; }
+.navbar .navbar-nav{ gap:12px; }
+.navbar .nav-link{ font-size:13px!important; letter-spacing:.02em; color:$muted!important; padding-left:.55rem; padding-right:.55rem; transition:color .15s; }
+.navbar .nav-link:hover, .navbar .nav-link.active, .navbar .show > .nav-link{ color:$ink!important; }
+.navbar .dropdown-menu{ border:1px solid $hair; border-radius:0; box-shadow:none; font-size:13px; }
+.navbar-toggler{ border:none; }
 
-// Navbar: hairline divider, name-as-logo, normal case
-.navbar { border-bottom: 1px solid $hairline; }
-.navbar .navbar-title, .navbar .navbar-brand { font-weight: 600; }
-.navbar .nav-link { transition: color 0.15s ease; }
+/* ---------- footer ---------- */
+.nav-footer{ border-top:1px solid $hair; color:$faint; font-size:12.5px; letter-spacing:.01em; padding-top:1.4rem; padding-bottom:1.4rem; }
+.nav-footer a{ color:$faint; border-bottom:1px solid transparent; }
+.nav-footer a:hover{ color:$ink; border-color:$ink; }
 
-// About / trestles: keep Quarto's default 42% sidebar + 1px content divider.
-// Round grayscale portrait (Paula's shape), restoring colour on hover.
-img.round { filter: grayscale(100%); transition: filter 0.45s ease; }
-img.round:hover { filter: grayscale(0%); }
+/* ---------- generic content pages (CV, Research, …) ---------- */
+#title-block-header .title{ font-weight:700; letter-spacing:-.022em; font-size:2.1rem; }
+#title-block-header .subtitle{ color:$muted; font-weight:400; }
+main.content{ margin-top:2.2rem; }
+main.content h2{ margin-top:2.6rem; margin-bottom:1rem; letter-spacing:-.015em; padding-bottom:.45rem; border-bottom:1px solid $hair; }
+main.content h3{ margin-top:1.7rem; margin-bottom:.5rem; letter-spacing:-.01em; }
+main.content h4{ margin-top:1.3rem; margin-bottom:.35rem; color:$muted; }
+main.content p, main.content li{ }
+main.content a{ border-bottom:1px solid #cfcec9; transition:border-color .15s, color .15s; }
+main.content a:hover{ color:$muted; border-color:$muted; }
+main.content strong{ font-weight:600; }
+main.content ul{ padding-left:1.05rem; }
+main.content li{ margin-bottom:.28rem; }
+main.content li::marker{ color:$faint; }
 
-// About links: monochrome (no blue accent)
-.about-links .about-link { color: $ink; border-color: $hairline; }
-.about-links .about-link:hover { color: $gray; }
+/* content links that are buttons/CV */
+.btn-outline-primary, .btn-outline-secondary{
+  --bs-btn-color:#{$ink}; --bs-btn-border-color:#{$ink};
+  --bs-btn-hover-color:#{$white}; --bs-btn-hover-bg:#{$ink}; --bs-btn-hover-border-color:#{$ink};
+  --bs-btn-active-bg:#{$ink}; --bs-btn-active-border-color:#{$ink};
+  border-radius:0; letter-spacing:.02em; font-size:.82rem;
+}
 
-// Right "On this page" TOC: quiet
-#quarto-margin-sidebar .nav-link { color: $gray; }
-#quarto-margin-sidebar .nav-link:hover,
-#quarto-margin-sidebar .nav-link.active { color: $ink; }
+/* tables */
+main.content table{ font-size:.95em; border-collapse:collapse; }
+main.content thead th{ border-bottom:1px solid $ink; }
+main.content td, main.content th{ border-bottom:1px solid $hair; padding:.5rem .6rem; }
 
-// Footer: quiet hairline
-.nav-footer { border-top: 1px solid $hairline; color: $gray; font-size: 0.85rem; }
+/* details / collapsibles */
+details{ border-top:1px solid $hair; padding:.4rem 0; }
+details > summary{ cursor:pointer; color:$muted; font-weight:600; list-style:none; }
+details > summary:hover{ color:$ink; }
+details[open] > summary{ margin-bottom:.6rem; }
 
-// Collapsible <details> (Teaching): minimal
-details > summary { cursor: pointer; color: $gray; font-weight: 600; padding: 0.3rem 0; }
-details > summary:hover { color: $ink; }
+/* right on-this-page TOC (if ever shown) */
+#quarto-margin-sidebar .nav-link{ color:$muted; border:none; }
+#quarto-margin-sidebar .nav-link:hover, #quarto-margin-sidebar .nav-link.active{ color:$ink; }
 
-// Photo gallery: grayscale -> colour on hover
-.gallery { display: grid; grid-template-columns: repeat(auto-fill, minmax(240px, 1fr)); gap: 1rem; }
-.gallery img { width: 100%; height: 100%; object-fit: cover; filter: grayscale(100%); transition: filter 0.5s ease; }
-.gallery img:hover { filter: grayscale(0%); }
+/* ================================================================
+   HOME — custom layout (index.qmd)
+   ================================================================ */
+.mk-wrap{ max-width:1120px; margin:0 auto; padding:0 clamp(20px,5vw,56px); }
+body.mk-home #title-block-header{ display:none; }
+body.mk-home main.content{ margin-top:0; padding:0; }
+body.mk-home #quarto-content > *{ padding-top:0; }
+
+.mk-hero{ padding:clamp(46px,7vw,92px) 0 clamp(28px,4vw,44px); }
+.mk-hgrid{ display:grid; grid-template-columns:1fr 300px; gap:clamp(28px,5vw,64px); align-items:start; }
+@media(max-width:860px){ .mk-hgrid{ grid-template-columns:1fr; gap:34px; } }
+
+.mk-name{ font-weight:700; font-size:clamp(2.5rem,5.6vw,4.05rem); line-height:1.0; letter-spacing:-.035em; margin:0; }
+.mk-name .mk-kr{ display:block; font-family:"Pretendard","Helvetica Neue",sans-serif; font-weight:500; font-size:.30em; letter-spacing:.02em; color:$muted; margin-top:.7em; }
+.mk-lead{ font-size:clamp(1.16rem,2.1vw,1.5rem); line-height:1.4; letter-spacing:-.012em; max-width:25ch; margin:34px 0 0; font-weight:400; }
+
+.mk-portrait{ margin:0; }
+.mk-portrait img{ width:100%; aspect-ratio:1/1.12; object-fit:cover; filter:grayscale(100%) #{"contrast(1.03)"}; background:#eee; border:1px solid $hair; }
+.mk-portrait figcaption{ font-size:12.5px; line-height:1.5; color:$muted; margin-top:12px; }
+
+.mk-about{ max-width:60ch; padding:clamp(30px,4vw,44px) 0 0; border-top:1px solid $hair; }
+.mk-about p{ font-size:16.5px; line-height:1.72; margin:0; }
+.mk-about p + p{ margin-top:1.1em; }
+
+.mk-sec{ padding:clamp(46px,6vw,74px) 0 0; }
+.mk-lbl{ font-size:12px; letter-spacing:.16em; text-transform:uppercase; color:$faint; padding-bottom:16px; border-bottom:1px solid $ink; margin-bottom:2px; }
+
+.mk-list a{ display:grid; grid-template-columns:92px 1fr 210px; gap:24px; align-items:baseline; padding:19px 2px; border-bottom:1px solid $hair; border-radius:0; transition:background .15s; }
+.mk-list a:hover{ background:#f7f6f3; }
+.mk-list a, .mk-list a:hover{ border-bottom:1px solid $hair; }         /* override content link underline */
+.mk-list .y{ font-size:13px; color:$faint; font-variant-numeric:tabular-nums; }
+.mk-list .t{ font-weight:600; font-size:clamp(1.02rem,1.6vw,1.16rem); letter-spacing:-.01em; line-height:1.3; color:$ink; }
+.mk-list .m{ font-size:13px; color:$muted; text-align:right; }
+@media(max-width:720px){ .mk-list a{ grid-template-columns:60px 1fr; } .mk-list .m{ display:none; } }
+
+.mk-themes{ margin-top:2px; }
+.mk-theme{ display:grid; grid-template-columns:240px 1fr; gap:24px; padding:22px 2px; border-bottom:1px solid $hair; }
+.mk-theme h3{ font-weight:600; font-size:1.05rem; letter-spacing:-.01em; margin:0; }
+.mk-theme p{ font-size:14.5px; color:$muted; line-height:1.6; margin:0; }
+@media(max-width:720px){ .mk-theme{ grid-template-columns:1fr; gap:6px; } }
+
+.mk-contact{ padding:clamp(46px,6vw,78px) 0 clamp(30px,4vw,40px); }
+.mk-contact .mk-mail{ display:inline-block; font-weight:600; font-size:clamp(1.15rem,2.4vw,1.5rem); letter-spacing:-.015em; border-bottom:1px solid $ink; padding-bottom:3px; margin-top:4px; color:$ink; }
+.mk-contact .mk-mail:hover{ color:$muted; border-color:$muted; }
+.mk-links{ display:flex; flex-wrap:wrap; gap:22px; margin-top:28px; }
+.mk-links a{ font-size:13px; color:$muted; border-bottom:1px solid transparent; padding-bottom:2px; }
+.mk-links a:hover{ color:$ink; border-color:$ink; }
