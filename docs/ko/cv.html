@@ -94,10 +94,29 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../media.html"> 
 <span class="menu-text">Media</span></a>
   </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../index.html"> 
-<span class="menu-text">🌐 한국어</span></a>
+  <li class="nav-item dropdown ">
+    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-language" role="link" data-bs-toggle="dropdown" aria-expanded="false">
+ <span class="menu-text">🌐 Language</span>
+    </a>
+    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-language">    
+        <li>
+    <a class="dropdown-item" href="../index.html">
+ <span class="dropdown-text">English</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="../ko/index.html">
+ <span class="dropdown-text">한국어</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../fr/index.html">
+ <span class="dropdown-text">Français</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="../ja/index.html">
+ <span class="dropdown-text">日本語</span></a>
+  </li>  
+    </ul>
+  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -368,31 +387,50 @@ ul.task-list li input[type="checkbox"] {
 </main> <!-- /main -->
 <script>
 (function(){
-  var EN={'research.html':'Research','publications.html':'Publications','teaching.html':'Teaching','cv.html':'CV','media.html':'Media'};
-  var KO={'research.html':'연구','publications.html':'출판물','teaching.html':'교육','cv.html':'약력','media.html':'미디어'};
-  var KO_ONLY={'interview.html':1,'life.html':1};   // Korean-only pages (no EN counterpart)
-  function link(f,ko){ return (ko?'/ko/':'/') + (f==='index.html'?'':f); }
-  function run(){
+  var NAV = {
+    'research.html':    {en:'Research',     ko:'연구',   fr:'Recherche',     ja:'研究'},
+    'publications.html':{en:'Publications', ko:'출판물', fr:'Publications',  ja:'論文'},
+    'teaching.html':    {en:'Teaching',     ko:'교육',   fr:'Enseignement',  ja:'教育'},
+    'cv.html':          {en:'CV',           ko:'약력',   fr:'CV',            ja:'略歴'},
+    'media.html':       {en:'Media',        ko:'미디어', fr:'Médias',        ja:'メディア'}
+  };
+  var LANGNAME = {en:'English', ko:'한국어', fr:'Français', ja:'日本語'};
+  var PREFIX   = {en:'/', ko:'/ko/', fr:'/fr/', ja:'/ja/'};
+  var KO_ONLY  = {'interview.html':1,'life.html':1};   // exist only in Korean
+  function link(lang,file){ return PREFIX[lang] + (file==='index.html'?'':file); }
+  function pageOf(){
     var segs=location.pathname.split('/').filter(Boolean);
+    var lang='en';
+    if(segs.length && PREFIX[segs[0]] && segs[0]!=='en'){ lang=segs[0]; segs=segs.slice(1); }
     var file=segs.length?segs[segs.length-1]:'index.html';
-    if(file==='ko'||!/\.html$/.test(file)) file='index.html';
-    var isKo=segs.indexOf('ko')!==-1;
-    document.documentElement.lang = isKo?'ko':'en';
+    if(!/\.html$/.test(file)) file='index.html';
+    return {lang:lang, file:file};
+  }
+  function run(){
+    var p=pageOf(), lang=p.lang, file=p.file;
+    document.documentElement.lang=lang;
+    // localize main nav items (labels + per-language hrefs)
     document.querySelectorAll('.navbar-nav .nav-link').forEach(function(a){
-      var txt=a.textContent||'';
-      if(txt.indexOf('🌐')!==-1){                    // the language toggle
-        var enExists = !KO_ONLY[file];
-        a.setAttribute('href', isKo ? (enExists?link(file,false):'/') : link(file,true));
-        a.textContent = isKo ? 'EN' : '한국어';
-        a.setAttribute('aria-label','Switch language');
-        a.classList.add('mk-langtoggle');
-        return;
-      }
+      if(a.classList.contains('dropdown-toggle')) return;
       var t=(a.getAttribute('href')||'').split('/').pop()||'index.html';
-      if(EN[t]){ a.setAttribute('href', link(t,isKo)); a.textContent=(isKo?KO:EN)[t]; }
+      if(NAV[t]){ a.setAttribute('href', link(lang,t)); a.textContent=NAV[t][lang]||NAV[t].en; }
     });
     var brand=document.querySelector('.navbar-brand');
-    if(brand) brand.setAttribute('href', link('index.html',isKo));
+    if(brand) brand.setAttribute('href', link(lang,'index.html'));
+    // language dropdown: rewrite each item to the same page in that language
+    var byName={}; Object.keys(LANGNAME).forEach(function(lg){ byName[LANGNAME[lg]]=lg; });
+    document.querySelectorAll('.navbar .dropdown-item').forEach(function(a){
+      var lg=byName[(a.textContent||'').trim()];
+      if(!lg) return;
+      var target=(KO_ONLY[file] && lg!=='ko') ? link(lg,'index.html') : link(lg,file);
+      a.setAttribute('href', target);
+      if(lg===lang){ a.classList.add('active'); a.setAttribute('aria-current','true'); }
+    });
+    // label the dropdown toggle with the current language
+    document.querySelectorAll('.navbar .nav-link.dropdown-toggle').forEach(function(tog){
+      var menu=tog.parentElement.querySelector('.dropdown-menu');
+      if(menu && menu.textContent.indexOf('Français')!==-1){ tog.textContent='🌐 '+LANGNAME[lang]; }
+    });
   }
   if(document.readyState!=='loading') run(); else document.addEventListener('DOMContentLoaded',run);
 })();

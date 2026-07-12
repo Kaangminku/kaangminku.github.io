@@ -23,8 +23,16 @@ website:
         href: cv.qmd
       - text: "Media"
         href: media.qmd
-      - text: "🌐 한국어"
-        href: index.qmd
+      - text: "🌐 Language"
+        menu:
+          - text: "English"
+            href: index.qmd
+          - text: "한국어"
+            href: ko/index.qmd
+          - text: "Français"
+            href: fr/index.qmd
+          - text: "日本語"
+            href: ja/index.qmd
   page-footer:
     border: true
     left: "© 2026 Minku Kang"

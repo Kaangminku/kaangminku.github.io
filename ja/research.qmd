@@ -1,0 +1,77 @@
+---
+title: "研究プロジェクト・研究費"
+pagetitle: "研究プロジェクト・研究費 — Minku Kang"
+lang: ja
+toc: true
+toc-depth: 2
+---
+
+## 概要
+
+- **研究責任者** — 軍人のメンタルヘルスの規定要因
+- **研究責任者** — 専攻医の36時間連続勤務制度の改善に関する研究
+- *International Journal of Equity in Health* および *BMC Public Health* の査読者
+
+## 研究責任者
+
+- **軍人のメンタルヘルスの規定要因**
+  - 委託研究費、Armed Forces Medical Command (MND)
+  - **2026.03–2027.03** (KRW 6,380,000)
+- **研修医・専攻医の36時間連続勤務制度の改善に関する研究**
+  - 委託研究費、Korean Medical Association Institute for Healthcare Policy
+  - **2023.05–2024.01** (KRW 10,000,000)
+- **韓国研修医・専攻医調査**
+  - Korean Intern and Resident Association
+  - **2022.09–2023.02**
+
+## 共同研究者
+
+- **2024年の医療危機以降の軍病院における医療利用の変化**
+  - Armed Forces Medical Command (MND) — **2026**
+- **軍病院および民間病院における軍人の医療利用の分析**
+  - Armed Forces Medical Command (MND) — **2025–2026**
+- **軍における感染症の対応・管理能力の強化**
+  - Korea Disease Control and Prevention Agency (KDCA) — **2025**
+- **健康被害の予防・管理に関するロードマップの策定**
+  - Korea Disease Control and Prevention Agency (KDCA) — **2025**
+- **海外派遣された韓国軍におけるマラリア・スクリーニング支援と気候に基づく予測モデリング**
+  - Armed Forces Medical Research Institute (MND) — **2025**
+- **南スーダンに派遣された韓国軍における発熱性感染症への曝露**
+  - Armed Forces Medical Command (MND) — **2025**
+- **軍の予防接種政策決定のための包括的レビュー**
+  - Armed Forces Medical Command (MND) — **2024**
+
+## 研究補助員
+
+- **COVID-19が健康の公平性に与える影響**
+  - Ministry of Health and Welfare — **2022.06–2022.12**
+  - （文献レビュー、NHISビッグデータ分析、報告書作成）
+- **賃貸住宅に居住する精神疾患のある人々による地域サービス利用の分析**
+  - Presidential Committee on Policy Planning — **2022.02–2022.04**
+- **地域に根ざしたオーダーメイド型メンタルヘルス・リビングラボの構築に関する研究**
+  - Korea University — **2021.11–2022.01**
+- **精神科医療機関の質の向上**
+  - Ministry of Health and Welfare — **2021.04–2021.12**
+  - （研究運営、精神科医療機関の現地調査、データ分析）
+- **性感染症の国家サーベイランス体制の改善に関する研究**
+  - Korea Disease Control and Prevention Agency (KDCA) — **2021.09–2022.03**
+- **高リスク群におけるQ熱の血清有病率調査と予防ガイドラインの開発**
+  - Korea Disease Control and Prevention Agency (KDCA) — **2021.11–2022.03**
+  - （研究運営、現地血清疫学調査）
+- **疾病および健康関連要因の時空間分析**
+  - Korea University Medicine — **2021.09–2022.02**
+- **感染症の予防・診断・分析の教育強化プロジェクト（KOICA–Tashkent Medical University）**
+  - Korea International Cooperation Agency (KOICA) — **2021.11–2021.12**
+  - （保健専門家：Rを用いた疫学研修、調査データの処理・分析）
+- **韓国における医療機器の民間認証制度に関する政策研究**
+  - **2021.04–2021.12**
+- **高齢者層における社会経済的要因が健康に与える影響：複合慢性疾患**
+  - Korea University Medicine — **2016.10–2017.01**
+
+## 社会貢献活動プロジェクト
+
+- **青少年のための空間シェアリング・プロジェクト** — Woosadan Studio — **2018–2020**
+- **ストリートコンサートシリーズ：人文学と芸術** — Ministry of Culture, Sports and Tourism — **2018**
+- **Usadan Studio オープニングパーティー** — Woosadan Studio — **2018**
+- **学生住居アクション：寄宿舎プロジェクト** — Korea University — **2015**
+- **Korea University 学園祭** — Korea University — **2015**

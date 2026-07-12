@@ -1,0 +1,44 @@
+---
+title: "出版物"
+pagetitle: "出版物 — Minku Kang"
+lang: ja
+toc: true
+toc-depth: 2
+---
+
+私の [Google Scholar プロフィール](https://scholar.google.com/citations?user=BUn--4YAAAAJ) も併せてご覧ください。著者本人の名前は **太字** で示しています。
+
+## 査読付き論文
+
+- Cha J, **Kang M**. Impact of South Korea's national gastrointestinal cancer screening programme. *BMJ Open*. 2026.
+- Moon D, Kim C, **Kang M**. COVID-19 outcomes in Busan: impact of area-deprivation on infection risk. *Journal of the Korean Data Analysis Society*. 2025.
+- **Kang M**, Choe YJ, Min HS, Kim S, Choe SA. Timely access to secondary pediatric services in Korea. *Epidemiology and Health*. 2024.
+- Kang T, Lee Y, **Kang M**. Impact of COVID-19 on healthcare utilization among chronic disease patients in South Korea. *Preventive Medicine Reports*. 2024.
+- Ki M, Lapierre S, Gim B, Hwang M, **Kang M**, Dargis L, et al. A systematic review of psychosocial protective factors against suicide and suicidality among older adults. *International Psychogeriatrics*. 2024.
+- Cho S, Lee H, **Kang M**, Lee WJ, Ko S. Current status of occupational radiation exposure and protection among medical interns and residents. *Journal of the Korean Medical Association*. 2024.
+- **Kang M**, Yu S, Choe SA, Moon D, Ki M, Chun BC. Gender inequalities in mental health during the COVID-19 pandemic: a population-based study in Korea. *Journal of Preventive Medicine and Public Health*. 2023.
+- Kim YS, **Kang M**, Choe YJ, Sung J, Lee JY, Choe SA. Child mortality of twins and singletons among late preterm and term birth. *European Journal of Pediatrics*. 2022.
+
+## 政策報告書・論説
+
+- **Kang M**, Lee H, Ko H, Kim S. 전공의 36시간 연속근무 제도 개선 연구 [A study on reforming the 36-hour consecutive duty system; research report]. 의료정책연구원 (Medical Policy Research Institute); 2024.
+- Song Y, …, **Kang M**, et al. Navigating the complex labyrinth: multifactorial challenges experienced by Asian junior doctors in the workplace. *World Medical Journal*. 2024;(4):60–69.
+- Afzal S, …, **Kang M**, et al. Global efforts to combat antimicrobial resistance. *World Medical Journal*. 2023;(4):58–80.
+- **Kang M**. 인센티브 중심 정책 설계의 필요성: 기피 전문분야 및 의료취약지 의사 확보 방안 논의 [The need for incentive-based policy design: discussion on strategies to secure physicians in less-preferred specialties and underserved areas]. *의료정책포럼 (Forum for Healthcare Policy)*. 2023;23(4).
+- **Kang M**. 전문의 중심의 상급종합병원 체계 전환: 전공의 사회 내 주요 논의 소개 [Transition toward a specialist-centered tertiary hospital system: introduction to discussions within the resident physician community]. *대한병원협회지 (Journal of the Korean Hospital Association)*. 2023;23(가을 / Fall).
+- Tun W, …, **Kang M**, et al. WHA75 World Medical Association intervention writing: human resource for health. *JDN Newsletter*. 2022;(25):18–21.
+- **Kang M**, Cho S. Brief review of the context of the Act for the Improvement of Training Conditions and Status of Medical Residents in Korea: focusing on working hours and on-duty allowance. *JDN Newsletter*. 2022;(25):14–17.
+- **Kang M**. 해외 전공의 근로조건 개선 과정에서 배워야 할 교훈 [Lessons to be learned from international efforts to improve resident working conditions]. *메디컬타임즈 (Medical Times)*. 2022.
+- **Kang M**. 전공의법 7년… '노동권' 고려해 법 바꿀 때 [Seven years after the Resident Act: time to revise the law with labour rights in mind]. *메디컬타임즈 (Medical Times)*. 2022.
+
+## 書籍・翻訳
+
+- Joint Trauma System Clinical Practice Guideline — *美 합동외상체계 군 외상진료프로토콜* (translation; 2026)
+  - Infection Prevention in Combat-Related Injuries
+  - Documentation in Prolonged Field Care
+  - I-STAT Portable Blood Analyzer in Austere Locations
+
+## 査読活動
+
+- Reviewer, *International Journal of Equity in Health*
+- Reviewer, *BMC Public Health*
