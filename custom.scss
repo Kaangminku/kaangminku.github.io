@@ -112,14 +112,14 @@ body.mk-home main.content{ margin-top:0; padding:0; }
 body.mk-home #quarto-content > *{ padding-top:0; }
 
 .mk-hero{ padding:clamp(46px,7vw,92px) 0 clamp(28px,4vw,44px); }
-.mk-hgrid{ display:grid; grid-template-columns:1fr 250px; gap:clamp(28px,5vw,64px); align-items:start; }
+.mk-hgrid{ display:grid; grid-template-columns:1fr 300px; gap:clamp(28px,5vw,64px); align-items:start; }
 @media(max-width:860px){ .mk-hgrid{ grid-template-columns:1fr; gap:34px; } }
 
 .mk-name{ font-weight:700; font-size:clamp(2.1rem,4.4vw,3.3rem); line-height:1.02; letter-spacing:-.033em; margin:0; }
 .mk-name .mk-kr{ display:block; font-family:"Pretendard","Helvetica Neue",sans-serif; font-weight:500; font-size:.30em; letter-spacing:.02em; color:$muted; margin-top:.7em; }
 .mk-lead{ font-size:clamp(1.16rem,2.1vw,1.5rem); line-height:1.4; letter-spacing:-.012em; max-width:25ch; margin:34px 0 0; font-weight:400; }
 
-.mk-portrait{ margin:0; max-width:250px; }
+.mk-portrait{ margin:0; max-width:300px; }
 .mk-portrait img{ width:100%; height:auto; display:block; filter:grayscale(100%) #{"contrast(1.03)"}; background:#eee; border:1px solid $hair; }
 .mk-portrait figcaption{ font-size:12.5px; line-height:1.5; color:$muted; margin-top:12px; }
 
