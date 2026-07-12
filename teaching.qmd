@@ -23,28 +23,6 @@ toc-depth: 2
 - Graduate mentoring for international students — Korea University (Mar 2022 – Feb 2023)
 - Student research mentoring — Korea University College of Medicine (Mar 2021 – Feb 2022)
 
-<details>
-<summary>국문 버전</summary>
-
-**강의 조교** — 고려대학교 의과대학 (2021.03 – 2024.02)
-
-- 예방의학 I, II
-- 예방의학선택실습 (지역사회의학실습)
-- 의료법
-
-**초청 강연 및 실습**
-
-- 환자안전사고 소통하기 PBL 실습 — 국군의무사령부 (2025.09)
-- 역학조사 실무 사례기반 PBL 실습 — 공군본부·해군본부 (2025.09)
-- 적정의료 — 서울대학교 의과대학 (2023.02)
-
-**멘토링 경력**
-
-- 외국인 대학원생 멘토링 — 고려대학교 (2022.03 – 2023.02)
-- 의과대학 학생 연구 멘토링 — 고려대학교 의과대학 (2021.03 – 2022.02)
-
-</details>
-
 ## Courseworks
 
 **Course instructor (planned)**
@@ -55,20 +33,6 @@ toc-depth: 2
 - **Public Mental Health: Social Determinants, Policy and Mental Health** — graduate course
 - **Preventive Medicine and Public Health** — undergraduate major course (Medicine)
 - **Social Determinants and Health** — undergraduate liberal-arts course
-
-<details>
-<summary>국문 버전</summary>
-
-**강의 교수 (계획)**
-
-- **한국 보건의료정책 101 세미나** — 대학원 16주 과정.
-  대상: 보건의료정책에 관심 있는 대학원생 및 보건의료 전문인.
-  주요 커리큘럼: 대한민국 보건의료체계의 기원과 모순, 국민건강보험 및 장기요양보험, 일차보건의료, 필수의료, 건강불평등, 공중정신보건 및 자살예방, 감염병 및 재난 대응, 의료인력정책(전공의, 간호법 등), 국회 및 정부의 정책 실무 과정 등.
-- **공중정신건강: 사회적 결정요인, 정책과 정신건강** — 대학원 과정
-- **예방의학과 공중보건** — 학부 전공 (의학과)
-- **사회적 결정요인과 건강** — 학부 교양
-
-</details>
 
 ## Syllabus — Korean Healthcare Policy 101 (16 weeks)
 
@@ -86,23 +50,3 @@ toc-depth: 2
 - **Week 14** — Healthcare industry, regulation, and legislative policy.
 - **Week 15** — The policy process for practitioners: National Assembly, government, and civil society.
 - **Week 16** — Conclusion & assessment: future challenges and directions / (graduate) final examination.
-
-<details>
-<summary>국문 주차별 상세</summary>
-
-- **1주차** — 대한민국 보건의료체계의 기원과 모순: 연금보다 빠른 적자가 예상되는 전국민 건강보험제도, 지속 가능한가?
-- **2주차** — 비교보건의료체계 총론: 각국 주요제도 및 건강지표 국제 비교
-- **3~4주차** — 국민건강보험 총론(재정조달, 위험분담, 수가체계, 지불제도 등) 및 장기요양보험 총론
-- **5주차** — 보건의료체계 ①: 일차보건의료, 만성질환 관리, 주치의제, 통합돌봄
-- **6주차** — 보건의료체계 ②: 응급의료, 소아, 분만, 중환자 (소위 필수의료)
-- **7~8주차** — 보건의료체계 ③: 공공보건의료, 건강불평등, 지역의료, 사회정책/사회환경과 건강, 재난적 의료비
-- **9주차** — 보건의료체계 ④: 자살예방, 공중정신보건, 정신보건의료체계
-- **10주차** — 보건의료체계 ⑤: 감염병 및 재난 대응, 국제보건, 통일보건의료, 군 보건의료체계
-- **11주차** — 의료인력정책 ①: 병원 인력 구조, 의료인 교육수련(PGME, CME), 노동조건 및 처우, 전공의법, 간호법, 수급 추계 (의대정원 등)
-- **12주차** — 의료인력정책 ②: PA, 직역 간 업무 범위 조정, 의료일원화, 의료분쟁 및 법적 책임, 의사/간호사 이민
-- **13주차** — 의료인력정책 ③: 보건의료인 노동조합 — 주요 활동 및 정책이슈 (보건의료노조 쟁의행위, 전공의 대규모 사직 사태 등)
-- **14주차** — 헬스케어 산업, 규제, 입법정책
-- **15주차** — 정책실무자에게 필요한 정책과정 이해: 국회, 정부, 시민사회
-- **16주차** — 미래 주요 과제 및 발전 방향 / (대학원) 최종시험
-
-</details>
