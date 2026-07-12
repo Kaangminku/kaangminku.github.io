@@ -14,7 +14,7 @@ lang: ja
 <div class="mk-hgrid">
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-kr">강민구</span></h1>
-<p class="mk-lead">労働・格差・社会政策がメンタルヘルスをどのように形づくるのかを研究し、その根拠を改革へと結びつけています。</p>
+<p class="mk-lead">労働・格差・社会政策がメンタルヘルスをどのように形づくるのかを研究し、その根拠を改革へとつなげています。</p>
 </div>
 <figure class="mk-portrait">
 <img src="../images/profile.jpg" alt="Minku Kang">
@@ -24,15 +24,15 @@ lang: ja
 </section>
 
 <section class="mk-about">
-<p>Minku Kang は予防医学専門医であり、社会疫学者です。その研究は、不安定な労働・長時間労働・格差がいかにしてメンタルヘルスの悪化につながるのか、そしてその根拠が制度改革をいかに促しうるのかを問うものです。</p>
-<p>大韓インターン・レジデント協議会の会長として、研修医の勤務時間規制の改革に向けた全国的な取り組みを主導し、その功績により保健福祉部長官表彰を受けました。高麗大学校で保健学の博士課程を、KDI 大学院で公共政策学の修士課程を修了しつつあり、国軍医務司令部で疫学者および保健医療政策担当官を務めています。</p>
+<p>Minku Kang は予防医学専門医であり、社会疫学者です。その研究は、不安定な労働・長時間労働・格差がどのようにメンタルヘルスの悪化を招くのか、そして、そこで得られた根拠が制度改革をいかに後押ししうるのかを問うものです。</p>
+<p>大韓インターン・レジデント協議会の会長として、研修医の勤務時間規制改革に向けた全国的な取り組みを主導し、その功績により保健福祉部長官表彰を受けました。現在は高麗大学校で保健学の博士課程を、KDI 大学院で公共政策学の修士課程を修了しつつあり、国軍医務司令部では疫学者および保健医療政策担当官を務めています。</p>
 </section>
 
 <section class="mk-sec">
 <div class="mk-lbl">主な業績</div>
 <div class="mk-list">
 <a href="research.qmd"><span class="y">2022–25</span><span class="t">研修医の36時間連続勤務制度の改革</span><span class="m">研究代表者</span></a>
-<a href="research.qmd"><span class="y">2026–</span><span class="t">軍人のメンタルヘルスの規定要因</span><span class="m">研究代表者</span></a>
+<a href="research.qmd"><span class="y">2026–</span><span class="t">軍人のメンタルヘルスの決定要因</span><span class="m">研究代表者</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">パンデミック下のメンタルヘルスにおけるジェンダー格差</span><span class="m">J. Prev. Med. Public Health</span></a>
 <a href="publications.qmd"><span class="y">2026</span><span class="t">全国消化器がん検診の成果</span><span class="m">BMJ Open</span></a>
 </div>
@@ -42,8 +42,8 @@ lang: ja
 <div class="mk-lbl">重点分野</div>
 <div class="mk-themes">
 <div class="mk-theme"><h3>予防医学</h3><p>臨床予防医学、健康リスク評価、検診・健康管理、集団医学・産業医学、生活習慣医学。</p></div>
-<div class="mk-theme"><h3>健康の社会的決定要因</h3><p>職場のメンタルヘルス、自殺予防、社会疫学、労働市場、健康格差、そして近隣環境。</p></div>
-<div class="mk-theme"><h3>保健医療政策・管理</h3><p>医療従事者、保健医療制度、そして医療改革。</p></div>
+<div class="mk-theme"><h3>健康の社会的決定要因</h3><p>職場のメンタルヘルス、自殺予防、社会疫学、労働市場、健康格差、近隣環境。</p></div>
+<div class="mk-theme"><h3>保健医療政策・管理</h3><p>医療従事者、保健医療制度、医療改革。</p></div>
 </div>
 </section>
 

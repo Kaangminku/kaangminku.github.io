@@ -6,7 +6,7 @@ toc: true
 toc-depth: 2
 ---
 
-제 [Google Scholar 프로필](https://scholar.google.com/citations?user=BUn--4YAAAAJ)도 함께 참고하시기 바랍니다. 저자 본인 이름은 **굵게** 표시했습니다.
+제 [Google Scholar 프로필](https://scholar.google.com/citations?user=BUn--4YAAAAJ)도 함께 참고하시기 바랍니다. 제 이름은 **굵게** 표시했습니다.
 
 ## 국제 학술논문
 

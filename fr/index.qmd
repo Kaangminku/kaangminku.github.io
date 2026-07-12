@@ -1,6 +1,6 @@
 ---
-pagetitle: "Minku Kang — Médecin de médecine préventive et chercheur en politiques de santé"
-description: "Minku Kang (강민구) — médecin de médecine préventive, épidémiologiste social et chercheur en politiques de santé à Séoul."
+pagetitle: "Minku Kang — Médecin spécialiste en médecine préventive et chercheur en politiques de santé"
+description: "Minku Kang (강민구) — médecin spécialiste en médecine préventive, épidémiologiste social et chercheur en politiques de santé à Séoul."
 page-layout: full
 toc: false
 lang: fr
@@ -14,26 +14,26 @@ lang: fr
 <div class="mk-hgrid">
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-kr">강민구</span></h1>
-<p class="mk-lead">J'étudie comment le travail, les inégalités et les politiques sociales façonnent la santé mentale — et je transforme les données probantes en réformes.</p>
+<p class="mk-lead">J'étudie comment le travail, les inégalités et les politiques sociales façonnent la santé mentale — et je traduis les données probantes en réformes.</p>
 </div>
 <figure class="mk-portrait">
 <img src="../images/profile.jpg" alt="Minku Kang">
-<figcaption>Médecin de médecine préventive<br>Commandement médical des forces armées, Séoul</figcaption>
+<figcaption>Médecin spécialiste en médecine préventive<br>Commandement médical des forces armées, Séoul</figcaption>
 </figure>
 </div>
 </section>
 
 <section class="mk-about">
-<p>Minku Kang est médecin de médecine préventive et épidémiologiste social. Ses recherches interrogent la manière dont le travail précaire, les longues heures de travail et les inégalités se traduisent par une mauvaise santé mentale — et la façon dont ces données probantes peuvent impulser une réforme institutionnelle.</p>
-<p>En tant que président de la Korean Intern Resident Association, il a dirigé l'effort national de réforme de la réglementation sur le temps de garde des internes et résidents, ce qui lui a valu une distinction du ministre de la Santé et du Bien-être. Il achève un doctorat en santé publique à Korea University et un master en politiques publiques à la KDI School, et exerce comme épidémiologiste et officier chargé des politiques de santé au Commandement médical des forces armées.</p>
+<p>Minku Kang est médecin spécialiste en médecine préventive et épidémiologiste social. Ses recherches interrogent la manière dont le travail précaire, les longues heures de travail et les inégalités dégradent la santé mentale — et la façon dont ces données probantes peuvent nourrir la réforme institutionnelle.</p>
+<p>En tant que président de la Korean Intern Resident Association, il a mené la réforme nationale de la réglementation du temps de garde des internes et résidents, ce qui lui a valu une distinction du ministre de la Santé et du Bien-être. Il achève un doctorat en santé publique à Korea University et un master en politiques publiques à la KDI School, et exerce comme épidémiologiste et officier chargé des politiques de santé au Commandement médical des forces armées.</p>
 </section>
 
 <section class="mk-sec">
 <div class="mk-lbl">Sélection de travaux</div>
 <div class="mk-list">
-<a href="research.qmd"><span class="y">2022–25</span><span class="t">Réforme du système de garde consécutive de 36 heures des internes et résidents</span><span class="m">Chercheur principal</span></a>
+<a href="research.qmd"><span class="y">2022–25</span><span class="t">Réforme du système de gardes de 36 heures consécutives des internes et résidents</span><span class="m">Chercheur principal</span></a>
 <a href="research.qmd"><span class="y">2026–</span><span class="t">Déterminants de la santé mentale chez les militaires</span><span class="m">Chercheur principal</span></a>
-<a href="publications.qmd"><span class="y">2023</span><span class="t">Inégalités de genre dans la santé mentale à l'ère de la pandémie</span><span class="m">J. Prev. Med. Public Health</span></a>
+<a href="publications.qmd"><span class="y">2023</span><span class="t">Inégalités de genre en santé mentale à l'ère de la pandémie</span><span class="m">J. Prev. Med. Public Health</span></a>
 <a href="publications.qmd"><span class="y">2026</span><span class="t">Résultats du dépistage national des cancers gastro-intestinaux</span><span class="m">BMJ Open</span></a>
 </div>
 </section>

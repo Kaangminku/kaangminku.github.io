@@ -16,7 +16,7 @@ toc-depth: 2
 - **Determinantes de la salud mental en el personal militar**
   - Subvención de investigación por encargo, Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
-- **Estudio sobre la mejora del sistema de turnos consecutivos de 36 horas para internos y residentes médicos**
+- **Estudio sobre la mejora del sistema de guardias consecutivas de 36 horas para internos y residentes médicos**
   - Subvención de investigación por encargo, Korean Medical Association Institute for Healthcare Policy
   - **2023.05–2024.01** (KRW 10,000,000)
 - **Encuesta coreana de internos y residentes**

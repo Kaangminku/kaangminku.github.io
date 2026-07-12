@@ -50,4 +50,4 @@ toc-depth: 2
 - **Semaine 13** — Politique de la main-d'œuvre en santé ③ : syndicats des travailleurs de la santé — principales activités et enjeux politiques (actions revendicatives, démission massive des résidents).
 - **Semaine 14** — Industrie de la santé, réglementation et politique législative.
 - **Semaine 15** — Le processus d'élaboration des politiques pour les praticiens : Assemblée nationale, gouvernement et société civile.
-- **Semaine 16** — Conclusion et évaluation : défis et orientations futurs / examen final (cycle supérieur).
+- **Semaine 16** — Conclusion et évaluation : défis et orientations à venir / examen final (cycle supérieur).

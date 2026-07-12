@@ -5,7 +5,7 @@ toc: true
 toc-depth: 2
 ---
 
-Siehe auch mein [Google-Scholar-Profil](https://scholar.google.com/citations?user=BUn--4YAAAAJ). Der Name des Autors ist **fett** hervorgehoben.
+Siehe auch mein [Google-Scholar-Profil](https://scholar.google.com/citations?user=BUn--4YAAAAJ). Mein Name ist **fett** hervorgehoben.
 
 ## Begutachtete Fachartikel
 
@@ -32,12 +32,12 @@ Siehe auch mein [Google-Scholar-Profil](https://scholar.google.com/citations?use
 
 ## Bücher und Übersetzungen
 
-- Joint Trauma System Clinical Practice Guideline — *美 합동외상체계 군 외상진료프로토콜* (translation; 2026)
+- Joint Trauma System Clinical Practice Guideline — *美 합동외상체계 군 외상진료프로토콜* (Übersetzung; 2026)
   - Infection Prevention in Combat-Related Injuries
   - Documentation in Prolonged Field Care
   - I-STAT Portable Blood Analyzer in Austere Locations
 
 ## Gutachtertätigkeiten
 
-- Reviewer, *International Journal of Equity in Health*
-- Reviewer, *BMC Public Health*
+- Gutachter, *International Journal of Equity in Health*
+- Gutachter, *BMC Public Health*

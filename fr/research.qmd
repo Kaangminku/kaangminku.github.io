@@ -8,7 +8,7 @@ toc-depth: 2
 ## Aperçu
 
 - **Investigateur principal** — Déterminants de la santé mentale chez le personnel militaire
-- **Investigateur principal** — Étude sur l'amélioration du système de garde consécutive de 36 heures pour les résidents
+- **Investigateur principal** — Étude sur l'amélioration du système de gardes de 36 heures consécutives pour les résidents
 - Relecteur pour *International Journal of Equity in Health* et *BMC Public Health*
 
 ## Investigateur principal
@@ -16,7 +16,7 @@ toc-depth: 2
 - **Déterminants de la santé mentale chez le personnel militaire**
   - Subvention de recherche commanditée, Armed Forces Medical Command (MND)
   - **2026.03–2027.03** (KRW 6,380,000)
-- **Étude sur l'amélioration du système de gardes consécutives de 36 heures pour les internes et résidents**
+- **Étude sur l'amélioration du système de gardes de 36 heures consécutives pour les internes et résidents**
   - Subvention de recherche commanditée, Korean Medical Association Institute for Healthcare Policy
   - **2023.05–2024.01** (KRW 10,000,000)
 - **Enquête coréenne auprès des internes et résidents**

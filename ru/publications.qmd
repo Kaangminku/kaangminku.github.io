@@ -37,7 +37,7 @@ toc-depth: 2
   - Documentation in Prolonged Field Care
   - I-STAT Portable Blood Analyzer in Austere Locations
 
-## Рецензионная деятельность
+## Рецензирование
 
-- Reviewer, *International Journal of Equity in Health*
-- Reviewer, *BMC Public Health*
+- Рецензент, *International Journal of Equity in Health*
+- Рецензент, *BMC Public Health*
