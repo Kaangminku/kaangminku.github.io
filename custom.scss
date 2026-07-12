@@ -66,10 +66,10 @@ body{ -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; let
 .nav-footer a:hover{ color:$ink; border-color:$ink; }
 
 /* ---------- generic content pages (CV, Research, …) ---------- */
-#title-block-header .title{ font-weight:700; letter-spacing:-.022em; font-size:1.55rem; }
+#title-block-header .title{ display:inline-block; background:$ink; color:$white; font-weight:700; letter-spacing:-.008em; font-size:1.3rem; padding:5px 13px; }
 #title-block-header .subtitle{ color:$muted; font-weight:400; }
 main.content{ margin-top:2.2rem; }
-main.content h2{ margin-top:2.6rem; margin-bottom:1rem; letter-spacing:-.015em; padding-bottom:.45rem; border-bottom:1px solid $hair; }
+main.content h2{ display:inline-block; background:$ink; color:$white; font-size:0.98rem; font-weight:600; letter-spacing:-.003em; padding:4px 11px; margin-top:2.7rem; margin-bottom:1.1rem; border-bottom:none; }
 main.content h3{ margin-top:1.7rem; margin-bottom:.5rem; letter-spacing:-.01em; }
 main.content h4{ margin-top:1.3rem; margin-bottom:.35rem; color:$muted; }
 main.content p, main.content li{ }
@@ -115,7 +115,7 @@ body.mk-home #quarto-content > *{ padding-top:0; }
 .mk-hgrid{ display:grid; grid-template-columns:1fr 300px; gap:clamp(28px,5vw,64px); align-items:start; }
 @media(max-width:860px){ .mk-hgrid{ grid-template-columns:1fr; gap:34px; } }
 
-.mk-name{ font-weight:700; font-size:clamp(2.1rem,4.4vw,3.3rem); line-height:1.02; letter-spacing:-.033em; margin:0; }
+.mk-name{ font-weight:700; font-size:clamp(1.7rem,3vw,2.3rem); line-height:1.05; letter-spacing:-.03em; margin:0; }
 .mk-name .mk-kr{ display:block; font-family:"Pretendard","Helvetica Neue",sans-serif; font-weight:500; font-size:.30em; letter-spacing:.02em; color:$muted; margin-top:.7em; }
 .mk-lead{ font-size:clamp(1.16rem,2.1vw,1.5rem); line-height:1.4; letter-spacing:-.012em; max-width:25ch; margin:34px 0 0; font-weight:400; }
 
