@@ -94,25 +94,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="./media.html"> 
 <span class="menu-text">Media</span></a>
   </li>  
-  <li class="nav-item dropdown ">
-    <a class="nav-link dropdown-toggle" href="#" id="nav-menu-" role="link" data-bs-toggle="dropdown" aria-expanded="false">
- <span class="menu-text">한국어</span>
-    </a>
-    <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-">    
-        <li>
-    <a class="dropdown-item" href="./korean.html">
- <span class="dropdown-text">약력</span></a>
+  <li class="nav-item">
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">🌐 한국어</span></a>
   </li>  
-        <li>
-    <a class="dropdown-item" href="./interview.html">
- <span class="dropdown-text">인터뷰</span></a>
-  </li>  
-        <li>
-    <a class="dropdown-item" href="./life.html">
- <span class="dropdown-text">취미생활</span></a>
-  </li>  
-    </ul>
-  </li>
 </ul>
           </div> <!-- /navcollapse -->
             <div class="quarto-navbar-tools">
@@ -208,6 +193,37 @@ ul.task-list li input[type="checkbox"] {
 </section>
 
 </main> <!-- /main -->
+<script>
+(function(){
+  var EN={'research.html':'Research','publications.html':'Publications','teaching.html':'Teaching','cv.html':'CV','media.html':'Media'};
+  var KO={'research.html':'연구','publications.html':'출판물','teaching.html':'교육','cv.html':'약력','media.html':'미디어'};
+  var KO_ONLY={'interview.html':1,'life.html':1};   // Korean-only pages (no EN counterpart)
+  function link(f,ko){ return (ko?'/ko/':'/') + (f==='index.html'?'':f); }
+  function run(){
+    var segs=location.pathname.split('/').filter(Boolean);
+    var file=segs.length?segs[segs.length-1]:'index.html';
+    if(file==='ko'||!/\.html$/.test(file)) file='index.html';
+    var isKo=segs.indexOf('ko')!==-1;
+    document.documentElement.lang = isKo?'ko':'en';
+    document.querySelectorAll('.navbar-nav .nav-link').forEach(function(a){
+      var txt=a.textContent||'';
+      if(txt.indexOf('🌐')!==-1){                    // the language toggle
+        var enExists = !KO_ONLY[file];
+        a.setAttribute('href', isKo ? (enExists?link(file,false):'/') : link(file,true));
+        a.textContent = isKo ? 'EN' : '한국어';
+        a.setAttribute('aria-label','Switch language');
+        a.classList.add('mk-langtoggle');
+        return;
+      }
+      var t=(a.getAttribute('href')||'').split('/').pop()||'index.html';
+      if(EN[t]){ a.setAttribute('href', link(t,isKo)); a.textContent=(isKo?KO:EN)[t]; }
+    });
+    var brand=document.querySelector('.navbar-brand');
+    if(brand) brand.setAttribute('href', link('index.html',isKo));
+  }
+  if(document.readyState!=='loading') run(); else document.addEventListener('DOMContentLoaded',run);
+})();
+</script>
 <script id="quarto-html-after-body" type="application/javascript">
 window.document.addEventListener("DOMContentLoaded", function (event) {
   const toggleBodyColorMode = (bsSheetEl) => {

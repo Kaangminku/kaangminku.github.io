@@ -1,0 +1,135 @@
+---
+title: "연구 · 연구비"
+pagetitle: "연구 · 연구비 — 강민구"
+lang: ko
+toc: true
+toc-depth: 3
+---
+
+## 개요
+
+- **연구책임자**, 군 장병 정신건강의 결정요인 연구
+- **연구책임자**, 전공의 36시간 연속근무 제도 개선 연구
+- *International Journal of Equity in Health*, *BMC Public Health* 동료심사위원
+
+## 연구책임자 (Principal Investigator)
+
+- **군 장병 정신건강의 결정요인 연구**
+  - 국방부 국군의무사령부 지정과제 / Commissioned Research Grant, Armed Forces Medical Command
+  - **2026.03–2027.03** (6,380,000 원 / 6,380,000 KRW)
+
+- **전공의 36시간 연속근무 제도 개선 연구**
+  - 대한의사협회 의료정책연구원 지정과제 / Commissioned Research Grant, Korean Medical Association Institute for Healthcare Policy
+  - **2023.05–2024.01** (10,000,000 원 / 10,000,000 KRW)
+
+- **전공의 실태조사**
+  - 대한전공의협의회 / Korean Intern and Resident Association
+  - **2022.09–2023.02**
+
+## 공동연구원 (Co-Investigator)
+
+- **'24년 의료대란 이후 군 보건의료기관 의료이용 변화 조사**
+  - 국방부 국군의무사령부 (Armed Forces Medical Command, MND)
+  - **2026**
+
+- **군 장병의 군병원 및 민간병원 의료이용 행태 연구**
+  - 국방부 국군의무사령부 (Armed Forces Medical Command, MND)
+  - **2025–2026**
+
+- **군 감염병 대응 및 관리역량 강화 방안 연구**
+  - 질병관리청 (Korea Disease Control and Prevention Agency)
+  - **2025**
+
+- **건강위해 예방 및 관리를 위한 로드맵 구축 연구**
+  - 질병관리청 (Korea Disease Control and Prevention Agency)
+  - **2025**
+
+- **한국군 해외파병 장병 말라리아 검사 지원 및 기후기반 발생 예측 연구**
+  - 국방부 국군의학연구소 (Armed Forces Medical Research Institute, MND)
+  - **2025**
+
+- **한국군 해외파병부대(남수단) 열성 감염병 노출 분석 연구**
+  - 국방부 국군의무사령부 (Armed Forces Medical Command, MND)
+  - **2025**
+
+- **군 감염병 예방접종 정책 결정을 위한 종합 검토**
+  - 국방부 국군의무사령부 (Armed Forces Medical Command, MND)
+  - **2024**
+
+## 연구보조원 (Research Assistant)
+
+- **코로나19가 건강형평성에 미친 영향**
+  - 보건복지부 (Ministry of Health and Welfare)
+  - **2022.06–2022.12**
+  - (문헌고찰, 국민건강보험공단 빅데이터 분석, 보고서 작성)
+
+- **임대아파트 거주 정신장애인의 지역사회 서비스 이용 실태 분석**
+  - 대통령직속정책기획위원회
+  - **2022.02–2022.04**
+  - (문헌고찰 및 보고서 작성)
+
+- **커뮤니티 기반 맞춤형 정신건강 리빙랩 형성 연구**
+  - 고려대학교 기업산학연협력센터 (Korea University)
+  - **2021.11–2022.01**
+  - (연구참여 및 리빙랩포럼 참석)
+
+- **정신건강증진시설 환경개선 연구**
+  - 보건복지부 (Ministry of Health and Welfare)
+  - **2021.04–2021.12**
+  - (연구행정 총괄, 정신의료기관 현지 실태조사, 데이터 분석)
+
+- **국가 성매개감염병 감시체계 제도 개선 연구**
+  - 질병관리청 (Korea Disease Control and Prevention Agency)
+  - **2021.09–2022.03**
+  - (문헌고찰 및 연구참여)
+
+- **큐열(Q fever) 고위험군 혈청역학조사 및 예방 가이드라인 개발**
+  - 질병관리청 (Korea Disease Control and Prevention Agency)
+  - **2021.11–2022.03**
+  - (연구행정 총괄, 현장 혈청역학조사 준비 및 수행)
+
+- **질병 및 건강요인 시공간 분석 연구**
+  - 고려대학교 의과대학 (Korea University Medicine)
+  - **2021.09–2022.02**
+  - (국민건강보험공단 빅데이터 전처리)
+
+- **KOICA–타슈켄트 의과대학 감염성질환 교육 및 연구역량 강화사업**
+  - 한국국제협력단 (Korea International Cooperation Agency, KOICA)
+  - **2021.11–2021.12**
+  - (보건전문가/Health Specialist: 현지 R 기반 역학교육, 설문 데이터 전처리 및 분석)
+
+- **의료기기 민간자격 인증제도 정책 연구**
+  - **2021.04–2021.12**
+  - (문헌고찰 및 연구참여)
+
+- **노년층 사회경제적 요인과 복합만성질환 연구**
+  - 고려대학교 의과대학 (Korea University Medicine)
+  - **2016.10–2017.01**
+  - (문헌고찰 및 연구참여)
+
+## 사회 참여 프로젝트 (Public Engagement Projects)
+
+- **청년 공간 공유 프로젝트**
+  - 우사단작업실 (Woosadan Studio)
+  - **2018–2020**
+  - (프로젝트 총괄 및 공간운영)
+
+- **인문예술콘서트 실험적인(人) 시리즈**
+  - 문화체육관광부 (Ministry of Culture, Sports and Tourism)
+  - **2018**
+  - (프로젝트 참여 및 공간운영)
+
+- **우사단 작업실 오프닝 파티**
+  - 우사단작업실 (Woosadan Studio)
+  - **2018**
+  - (프로젝트 총괄 및 공간운영)
+
+- **학생 주거권 행동 프로젝트(도토리 프로젝트)**
+  - 고려대학교 (Korea University)
+  - **2015**
+  - (프로젝트 책임, 국회 \<20대 주거문제 개선을 위한 토론회\> 지정토론 발제)
+
+- **고려대학교 석탑대동제 기획**
+  - 고려대학교 (Korea University)
+  - **2015**
+  - (축제기획 책임)

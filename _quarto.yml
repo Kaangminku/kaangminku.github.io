@@ -23,14 +23,8 @@ website:
         href: cv.qmd
       - text: "Media"
         href: media.qmd
-      - text: "한국어"
-        menu:
-          - text: "약력"
-            href: korean.qmd
-          - text: "인터뷰"
-            href: interview.qmd
-          - text: "취미생활"
-            href: life.qmd
+      - text: "🌐 한국어"
+        href: index.qmd
   page-footer:
     border: true
     left: "© 2026 Minku Kang"
@@ -46,6 +40,8 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     anchor-sections: false
+    include-after-body:
+      - lang-toggle.html
     include-in-header:
       - text: |
           <link rel="preconnect" href="https://fonts.googleapis.com">

@@ -150,3 +150,6 @@ body.mk-home #quarto-content > *{ padding-top:0; }
 .mk-links{ display:flex; flex-wrap:wrap; gap:22px; margin-top:28px; }
 .mk-links a{ font-size:13px; color:$muted; border-bottom:1px solid transparent; padding-bottom:2px; }
 .mk-links a:hover{ color:$ink; border-color:$ink; }
+.mk-more{ margin-top:26px; font-size:13px; color:$faint; }
+.mk-more a{ color:$muted; border-bottom:1px solid #cfcec9; }
+.mk-more a:hover{ color:$ink; border-color:$ink; }
