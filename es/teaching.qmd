@@ -1,0 +1,53 @@
+---
+title: "Docencia"
+lang: es
+toc: true
+toc-depth: 2
+---
+
+## Experiencia docente
+
+**Asistente de docencia** — Korea University College of Medicine (Mar 2021 – Feb 2024)
+
+- Medicina preventiva I y II
+- Rotación de medicina comunitaria
+- Derecho médico
+
+**Apoyo a las sesiones prácticas**
+
+- Comunicación de incidentes de seguridad del paciente (PBL) — Armed Forces Medical Command (Sep 2025)
+- Epidemiología de campo basada en casos (PBL) — Air Force HQ & Navy HQ (Sep 2025)
+- Atención asequible — Seoul National University College of Medicine (Feb 2023)
+
+**Mentoría**
+
+- Mentoría de posgrado para estudiantes internacionales — Korea University (Mar 2022 – Feb 2023)
+- Mentoría de investigación para estudiantes — Korea University College of Medicine (Mar 2021 – Feb 2022)
+
+## Cursos
+
+**Docente responsable (previsto)**
+
+- **Seminario Korean Healthcare Policy 101** — seminario de posgrado, 16 semanas.
+  *Público objetivo:* estudiantes de posgrado y profesionales del ámbito sanitario.
+  *Puntos destacados:* orígenes del sistema de salud coreano, seguro nacional de salud y cuidados de larga duración, atención primaria y gestión de enfermedades crónicas, servicios médicos esenciales, salud pública y desigualdades en salud, salud mental pública, respuesta ante desastres, política de recursos humanos en salud y el proceso de elaboración de políticas legislativas.
+- **Salud mental pública: determinantes sociales, política y salud mental** — curso de posgrado
+- **Medicina preventiva y salud pública** — asignatura de especialidad de grado (Medicina)
+- **Determinantes sociales y salud** — asignatura de formación general de grado
+
+## Programa — Korean Healthcare Policy 101 (16 semanas)
+
+- **Semana 1** — Orígenes y contradicciones del sistema de salud coreano: ¿es sostenible el Seguro Nacional de Salud, que se prevé que entrará en déficit antes que el sistema nacional de pensiones?
+- **Semana 2** — Introducción a los sistemas sanitarios comparados: comparación internacional de los principales sistemas e indicadores de salud.
+- **Semanas 3–4** — Seguro Nacional de Salud (financiación, mancomunación de riesgos, tablas de tarifas, sistemas de pago) y seguro de cuidados de larga duración.
+- **Semana 5** — Sistema sanitario ①: atención primaria, gestión de enfermedades crónicas, sistema de médico de cabecera, atención integrada.
+- **Semana 6** — Sistema sanitario ②: medicina de urgencias, pediatría, obstetricia, cuidados intensivos («servicios médicos esenciales»).
+- **Semanas 7–8** — Sistema sanitario ③: sanidad pública, desigualdades en salud, sanidad regional, políticas/entornos sociales y salud, gasto sanitario catastrófico.
+- **Semana 9** — Sistema sanitario ④: prevención del suicidio, salud mental pública, sistema de atención en salud mental.
+- **Semana 10** — Sistema sanitario ⑤: respuesta ante enfermedades infecciosas y desastres, salud global, salud vinculada a la unificación, sistema sanitario militar.
+- **Semana 11** — Política de recursos humanos en salud ①: estructura del personal hospitalario, educación y formación médica (PGME, CME), condiciones laborales, Medical Residents Act, Nursing Act, proyecciones de oferta/demanda (cupos de las facultades de medicina).
+- **Semana 12** — Política de recursos humanos en salud ②: asistentes médicos (PA), ajuste del ámbito de ejercicio profesional, unificación médica, litigios médicos y responsabilidad jurídica, inmigración de médicos y enfermeros.
+- **Semana 13** — Política de recursos humanos en salud ③: sindicatos de trabajadores sanitarios — principales actividades y cuestiones de política (acciones reivindicativas, dimisión masiva de residentes).
+- **Semana 14** — Industria sanitaria, regulación y política legislativa.
+- **Semana 15** — El proceso de elaboración de políticas para los profesionales: Asamblea Nacional, gobierno y sociedad civil.
+- **Semana 16** — Conclusión y evaluación: retos y orientaciones futuras / examen final (posgrado).

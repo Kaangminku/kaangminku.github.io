@@ -115,6 +115,18 @@ ul.task-list li input[type="checkbox"] {
     <a class="dropdown-item" href="./ja/index.html">
  <span class="dropdown-text">日本語</span></a>
   </li>  
+        <li>
+    <a class="dropdown-item" href="./de/index.html">
+ <span class="dropdown-text">Deutsch</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./es/index.html">
+ <span class="dropdown-text">Español</span></a>
+  </li>  
+        <li>
+    <a class="dropdown-item" href="./ru/index.html">
+ <span class="dropdown-text">Русский</span></a>
+  </li>  
     </ul>
   </li>
 </ul>
@@ -189,14 +201,14 @@ ul.task-list li input[type="checkbox"] {
 <script>
 (function(){
   var NAV = {
-    'research.html':    {en:'Research',     ko:'연구',   fr:'Recherche',     ja:'研究'},
-    'publications.html':{en:'Publications', ko:'출판물', fr:'Publications',  ja:'論文'},
-    'teaching.html':    {en:'Teaching',     ko:'교육',   fr:'Enseignement',  ja:'教育'},
-    'cv.html':          {en:'CV',           ko:'약력',   fr:'CV',            ja:'略歴'},
-    'media.html':       {en:'Media',        ko:'미디어', fr:'Médias',        ja:'メディア'}
+    'research.html':    {en:'Research',     ko:'연구',   fr:'Recherche',    ja:'研究',   de:'Forschung',    es:'Investigación', ru:'Исследования'},
+    'publications.html':{en:'Publications', ko:'출판물', fr:'Publications', ja:'論文',   de:'Publikationen',es:'Publicaciones', ru:'Публикации'},
+    'teaching.html':    {en:'Teaching',     ko:'교육',   fr:'Enseignement', ja:'教育',   de:'Lehre',        es:'Docencia',      ru:'Преподавание'},
+    'cv.html':          {en:'CV',           ko:'약력',   fr:'CV',           ja:'略歴',   de:'CV',           es:'CV',            ru:'CV'},
+    'media.html':       {en:'Media',        ko:'미디어', fr:'Médias',       ja:'メディア', de:'Medien',      es:'Medios',        ru:'Медиа'}
   };
-  var LANGNAME = {en:'English', ko:'한국어', fr:'Français', ja:'日本語'};
-  var PREFIX   = {en:'/', ko:'/ko/', fr:'/fr/', ja:'/ja/'};
+  var LANGNAME = {en:'English', ko:'한국어', fr:'Français', ja:'日本語', de:'Deutsch', es:'Español', ru:'Русский'};
+  var PREFIX   = {en:'/', ko:'/ko/', fr:'/fr/', ja:'/ja/', de:'/de/', es:'/es/', ru:'/ru/'};
   var KO_ONLY  = {'interview.html':1,'life.html':1};   // exist only in Korean
   function link(lang,file){ return PREFIX[lang] + (file==='index.html'?'':file); }
   function pageOf(){
@@ -210,7 +222,6 @@ ul.task-list li input[type="checkbox"] {
   function run(){
     var p=pageOf(), lang=p.lang, file=p.file;
     document.documentElement.lang=lang;
-    // localize main nav items (labels + per-language hrefs)
     document.querySelectorAll('.navbar-nav .nav-link').forEach(function(a){
       if(a.classList.contains('dropdown-toggle')) return;
       var t=(a.getAttribute('href')||'').split('/').pop()||'index.html';
@@ -218,7 +229,6 @@ ul.task-list li input[type="checkbox"] {
     });
     var brand=document.querySelector('.navbar-brand');
     if(brand) brand.setAttribute('href', link(lang,'index.html'));
-    // language dropdown: rewrite each item to the same page in that language
     var byName={}; Object.keys(LANGNAME).forEach(function(lg){ byName[LANGNAME[lg]]=lg; });
     document.querySelectorAll('.navbar .dropdown-item').forEach(function(a){
       var lg=byName[(a.textContent||'').trim()];
@@ -227,7 +237,6 @@ ul.task-list li input[type="checkbox"] {
       a.setAttribute('href', target);
       if(lg===lang){ a.classList.add('active'); a.setAttribute('aria-current','true'); }
     });
-    // label the dropdown toggle with the current language
     document.querySelectorAll('.navbar .nav-link.dropdown-toggle').forEach(function(tog){
       var menu=tog.parentElement.querySelector('.dropdown-menu');
       if(menu && menu.textContent.indexOf('Français')!==-1){ tog.textContent='🌐 '+LANGNAME[lang]; }

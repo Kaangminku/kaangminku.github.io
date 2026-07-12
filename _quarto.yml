@@ -33,6 +33,12 @@ website:
             href: fr/index.qmd
           - text: "日本語"
             href: ja/index.qmd
+          - text: "Deutsch"
+            href: de/index.qmd
+          - text: "Español"
+            href: es/index.qmd
+          - text: "Русский"
+            href: ru/index.qmd
   page-footer:
     border: true
     left: "© 2026 Minku Kang"

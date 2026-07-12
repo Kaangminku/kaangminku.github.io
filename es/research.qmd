@@ -1,0 +1,76 @@
+---
+title: "Proyectos de investigación y subvenciones"
+lang: es
+toc: true
+toc-depth: 2
+---
+
+## Panorama general
+
+- **Investigador principal** — Determinantes de la salud mental en el personal militar
+- **Investigador principal** — Estudio sobre la mejora del sistema de guardias consecutivas de 36 horas para residentes
+- Revisor por pares para *International Journal of Equity in Health* y *BMC Public Health*
+
+## Investigador principal
+
+- **Determinantes de la salud mental en el personal militar**
+  - Subvención de investigación por encargo, Armed Forces Medical Command (MND)
+  - **2026.03–2027.03** (KRW 6,380,000)
+- **Estudio sobre la mejora del sistema de turnos consecutivos de 36 horas para internos y residentes médicos**
+  - Subvención de investigación por encargo, Korean Medical Association Institute for Healthcare Policy
+  - **2023.05–2024.01** (KRW 10,000,000)
+- **Encuesta coreana de internos y residentes**
+  - Korean Intern and Resident Association
+  - **2022.09–2023.02**
+
+## Coinvestigador
+
+- **Cambios en la utilización de servicios médicos en los hospitales militares tras la crisis sanitaria de 2024**
+  - Armed Forces Medical Command (MND) — **2026**
+- **Análisis de la utilización de servicios sanitarios del personal militar en hospitales militares y civiles**
+  - Armed Forces Medical Command (MND) — **2025–2026**
+- **Fortalecimiento de la capacidad de respuesta y gestión de las enfermedades infecciosas en el ámbito militar**
+  - Korea Disease Control and Prevention Agency (KDCA) — **2025**
+- **Elaboración de una hoja de ruta para la prevención y gestión de los riesgos para la salud**
+  - Korea Disease Control and Prevention Agency (KDCA) — **2025**
+- **Apoyo al cribado de la malaria y modelización predictiva basada en el clima entre las fuerzas surcoreanas (ROK) desplegadas**
+  - Armed Forces Medical Research Institute (MND) — **2025**
+- **Exposición a enfermedades infecciosas febriles entre las fuerzas surcoreanas (ROK) desplegadas en Sudán del Sur**
+  - Armed Forces Medical Command (MND) — **2025**
+- **Revisión integral para la toma de decisiones sobre la política de vacunación militar**
+  - Armed Forces Medical Command (MND) — **2024**
+
+## Asistente de investigación
+
+- **El impacto de la COVID-19 en la equidad en salud**
+  - Ministry of Health and Welfare — **2022.06–2022.12**
+  - (Revisión bibliográfica, análisis de macrodatos del NHIS, redacción del informe)
+- **Análisis del uso de servicios comunitarios por parte de personas con enfermedad mental que viven en vivienda de alquiler**
+  - Presidential Committee on Policy Planning — **2022.02–2022.04**
+- **Investigación sobre la creación de living labs de salud mental personalizados y basados en la comunidad**
+  - Korea University — **2021.11–2022.01**
+- **Mejora de la calidad de las instituciones psiquiátricas**
+  - Ministry of Health and Welfare — **2021.04–2021.12**
+  - (Administración de la investigación, encuestas in situ en instituciones psiquiátricas, análisis de datos)
+- **Estudio sobre la mejora del sistema nacional de vigilancia de las infecciones de transmisión sexual**
+  - Korea Disease Control and Prevention Agency (KDCA) — **2021.09–2022.03**
+- **Encuesta de seroprevalencia y elaboración de directrices preventivas para la fiebre Q en grupos de alto riesgo**
+  - Korea Disease Control and Prevention Agency (KDCA) — **2021.11–2022.03**
+  - (Administración de la investigación, encuesta seroepidemiológica de campo)
+- **Análisis espacio-temporal de las enfermedades y los factores relacionados con la salud**
+  - Korea University Medicine — **2021.09–2022.02**
+- **Proyecto de formación y refuerzo en prevención, diagnóstico y análisis de enfermedades infecciosas (KOICA–Tashkent Medical University)**
+  - Korea International Cooperation Agency (KOICA) — **2021.11–2021.12**
+  - (Especialista en salud: formación en epidemiología basada en R, procesamiento y análisis de datos de encuestas)
+- **Estudios de política sobre el sistema de certificación privada de dispositivos médicos en Corea del Sur**
+  - **2021.04–2021.12**
+- **Efecto de los factores socioeconómicos en la salud del grupo de edad avanzada: enfermedades crónicas complejas**
+  - Korea University Medicine — **2016.10–2017.01**
+
+## Proyectos de participación social
+
+- **Proyecto de espacios compartidos para jóvenes** — Woosadan Studio — **2018–2020**
+- **Ciclo de conciertos callejeros: humanidades y artes** — Ministry of Culture, Sports and Tourism — **2018**
+- **Fiesta de inauguración del Usadan Studio** — Woosadan Studio — **2018**
+- **Acción por la vivienda estudiantil: proyecto de residencias universitarias** — Korea University — **2015**
+- **Festival de Korea University** — Korea University — **2015**

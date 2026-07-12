@@ -1,0 +1,64 @@
+---
+pagetitle: "Minku Kang — Médico de medicina preventiva e investigador en políticas de salud"
+description: "Minku Kang (강민구) — médico de medicina preventiva, epidemiólogo social e investigador en políticas de salud en Seúl."
+page-layout: full
+toc: false
+lang: es
+---
+
+<style>#title-block-header{display:none}</style>
+
+<div class="mk-wrap">
+
+<section class="mk-hero">
+<div class="mk-hgrid">
+<div>
+<h1 class="mk-name">Minku Kang<span class="mk-kr">강민구</span></h1>
+<p class="mk-lead">Estudio cómo el trabajo, la desigualdad y la política social moldean la salud mental — y convierto la evidencia en reformas.</p>
+</div>
+<figure class="mk-portrait">
+<img src="../images/profile.jpg" alt="Minku Kang">
+<figcaption>Médico de medicina preventiva<br>Comando Médico de las Fuerzas Armadas, Seúl</figcaption>
+</figure>
+</div>
+</section>
+
+<section class="mk-about">
+<p>Minku Kang es médico de medicina preventiva y epidemiólogo social. Su investigación indaga cómo el trabajo precario, las largas jornadas laborales y la desigualdad se traducen en una peor salud mental — y cómo esa evidencia puede impulsar la reforma institucional.</p>
+<p>Como presidente de la Korean Intern Resident Association, lideró el esfuerzo nacional para reformar la normativa sobre las horas de guardia de los médicos residentes, por lo que recibió una mención honorífica del ministro de Salud y Bienestar. Está finalizando un doctorado en Salud Pública en Korea University y un máster en Políticas Públicas en la KDI School, y ejerce como epidemiólogo y oficial de políticas de salud en el Comando Médico de las Fuerzas Armadas.</p>
+</section>
+
+<section class="mk-sec">
+<div class="mk-lbl">Trabajos seleccionados</div>
+<div class="mk-list">
+<a href="research.qmd"><span class="y">2022–25</span><span class="t">Reforma del sistema de guardias consecutivas de 36 horas de los residentes</span><span class="m">Investigador principal</span></a>
+<a href="research.qmd"><span class="y">2026–</span><span class="t">Determinantes de la salud mental en el personal militar</span><span class="m">Investigador principal</span></a>
+<a href="publications.qmd"><span class="y">2023</span><span class="t">Desigualdades de género en la salud mental en la era de la pandemia</span><span class="m">J. Prev. Med. Public Health</span></a>
+<a href="publications.qmd"><span class="y">2026</span><span class="t">Resultados del cribado nacional de cáncer gastrointestinal</span><span class="m">BMJ Open</span></a>
+</div>
+</section>
+
+<section class="mk-sec">
+<div class="mk-lbl">Líneas de investigación</div>
+<div class="mk-themes">
+<div class="mk-theme"><h3>Medicina preventiva</h3><p>Medicina preventiva clínica, evaluación de riesgos para la salud, cribado y manejo, medicina poblacional y ocupacional, medicina del estilo de vida.</p></div>
+<div class="mk-theme"><h3>Determinantes sociales de la salud</h3><p>Salud mental en el trabajo, prevención del suicidio, epidemiología social, mercados laborales, desigualdades en salud y el entorno del barrio.</p></div>
+<div class="mk-theme"><h3>Política y gestión de la salud</h3><p>Personal sanitario, sistemas de salud y reforma sanitaria.</p></div>
+</div>
+</section>
+
+<section class="mk-contact">
+<div class="mk-lbl">Contacto</div>
+<a class="mk-mail" href="mailto:kangminku.kr@gmail.com">kangminku.kr@gmail.com</a>
+<div class="mk-links">
+<a href="https://scholar.google.com/citations?user=BUn--4YAAAAJ" target="_blank">Google Scholar</a>
+<a href="https://orcid.org/0000-0002-7226-8159" target="_blank">ORCID</a>
+<a href="https://www.researchgate.net/profile/Minku-Kang-2" target="_blank">ResearchGate</a>
+<a href="https://www.linkedin.com/in/kangminku/" target="_blank">LinkedIn</a>
+<a href="../assets/CV_Minku_Kang_2026.pdf" target="_blank">CV (PDF)</a>
+</div>
+</section>
+
+</div>
+
+<script>document.body.classList.add('mk-home');</script>

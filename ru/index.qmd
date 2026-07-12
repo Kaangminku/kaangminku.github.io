@@ -1,0 +1,64 @@
+---
+pagetitle: "Minku Kang — врач профилактической медицины и исследователь политики здравоохранения"
+description: "Minku Kang (강민구) — врач профилактической медицины, социальный эпидемиолог и исследователь политики здравоохранения в Сеуле."
+page-layout: full
+toc: false
+lang: ru
+---
+
+<style>#title-block-header{display:none}</style>
+
+<div class="mk-wrap">
+
+<section class="mk-hero">
+<div class="mk-hgrid">
+<div>
+<h1 class="mk-name">Minku Kang<span class="mk-kr">강민구</span></h1>
+<p class="mk-lead">Я изучаю, как труд, неравенство и социальная политика формируют психическое здоровье, — и превращаю полученные данные в реформы.</p>
+</div>
+<figure class="mk-portrait">
+<img src="../images/profile.jpg" alt="Minku Kang">
+<figcaption>Врач профилактической медицины<br>Armed Forces Medical Command, Сеул</figcaption>
+</figure>
+</div>
+</section>
+
+<section class="mk-about">
+<p>Minku Kang — врач профилактической медицины и социальный эпидемиолог. Его исследования посвящены тому, как нестабильная занятость, продолжительный рабочий день и неравенство приводят к ухудшению психического здоровья, — и как эти данные могут продвигать институциональные реформы.</p>
+<p>Будучи президентом Korean Intern Resident Association, он возглавил общенациональные усилия по реформированию нормативов рабочего времени врачей-ординаторов, за что был удостоен благодарности от Minister of Health and Welfare. Он завершает докторантуру по общественному здравоохранению в Korea University и магистратуру по государственной политике в KDI School, а также служит эпидемиологом и офицером по политике здравоохранения в Armed Forces Medical Command.</p>
+</section>
+
+<section class="mk-sec">
+<div class="mk-lbl">Избранные работы</div>
+<div class="mk-list">
+<a href="research.qmd"><span class="y">2022–25</span><span class="t">Реформа системы 36-часовых непрерывных дежурств ординаторов</span><span class="m">Руководитель проекта</span></a>
+<a href="research.qmd"><span class="y">2026–</span><span class="t">Детерминанты психического здоровья военнослужащих</span><span class="m">Руководитель проекта</span></a>
+<a href="publications.qmd"><span class="y">2023</span><span class="t">Гендерное неравенство в психическом здоровье в период пандемии</span><span class="m">J. Prev. Med. Public Health</span></a>
+<a href="publications.qmd"><span class="y">2026</span><span class="t">Результаты национального скрининга рака желудочно-кишечного тракта</span><span class="m">BMJ Open</span></a>
+</div>
+</section>
+
+<section class="mk-sec">
+<div class="mk-lbl">Направления исследований</div>
+<div class="mk-themes">
+<div class="mk-theme"><h3>Профилактическая медицина</h3><p>Клиническая профилактическая медицина, оценка рисков для здоровья, скрининг и ведение пациентов, популяционная медицина и медицина труда, медицина образа жизни.</p></div>
+<div class="mk-theme"><h3>Социальные детерминанты здоровья</h3><p>Психическое здоровье на рабочем месте, профилактика суицидов, социальная эпидемиология, рынки труда, неравенства в здоровье и среда по месту жительства.</p></div>
+<div class="mk-theme"><h3>Политика и управление в здравоохранении</h3><p>Медицинские работники, системы здравоохранения и реформа здравоохранения.</p></div>
+</div>
+</section>
+
+<section class="mk-contact">
+<div class="mk-lbl">Контакты</div>
+<a class="mk-mail" href="mailto:kangminku.kr@gmail.com">kangminku.kr@gmail.com</a>
+<div class="mk-links">
+<a href="https://scholar.google.com/citations?user=BUn--4YAAAAJ" target="_blank">Google Scholar</a>
+<a href="https://orcid.org/0000-0002-7226-8159" target="_blank">ORCID</a>
+<a href="https://www.researchgate.net/profile/Minku-Kang-2" target="_blank">ResearchGate</a>
+<a href="https://www.linkedin.com/in/kangminku/" target="_blank">LinkedIn</a>
+<a href="../assets/CV_Minku_Kang_2026.pdf" target="_blank">CV (PDF)</a>
+</div>
+</section>
+
+</div>
+
+<script>document.body.classList.add('mk-home');</script>

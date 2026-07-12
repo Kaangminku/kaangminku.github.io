@@ -1,0 +1,53 @@
+---
+title: "Lehre"
+lang: de
+toc: true
+toc-depth: 2
+---
+
+## Lehrerfahrung
+
+**Lehrassistent** — Korea University College of Medicine (Mar 2021 – Feb 2024)
+
+- Präventivmedizin I und II
+- Blockpraktikum Gemeindemedizin
+- Medizinrecht
+
+**Unterstützung bei praktischen Übungen**
+
+- Kommunikation bei Patientensicherheitsvorfällen (PBL) — Armed Forces Medical Command (Sep 2025)
+- Fallbasierte Feldepidemiologie (PBL) — Air Force HQ & Navy HQ (Sep 2025)
+- Bezahlbare Gesundheitsversorgung — Seoul National University College of Medicine (Feb 2023)
+
+**Mentoring**
+
+- Graduiertenmentoring für internationale Studierende — Korea University (Mar 2022 – Feb 2023)
+- Mentoring studentischer Forschung — Korea University College of Medicine (Mar 2021 – Feb 2022)
+
+## Lehrveranstaltungen
+
+**Kursleitung (geplant)**
+
+- **Seminar Korean Healthcare Policy 101** — Graduiertenseminar, 16 Wochen.
+  *Zielgruppe:* Graduierte und Fachkräfte im Gesundheitswesen.
+  *Schwerpunkte:* Ursprünge des koreanischen Gesundheitssystems, nationale Krankenversicherung und Langzeitpflege, Primärversorgung und Management chronischer Erkrankungen, essenzielle medizinische Leistungen, Public Health und gesundheitliche Ungleichheiten, öffentliche psychische Gesundheit, Katastrophenschutz, Personalpolitik im Gesundheitswesen sowie der gesetzgeberische Politikprozess.
+- **Öffentliche psychische Gesundheit: Soziale Determinanten, Politik und psychische Gesundheit** — Graduiertenkurs
+- **Präventivmedizin und Public Health** — Fachkurs im grundständigen Studium (Medizin)
+- **Soziale Determinanten und Gesundheit** — allgemeinbildender Kurs im grundständigen Studium
+
+## Lehrplan — Korean Healthcare Policy 101 (16 Wochen)
+
+- **Woche 1** — Ursprünge und Widersprüche des koreanischen Gesundheitssystems: Ist die nationale Krankenversicherung, die voraussichtlich schneller als die nationale Rentenversicherung in ein Defizit gerät, nachhaltig finanzierbar?
+- **Woche 2** — Einführung in vergleichende Gesundheitssysteme: internationaler Vergleich wichtiger Systeme und Gesundheitsindikatoren.
+- **Wochen 3–4** — Nationale Krankenversicherung (Finanzierung, Risikoausgleich, Gebührenordnungen, Vergütungssysteme) und Langzeitpflegeversicherung.
+- **Woche 5** — Gesundheitssystem ①: Primärversorgung, Management chronischer Erkrankungen, Hausarztsystem, integrierte Versorgung.
+- **Woche 6** — Gesundheitssystem ②: Notfallmedizin, Pädiatrie, Geburtshilfe, Intensivmedizin („essenzielle medizinische Leistungen“).
+- **Wochen 7–8** — Gesundheitssystem ③: öffentliche Gesundheitsversorgung, gesundheitliche Ungleichheiten, regionale Gesundheitsversorgung, Sozialpolitik/soziale Umfelder und Gesundheit, katastrophale Gesundheitsausgaben.
+- **Woche 9** — Gesundheitssystem ④: Suizidprävention, öffentliche psychische Gesundheit, System der psychischen Gesundheitsversorgung.
+- **Woche 10** — Gesundheitssystem ⑤: Reaktion auf Infektionskrankheiten und Katastrophen, globale Gesundheit, Gesundheitsversorgung im Kontext der Wiedervereinigung, militärisches Gesundheitssystem.
+- **Woche 11** — Personalpolitik im Gesundheitswesen ①: Personalstruktur der Krankenhäuser, medizinische Aus- und Weiterbildung (PGME, CME), Arbeitsbedingungen, Medical Residents Act, Nursing Act, Angebots- und Nachfrageprognosen (Zulassungsquoten der medizinischen Fakultäten).
+- **Woche 12** — Personalpolitik im Gesundheitswesen ②: Physician Assistants (PA), Anpassung des Tätigkeitsspektrums, Vereinheitlichung des Medizinsystems, medizinische Streitfälle und rechtliche Haftung, Zuwanderung von Ärzten und Pflegekräften.
+- **Woche 13** — Personalpolitik im Gesundheitswesen ③: Gewerkschaften der Beschäftigten im Gesundheitswesen — wichtige Aktivitäten und politische Themen (Arbeitskampf, Massenkündigung von Assistenzärzten).
+- **Woche 14** — Gesundheitswirtschaft, Regulierung und Gesetzgebungspolitik.
+- **Woche 15** — Der Politikprozess für Praktiker: Nationalversammlung, Regierung und Zivilgesellschaft.
+- **Woche 16** — Fazit und Leistungsbewertung: künftige Herausforderungen und Perspektiven / (Graduierten-)Abschlussprüfung.
