@@ -14,7 +14,7 @@ toc-depth: 2
 - 地域医療クラークシップ
 - 医事法
 
-**招待講演・ワークショップ**
+**実習補助**
 
 - 患者安全インシデント・コミュニケーション（PBL） — Armed Forces Medical Command（2025年9月）
 - 症例基盤型の実地疫学（PBL） — Air Force HQ & Navy HQ（2025年9月）

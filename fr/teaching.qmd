@@ -13,7 +13,7 @@ toc-depth: 2
 - Stage de médecine communautaire
 - Droit médical
 
-**Conférences et ateliers sur invitation**
+**Appui aux travaux pratiques**
 
 - Communication lors d'incidents liés à la sécurité des patients (PBL) — Armed Forces Medical Command (Sep 2025)
 - Épidémiologie de terrain fondée sur des cas (PBL) — Air Force HQ & Navy HQ (Sep 2025)
