@@ -23,6 +23,8 @@ website:
         href: teaching.qmd
       - text: "Media"
         href: media.qmd
+      - text: "Blog"
+        href: blog.qmd
       - text: "🌐 Language"
         menu:
           - text: "English"

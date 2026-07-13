@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml" lang="es" xml:lang="es"><head>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
 <meta name="generator" content="quarto-1.5.56">
@@ -7,7 +7,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 
-<title>Proyectos de investigación y subvenciones – Minku Kang</title>
+<title>Blog – Minku Kang</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -23,40 +23,100 @@ ul.task-list li input[type="checkbox"] {
 </style>
 
 
-<script src="../site_libs/quarto-nav/quarto-nav.js"></script>
-<link href="../images/profile.jpg" rel="icon" type="image/jpeg">
-<script src="../site_libs/clipboard/clipboard.min.js"></script>
-<script src="../site_libs/quarto-html/quarto.js"></script>
-<script src="../site_libs/quarto-html/popper.min.js"></script>
-<script src="../site_libs/quarto-html/tippy.umd.min.js"></script>
-<link href="../site_libs/quarto-html/tippy.css" rel="stylesheet">
-<link href="../site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
-<script src="../site_libs/bootstrap/bootstrap.min.js"></script>
-<link href="../site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
-<link href="../site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
+<script src="site_libs/quarto-nav/quarto-nav.js"></script>
+<link href="./images/profile.jpg" rel="icon" type="image/jpeg">
+<script src="site_libs/quarto-listing/list.min.js"></script>
+<script src="site_libs/quarto-listing/quarto-listing.js"></script>
+<script src="site_libs/clipboard/clipboard.min.js"></script>
+<script src="site_libs/quarto-html/quarto.js"></script>
+<script src="site_libs/quarto-html/popper.min.js"></script>
+<script src="site_libs/quarto-html/tippy.umd.min.js"></script>
+<link href="site_libs/quarto-html/tippy.css" rel="stylesheet">
+<link href="site_libs/quarto-html/quarto-syntax-highlighting.css" rel="stylesheet" id="quarto-text-highlighting-styles">
+<script src="site_libs/bootstrap/bootstrap.min.js"></script>
+<link href="site_libs/bootstrap/bootstrap-icons.css" rel="stylesheet">
+<link href="site_libs/bootstrap/bootstrap.min.css" rel="stylesheet" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
   "language": {
-    "search-no-results-text": "Sin resultados",
-    "search-matching-documents-text": "documentos encontrados",
-    "search-copy-link-title": "Copiar el enlace en la búsqueda",
-    "search-hide-matches-text": "Ocultar resultados adicionales",
-    "search-more-match-text": "resultado adicional en este documento",
-    "search-more-matches-text": "resultados adicionales en este documento",
-    "search-clear-button-title": "Borrar",
+    "search-no-results-text": "No results",
+    "search-matching-documents-text": "matching documents",
+    "search-copy-link-title": "Copy link to search",
+    "search-hide-matches-text": "Hide additional matches",
+    "search-more-match-text": "more match in this document",
+    "search-more-matches-text": "more matches in this document",
+    "search-clear-button-title": "Clear",
     "search-text-placeholder": "",
-    "search-detached-cancel-button-title": "Cancelar",
-    "search-submit-button-title": "Enviar",
-    "search-label": "Buscar"
+    "search-detached-cancel-button-title": "Cancel",
+    "search-submit-button-title": "Submit",
+    "search-label": "Search"
   }
 }</script>
+<script>
+
+  window.document.addEventListener("DOMContentLoaded", function (_event) {
+    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    if (!listingTargetEl) {
+      // No listing discovered, do not attach.
+      return; 
+    }
+
+    const options = {
+      valueNames: ['listing-date','listing-title','listing-description',{ data: ['index'] },{ data: ['categories'] },{ data: ['listing-date-sort'] },{ data: ['listing-file-modified-sort'] }],
+      
+      searchColumns: ["listing-date","listing-title","listing-author","listing-image","listing-description","listing-categories"],
+    };
+
+    window['quarto-listings'] = window['quarto-listings'] || {};
+    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  });
+
+  window.addEventListener('hashchange',() => {
+    if (window['quarto-listing-loaded']) {
+      window['quarto-listing-loaded']();
+    }
+  })
+  </script>
 <style>html{ scroll-behavior: smooth; }</style>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin="">
 <link href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,500;0,600;0,700;1,400&amp;display=swap" rel="stylesheet">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">
 
+  <script src="https://cdnjs.cloudflare.com/polyfill/v3/polyfill.min.js?features=es6"></script>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
 
-</head>
+<script type="text/javascript">
+const typesetMath = (el) => {
+  if (window.MathJax) {
+    // MathJax Typeset
+    window.MathJax.typeset([el]);
+  } else if (window.katex) {
+    // KaTeX Render
+    var mathElements = el.getElementsByClassName("math");
+    var macros = [];
+    for (var i = 0; i < mathElements.length; i++) {
+      var texText = mathElements[i].firstChild;
+      if (mathElements[i].tagName == "SPAN") {
+        window.katex.render(texText.data, mathElements[i], {
+          displayMode: mathElements[i].classList.contains('display'),
+          throwOnError: false,
+          macros: macros,
+          fleqn: false
+        });
+      }
+    }
+  }
+}
+window.Quarto = {
+  typesetMath
+};
+</script>
+
+<link rel="alternate" type="application/rss+xml" title="Minku Kang" href="blog.xml" data-external="1"></head>
 
 <body class="nav-fixed">
 
@@ -65,37 +125,37 @@ ul.task-list li input[type="checkbox"] {
     <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
       <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="../index.html">
+    <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">Minku Kang</span>
     </a>
   </div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Navegación de palanca" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
   <span class="navbar-toggler-icon"></span>
 </button>
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
-    <a class="nav-link" href="../cv.html"> 
+    <a class="nav-link" href="./cv.html"> 
 <span class="menu-text">CV</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../research.html"> 
+    <a class="nav-link" href="./research.html"> 
 <span class="menu-text">Research</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../publications.html"> 
+    <a class="nav-link" href="./publications.html"> 
 <span class="menu-text">Publications</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../teaching.html"> 
+    <a class="nav-link" href="./teaching.html"> 
 <span class="menu-text">Teaching</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../media.html"> 
+    <a class="nav-link" href="./media.html"> 
 <span class="menu-text">Media</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="../blog.html"> 
+    <a class="nav-link active" href="./blog.html" aria-current="page"> 
 <span class="menu-text">Blog</span></a>
   </li>  
   <li class="nav-item dropdown ">
@@ -104,31 +164,31 @@ ul.task-list li input[type="checkbox"] {
     </a>
     <ul class="dropdown-menu dropdown-menu-end" aria-labelledby="nav-menu-language">    
         <li>
-    <a class="dropdown-item" href="../index.html">
+    <a class="dropdown-item" href="./index.html">
  <span class="dropdown-text">English</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../ko/index.html">
+    <a class="dropdown-item" href="./ko/index.html">
  <span class="dropdown-text">한국어</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../fr/index.html">
+    <a class="dropdown-item" href="./fr/index.html">
  <span class="dropdown-text">Français</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../ja/index.html">
+    <a class="dropdown-item" href="./ja/index.html">
  <span class="dropdown-text">日本語</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../de/index.html">
+    <a class="dropdown-item" href="./de/index.html">
  <span class="dropdown-text">Deutsch</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../es/index.html">
+    <a class="dropdown-item" href="./es/index.html">
  <span class="dropdown-text">Español</span></a>
   </li>  
         <li>
-    <a class="dropdown-item" href="../ru/index.html">
+    <a class="dropdown-item" href="./ru/index.html">
  <span class="dropdown-text">Русский</span></a>
   </li>  
     </ul>
@@ -145,24 +205,13 @@ ul.task-list li input[type="checkbox"] {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        <nav id="TOC" role="doc-toc" class="toc-active">
-    <h2 id="toc-title">En esta página</h2>
-   
-  <ul class="collapse">
-  <li><a href="#panorama-general" id="toc-panorama-general" class="nav-link active" data-scroll-target="#panorama-general">Panorama general</a></li>
-  <li><a href="#investigador-principal" id="toc-investigador-principal" class="nav-link" data-scroll-target="#investigador-principal">Investigador principal</a></li>
-  <li><a href="#coinvestigador" id="toc-coinvestigador" class="nav-link" data-scroll-target="#coinvestigador">Coinvestigador</a></li>
-  <li><a href="#asistente-de-investigación" id="toc-asistente-de-investigación" class="nav-link" data-scroll-target="#asistente-de-investigación">Asistente de investigación</a></li>
-  <li><a href="#proyectos-de-participación-social" id="toc-proyectos-de-participación-social" class="nav-link" data-scroll-target="#proyectos-de-participación-social">Proyectos de participación social</a></li>
-  </ul>
-</nav>
-    </div>
+    <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(1)</span></div><div class="category" data-category="단상">단상 <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content" id="quarto-document-content">
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Proyectos de investigación y subvenciones</h1>
+<h1 class="title">Blog</h1>
 </div>
 
 
@@ -179,130 +228,38 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="panorama-general" class="level2">
-<h2 data-anchor-id="panorama-general">Panorama general</h2>
-<ul>
-<li><strong>Investigador principal</strong> — Determinantes de la salud mental en el personal militar</li>
-<li><strong>Investigador principal</strong> — Estudio sobre la mejora del sistema de guardias consecutivas de 36 horas para residentes</li>
-<li>Revisor por pares para <em>International Journal of Equity in Health</em> y <em>BMC Public Health</em></li>
-</ul>
-</section>
-<section id="investigador-principal" class="level2">
-<h2 data-anchor-id="investigador-principal">Investigador principal</h2>
-<ul>
-<li><strong>Determinantes de la salud mental en el personal militar</strong>
-<ul>
-<li>Subvención de investigación por encargo, Armed Forces Medical Command (MND)</li>
-<li><strong>2026.03–2027.03</strong> (KRW 6,380,000)</li>
-</ul></li>
-<li><strong>Estudio sobre la mejora del sistema de guardias consecutivas de 36 horas para internos y residentes médicos</strong>
-<ul>
-<li>Subvención de investigación por encargo, Korean Medical Association Institute for Healthcare Policy</li>
-<li><strong>2023.05–2024.01</strong> (KRW 10,000,000)</li>
-</ul></li>
-<li><strong>Encuesta coreana de internos y residentes</strong>
-<ul>
-<li>Korean Intern and Resident Association</li>
-<li><strong>2022.09–2023.02</strong></li>
-</ul></li>
-</ul>
-</section>
-<section id="coinvestigador" class="level2">
-<h2 data-anchor-id="coinvestigador">Coinvestigador</h2>
-<ul>
-<li><strong>Cambios en la utilización de servicios médicos en los hospitales militares tras la crisis sanitaria de 2024</strong>
-<ul>
-<li>Armed Forces Medical Command (MND) — <strong>2026</strong></li>
-</ul></li>
-<li><strong>Análisis de la utilización de servicios sanitarios del personal militar en hospitales militares y civiles</strong>
-<ul>
-<li>Armed Forces Medical Command (MND) — <strong>2025–2026</strong></li>
-</ul></li>
-<li><strong>Fortalecimiento de la capacidad de respuesta y gestión de las enfermedades infecciosas en el ámbito militar</strong>
-<ul>
-<li>Korea Disease Control and Prevention Agency (KDCA) — <strong>2025</strong></li>
-</ul></li>
-<li><strong>Elaboración de una hoja de ruta para la prevención y gestión de los riesgos para la salud</strong>
-<ul>
-<li>Korea Disease Control and Prevention Agency (KDCA) — <strong>2025</strong></li>
-</ul></li>
-<li><strong>Apoyo al cribado de la malaria y modelización predictiva basada en el clima entre las fuerzas surcoreanas (ROK) desplegadas</strong>
-<ul>
-<li>Armed Forces Medical Research Institute (MND) — <strong>2025</strong></li>
-</ul></li>
-<li><strong>Exposición a enfermedades infecciosas febriles entre las fuerzas surcoreanas (ROK) desplegadas en Sudán del Sur</strong>
-<ul>
-<li>Armed Forces Medical Command (MND) — <strong>2025</strong></li>
-</ul></li>
-<li><strong>Revisión integral para la toma de decisiones sobre la política de vacunación militar</strong>
-<ul>
-<li>Armed Forces Medical Command (MND) — <strong>2024</strong></li>
-</ul></li>
-</ul>
-</section>
-<section id="asistente-de-investigación" class="level2">
-<h2 data-anchor-id="asistente-de-investigación">Asistente de investigación</h2>
-<ul>
-<li><strong>El impacto de la COVID-19 en la equidad en salud</strong>
-<ul>
-<li>Ministry of Health and Welfare — <strong>2022.06–2022.12</strong></li>
-<li>(Revisión bibliográfica, análisis de macrodatos del NHIS, redacción del informe)</li>
-</ul></li>
-<li><strong>Análisis del uso de servicios comunitarios por parte de personas con enfermedad mental que viven en vivienda de alquiler</strong>
-<ul>
-<li>Presidential Committee on Policy Planning — <strong>2022.02–2022.04</strong></li>
-</ul></li>
-<li><strong>Investigación sobre la creación de living labs de salud mental personalizados y basados en la comunidad</strong>
-<ul>
-<li>Korea University — <strong>2021.11–2022.01</strong></li>
-</ul></li>
-<li><strong>Mejora de la calidad de las instituciones psiquiátricas</strong>
-<ul>
-<li>Ministry of Health and Welfare — <strong>2021.04–2021.12</strong></li>
-<li>(Administración de la investigación, encuestas in situ en instituciones psiquiátricas, análisis de datos)</li>
-</ul></li>
-<li><strong>Estudio sobre la mejora del sistema nacional de vigilancia de las infecciones de transmisión sexual</strong>
-<ul>
-<li>Korea Disease Control and Prevention Agency (KDCA) — <strong>2021.09–2022.03</strong></li>
-</ul></li>
-<li><strong>Encuesta de seroprevalencia y elaboración de directrices preventivas para la fiebre Q en grupos de alto riesgo</strong>
-<ul>
-<li>Korea Disease Control and Prevention Agency (KDCA) — <strong>2021.11–2022.03</strong></li>
-<li>(Administración de la investigación, encuesta seroepidemiológica de campo)</li>
-</ul></li>
-<li><strong>Análisis espacio-temporal de las enfermedades y los factores relacionados con la salud</strong>
-<ul>
-<li>Korea University Medicine — <strong>2021.09–2022.02</strong></li>
-</ul></li>
-<li><strong>Proyecto de formación y refuerzo en prevención, diagnóstico y análisis de enfermedades infecciosas (KOICA–Tashkent Medical University)</strong>
-<ul>
-<li>Korea International Cooperation Agency (KOICA) — <strong>2021.11–2021.12</strong></li>
-<li>(Especialista en salud: formación en epidemiología basada en R, procesamiento y análisis de datos de encuestas)</li>
-</ul></li>
-<li><strong>Estudios de política sobre el sistema de certificación privada de dispositivos médicos en Corea del Sur</strong>
-<ul>
-<li><strong>2021.04–2021.12</strong></li>
-</ul></li>
-<li><strong>Efecto de los factores socioeconómicos en la salud del grupo de edad avanzada: enfermedades crónicas complejas</strong>
-<ul>
-<li>Korea University Medicine — <strong>2016.10–2017.01</strong></li>
-</ul></li>
-</ul>
-</section>
-<section id="proyectos-de-participación-social" class="level2">
-<h2 data-anchor-id="proyectos-de-participación-social">Proyectos de participación social</h2>
-<ul>
-<li><strong>Proyecto de espacios compartidos para jóvenes</strong> — Woosadan Studio — <strong>2018–2020</strong></li>
-<li><strong>Ciclo de conciertos callejeros: humanidades y artes</strong> — Ministry of Culture, Sports and Tourism — <strong>2018</strong></li>
-<li><strong>Fiesta de inauguración del Usadan Studio</strong> — Woosadan Studio — <strong>2018</strong></li>
-<li><strong>Acción por la vivienda estudiantil: proyecto de residencias universitarias</strong> — Korea University — <strong>2015</strong></li>
-<li><strong>Festival de Korea University</strong> — Korea University — <strong>2015</strong></li>
-</ul>
+<p>Notes and reflections — on preventive medicine, health policy, and the occasional detour.</p>
 
 
-</section>
 
-</main> <!-- /main -->
+
+<div class="quarto-listing quarto-listing-container-default" id="listing-listing">
+<div class="list quarto-listing-default">
+<div class="quarto-post image-right" data-index="0" data-categories="단상" data-listing-date-sort="1783868400000" data-listing-file-modified-sort="1783942936529" data-listing-date-modified-sort="NaN" data-listing-reading-time-sort="1" data-listing-word-count-sort="47">
+<div class="body">
+<h3 class="no-anchor listing-title">
+<a href="./posts/welcome.html" class="no-external">시작하며</a>
+</h3>
+<div class="listing-subtitle">
+<a href="./posts/welcome.html" class="no-external"></a>
+</div>
+<div class="listing-description">
+<a href="./posts/welcome.html" class="no-external">생각을 정리하는 공간을 열며.</a>
+</div>
+</div>
+<div class="metadata">
+<a href="./posts/welcome.html" class="no-external">
+<div class="listing-date">
+Jul 13, 2026
+</div>
+</a>
+</div>
+</div>
+</div>
+<div class="listing-no-matching d-none">
+No matching items
+</div>
+</div></main> <!-- /main -->
 <script>
 (function(){
   var NAV = {
@@ -389,12 +346,12 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // flash "checked"
     button.classList.add('code-copy-button-checked');
     var currentTitle = button.getAttribute("title");
-    button.setAttribute("title", "Copiado");
+    button.setAttribute("title", "Copied!");
     let tooltip;
     if (window.bootstrap) {
       button.setAttribute("data-bs-toggle", "tooltip");
       button.setAttribute("data-bs-placement", "left");
-      button.setAttribute("data-bs-title", "Copiado");
+      button.setAttribute("data-bs-title", "Copied!");
       tooltip = new bootstrap.Tooltip(button, 
         { trigger: "manual", 
           customClass: "code-copy-button-tooltip",
@@ -789,5 +746,5 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 
 
 
-<script src="../site_libs/quarto-html/zenscroll-min.js"></script>
+<script src="site_libs/quarto-html/zenscroll-min.js"></script>
 </body></html>

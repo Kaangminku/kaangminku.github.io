@@ -94,6 +94,10 @@ ul.task-list li input[type="checkbox"] {
     <a class="nav-link" href="../media.html"> 
 <span class="menu-text">Media</span></a>
   </li>  
+  <li class="nav-item">
+    <a class="nav-link" href="../blog.html"> 
+<span class="menu-text">Blog</span></a>
+  </li>  
   <li class="nav-item dropdown ">
     <a class="nav-link dropdown-toggle" href="#" id="nav-menu-language" role="link" data-bs-toggle="dropdown" aria-expanded="false">
  <span class="menu-text">🌐 Language</span>
@@ -353,11 +357,13 @@ ul.task-list li input[type="checkbox"] {
     'publications.html':{en:'Publications', ko:'출판물', fr:'Publications', ja:'論文',   de:'Publikationen',es:'Publicaciones', ru:'Публикации'},
     'teaching.html':    {en:'Teaching',     ko:'교육',   fr:'Enseignement', ja:'教育',   de:'Lehre',        es:'Docencia',      ru:'Преподавание'},
     'cv.html':          {en:'CV',           ko:'약력',   fr:'CV',           ja:'略歴',   de:'CV',           es:'CV',            ru:'CV'},
-    'media.html':       {en:'Media',        ko:'미디어', fr:'Médias',       ja:'メディア', de:'Medien',      es:'Medios',        ru:'Медиа'}
+    'media.html':       {en:'Media',        ko:'미디어', fr:'Médias',       ja:'メディア', de:'Medien',      es:'Medios',        ru:'Медиа'},
+    'blog.html':        {en:'Blog',         ko:'블로그', fr:'Blog',         ja:'ブログ', de:'Blog',         es:'Blog',          ru:'Блог'}
   };
   var LANGNAME = {en:'English', ko:'한국어', fr:'Français', ja:'日本語', de:'Deutsch', es:'Español', ru:'Русский'};
   var PREFIX   = {en:'/', ko:'/ko/', fr:'/fr/', ja:'/ja/', de:'/de/', es:'/es/', ru:'/ru/'};
   var KO_ONLY  = {'interview.html':1,'life.html':1};   // exist only in Korean
+  var SHARED   = {'blog.html':1};                       // one board at site root, shared across languages
   function link(lang,file){ return PREFIX[lang] + (file==='index.html'?'':file); }
   function pageOf(){
     var segs=location.pathname.split('/').filter(Boolean);
@@ -369,11 +375,12 @@ ul.task-list li input[type="checkbox"] {
   }
   function run(){
     var p=pageOf(), lang=p.lang, file=p.file;
+    var onShared = !!SHARED[file] || location.pathname.indexOf('/posts/')!==-1;  // shared board or a post page
     document.documentElement.lang=lang;
     document.querySelectorAll('.navbar-nav .nav-link').forEach(function(a){
       if(a.classList.contains('dropdown-toggle')) return;
       var t=(a.getAttribute('href')||'').split('/').pop()||'index.html';
-      if(NAV[t]){ a.setAttribute('href', link(lang,t)); a.textContent=NAV[t][lang]||NAV[t].en; }
+      if(NAV[t]){ a.setAttribute('href', SHARED[t] ? '/'+t : link(lang,t)); a.textContent=NAV[t][lang]||NAV[t].en; }
     });
     var brand=document.querySelector('.navbar-brand');
     if(brand) brand.setAttribute('href', link(lang,'index.html'));
@@ -381,7 +388,7 @@ ul.task-list li input[type="checkbox"] {
     document.querySelectorAll('.navbar .dropdown-item').forEach(function(a){
       var lg=byName[(a.textContent||'').trim()];
       if(!lg) return;
-      var target=(KO_ONLY[file] && lg!=='ko') ? link(lg,'index.html') : link(lg,file);
+      var target=((KO_ONLY[file] && lg!=='ko') || onShared) ? link(lg,'index.html') : link(lg,file);
       a.setAttribute('href', target);
       if(lg===lang){ a.classList.add('active'); a.setAttribute('aria-current','true'); }
     });

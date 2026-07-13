@@ -1,104 +1,108 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://kaangminku.github.io/es/cv.html</loc>
-    <lastmod>2026-07-13T11:24:04.530Z</lastmod>
+    <loc>https://kaangminku.github.io/blog.html</loc>
+    <lastmod>2026-07-13T11:48:58.215Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/es/media.html</loc>
+    <loc>https://kaangminku.github.io/es/publications.html</loc>
     <lastmod>2026-07-13T06:28:48.912Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/es/contact.html</loc>
-    <lastmod>2026-07-13T06:28:48.911Z</lastmod>
+    <loc>https://kaangminku.github.io/es/index.html</loc>
+    <lastmod>2026-07-13T11:24:04.633Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/es/teaching.html</loc>
+    <loc>https://kaangminku.github.io/es/research.html</loc>
+    <lastmod>2026-07-13T06:28:48.912Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/fr/cv.html</loc>
+    <lastmod>2026-07-13T11:24:04.523Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/fr/media.html</loc>
+    <lastmod>2026-07-13T06:28:48.914Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/fr/contact.html</loc>
     <lastmod>2026-07-13T06:28:48.913Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/fr/publications.html</loc>
-    <lastmod>2026-07-13T06:28:48.914Z</lastmod>
+    <loc>https://kaangminku.github.io/fr/teaching.html</loc>
+    <lastmod>2026-07-13T06:28:48.915Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/fr/index.html</loc>
-    <lastmod>2026-07-13T11:24:04.601Z</lastmod>
+    <loc>https://kaangminku.github.io/ko/cv.html</loc>
+    <lastmod>2026-07-13T11:24:04.521Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/fr/research.html</loc>
-    <lastmod>2026-07-13T06:28:48.914Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kaangminku.github.io/ko/interview.html</loc>
+    <loc>https://kaangminku.github.io/ko/media.html</loc>
     <lastmod>2026-07-13T06:28:48.959Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ko/publications.html</loc>
-    <lastmod>2026-07-13T06:28:48.960Z</lastmod>
+    <loc>https://kaangminku.github.io/ko/contact.html</loc>
+    <lastmod>2026-07-13T06:28:48.958Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ko/index.html</loc>
-    <lastmod>2026-07-13T11:31:43.724Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kaangminku.github.io/ko/research.html</loc>
+    <loc>https://kaangminku.github.io/ko/teaching.html</loc>
     <lastmod>2026-07-13T06:28:48.961Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ko/life.html</loc>
-    <lastmod>2026-07-13T06:28:48.959Z</lastmod>
+    <loc>https://kaangminku.github.io/cv.html</loc>
+    <lastmod>2026-07-13T11:24:04.518Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/de/cv.html</loc>
-    <lastmod>2026-07-13T11:24:04.528Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kaangminku.github.io/de/media.html</loc>
+    <loc>https://kaangminku.github.io/de/publications.html</loc>
     <lastmod>2026-07-13T06:28:48.803Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/de/contact.html</loc>
-    <lastmod>2026-07-13T06:28:48.802Z</lastmod>
+    <loc>https://kaangminku.github.io/de/index.html</loc>
+    <lastmod>2026-07-13T11:24:04.630Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/de/teaching.html</loc>
+    <loc>https://kaangminku.github.io/de/research.html</loc>
     <lastmod>2026-07-13T06:28:48.804Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/media.html</loc>
-    <lastmod>2026-07-13T06:28:48.961Z</lastmod>
+    <loc>https://kaangminku.github.io/publications.html</loc>
+    <lastmod>2026-07-13T06:28:48.962Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/teaching-prevmed.html</loc>
+    <loc>https://kaangminku.github.io/index.html</loc>
+    <lastmod>2026-07-13T11:24:04.538Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/ru/cv.html</loc>
+    <lastmod>2026-07-13T11:24:04.534Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/ru/media.html</loc>
+    <lastmod>2026-07-13T06:28:48.964Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/ru/contact.html</loc>
+    <lastmod>2026-07-13T06:28:48.963Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/ru/teaching.html</loc>
     <lastmod>2026-07-13T06:28:48.965Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ru/publications.html</loc>
-    <lastmod>2026-07-13T06:28:48.964Z</lastmod>
+    <loc>https://kaangminku.github.io/ja/publications.html</loc>
+    <lastmod>2026-07-13T06:28:48.956Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ru/index.html</loc>
-    <lastmod>2026-07-13T11:24:04.635Z</lastmod>
+    <loc>https://kaangminku.github.io/ja/index.html</loc>
+    <lastmod>2026-07-13T11:24:04.604Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ru/research.html</loc>
-    <lastmod>2026-07-13T06:28:48.964Z</lastmod>
+    <loc>https://kaangminku.github.io/ja/research.html</loc>
+    <lastmod>2026-07-13T06:28:48.956Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ja/cv.html</loc>
-    <lastmod>2026-07-13T11:24:04.525Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kaangminku.github.io/ja/media.html</loc>
-    <lastmod>2026-07-13T06:28:48.955Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kaangminku.github.io/ja/contact.html</loc>
-    <lastmod>2026-07-13T06:28:48.955Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kaangminku.github.io/ja/teaching.html</loc>
-    <lastmod>2026-07-13T06:28:48.957Z</lastmod>
+    <loc>https://kaangminku.github.io/posts/welcome.html</loc>
+    <lastmod>2026-07-13T11:42:16.529Z</lastmod>
   </url>
   <url>
     <loc>https://kaangminku.github.io/research.html</loc>
@@ -113,99 +117,103 @@
     <lastmod>2026-07-13T06:28:48.800Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ja/research.html</loc>
-    <lastmod>2026-07-13T06:28:48.956Z</lastmod>
+    <loc>https://kaangminku.github.io/ja/teaching.html</loc>
+    <lastmod>2026-07-13T06:28:48.957Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ja/index.html</loc>
-    <lastmod>2026-07-13T11:24:04.604Z</lastmod>
+    <loc>https://kaangminku.github.io/ja/contact.html</loc>
+    <lastmod>2026-07-13T06:28:48.955Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ja/publications.html</loc>
-    <lastmod>2026-07-13T06:28:48.956Z</lastmod>
+    <loc>https://kaangminku.github.io/ja/media.html</loc>
+    <lastmod>2026-07-13T06:28:48.955Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ru/teaching.html</loc>
-    <lastmod>2026-07-13T06:28:48.965Z</lastmod>
+    <loc>https://kaangminku.github.io/ja/cv.html</loc>
+    <lastmod>2026-07-13T11:24:04.525Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ru/contact.html</loc>
-    <lastmod>2026-07-13T06:28:48.963Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kaangminku.github.io/ru/media.html</loc>
+    <loc>https://kaangminku.github.io/ru/research.html</loc>
     <lastmod>2026-07-13T06:28:48.964Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ru/cv.html</loc>
-    <lastmod>2026-07-13T11:24:04.534Z</lastmod>
+    <loc>https://kaangminku.github.io/ru/index.html</loc>
+    <lastmod>2026-07-13T11:24:04.635Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/index.html</loc>
-    <lastmod>2026-07-13T11:24:04.538Z</lastmod>
+    <loc>https://kaangminku.github.io/ru/publications.html</loc>
+    <lastmod>2026-07-13T06:28:48.964Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/publications.html</loc>
-    <lastmod>2026-07-13T06:28:48.962Z</lastmod>
+    <loc>https://kaangminku.github.io/teaching-prevmed.html</loc>
+    <lastmod>2026-07-13T06:28:48.965Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/de/research.html</loc>
-    <lastmod>2026-07-13T06:28:48.804Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kaangminku.github.io/de/index.html</loc>
-    <lastmod>2026-07-13T11:24:04.630Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kaangminku.github.io/de/publications.html</loc>
-    <lastmod>2026-07-13T06:28:48.803Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kaangminku.github.io/cv.html</loc>
-    <lastmod>2026-07-13T11:24:04.518Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kaangminku.github.io/ko/teaching.html</loc>
+    <loc>https://kaangminku.github.io/media.html</loc>
     <lastmod>2026-07-13T06:28:48.961Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ko/contact.html</loc>
-    <lastmod>2026-07-13T06:28:48.958Z</lastmod>
+    <loc>https://kaangminku.github.io/de/teaching.html</loc>
+    <lastmod>2026-07-13T06:28:48.804Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ko/media.html</loc>
+    <loc>https://kaangminku.github.io/de/contact.html</loc>
+    <lastmod>2026-07-13T06:28:48.802Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/de/media.html</loc>
+    <lastmod>2026-07-13T06:28:48.803Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/de/cv.html</loc>
+    <lastmod>2026-07-13T11:24:04.528Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/ko/life.html</loc>
     <lastmod>2026-07-13T06:28:48.959Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/ko/cv.html</loc>
-    <lastmod>2026-07-13T11:24:04.521Z</lastmod>
+    <loc>https://kaangminku.github.io/ko/research.html</loc>
+    <lastmod>2026-07-13T06:28:48.961Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/fr/teaching.html</loc>
-    <lastmod>2026-07-13T06:28:48.915Z</lastmod>
+    <loc>https://kaangminku.github.io/ko/index.html</loc>
+    <lastmod>2026-07-13T11:31:43.724Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/fr/contact.html</loc>
-    <lastmod>2026-07-13T06:28:48.913Z</lastmod>
+    <loc>https://kaangminku.github.io/ko/publications.html</loc>
+    <lastmod>2026-07-13T06:28:48.960Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/fr/media.html</loc>
+    <loc>https://kaangminku.github.io/ko/interview.html</loc>
+    <lastmod>2026-07-13T06:28:48.959Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/fr/research.html</loc>
     <lastmod>2026-07-13T06:28:48.914Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/fr/cv.html</loc>
-    <lastmod>2026-07-13T11:24:04.523Z</lastmod>
+    <loc>https://kaangminku.github.io/fr/index.html</loc>
+    <lastmod>2026-07-13T11:24:04.601Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/es/research.html</loc>
+    <loc>https://kaangminku.github.io/fr/publications.html</loc>
+    <lastmod>2026-07-13T06:28:48.914Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/es/teaching.html</loc>
+    <lastmod>2026-07-13T06:28:48.913Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/es/contact.html</loc>
+    <lastmod>2026-07-13T06:28:48.911Z</lastmod>
+  </url>
+  <url>
+    <loc>https://kaangminku.github.io/es/media.html</loc>
     <lastmod>2026-07-13T06:28:48.912Z</lastmod>
   </url>
   <url>
-    <loc>https://kaangminku.github.io/es/index.html</loc>
-    <lastmod>2026-07-13T11:24:04.633Z</lastmod>
-  </url>
-  <url>
-    <loc>https://kaangminku.github.io/es/publications.html</loc>
-    <lastmod>2026-07-13T06:28:48.912Z</lastmod>
+    <loc>https://kaangminku.github.io/es/cv.html</loc>
+    <lastmod>2026-07-13T11:24:04.530Z</lastmod>
   </url>
 </urlset>

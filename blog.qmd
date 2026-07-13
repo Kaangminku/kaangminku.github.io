@@ -1,0 +1,12 @@
+---
+title: "Blog"
+listing:
+  contents: posts
+  sort: "date desc"
+  type: default
+  categories: true
+  fields: [date, title, description]
+  feed: true
+---
+
+Notes and reflections — on preventive medicine, health policy, and the occasional detour.
