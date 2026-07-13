@@ -66,10 +66,10 @@ body{ -webkit-font-smoothing:antialiased; text-rendering:optimizeLegibility; let
 .nav-footer a:hover{ color:$ink; border-color:$ink; }
 
 /* ---------- generic content pages (CV, Research, …) ---------- */
-#title-block-header .title{ display:inline-block; background:$ink; color:$white; font-weight:700; letter-spacing:-.008em; font-size:1.3rem; padding:5px 13px; }
+#title-block-header .title{ display:inline-block; background:$ink; color:$white; font-weight:700; letter-spacing:-.008em; font-size:1.0rem; padding:5px 12px; }
 #title-block-header .subtitle{ color:$muted; font-weight:400; }
 main.content{ margin-top:2.2rem; }
-main.content h2{ display:inline-block; background:$ink; color:$white; font-size:0.98rem; font-weight:600; letter-spacing:-.003em; padding:4px 11px; margin-top:2.7rem; margin-bottom:1.1rem; border-bottom:none; }
+main.content h2{ display:inline-block; background:$ink; color:$white; font-size:1.0rem; font-weight:600; letter-spacing:-.003em; padding:4px 11px; margin-top:2.7rem; margin-bottom:1.1rem; border-bottom:none; }
 main.content h3{ margin-top:1.7rem; margin-bottom:.5rem; letter-spacing:-.01em; }
 main.content h4{ margin-top:1.3rem; margin-bottom:.35rem; color:$muted; }
 main.content p, main.content li{ }
