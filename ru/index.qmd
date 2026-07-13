@@ -34,7 +34,6 @@ lang: ru
 <a href="research.qmd"><span class="y">2022–25</span><span class="t">Реформа системы 36-часовых непрерывных дежурств ординаторов</span><span class="m">Руководитель проекта</span></a>
 <a href="research.qmd"><span class="y">2026–</span><span class="t">Детерминанты психического здоровья военнослужащих</span><span class="m">Руководитель проекта</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">Гендерное неравенство в психическом здоровье в период пандемии</span><span class="m">J. Prev. Med. Public Health</span></a>
-<a href="publications.qmd"><span class="y">2026</span><span class="t">Результаты национального скрининга рака желудочно-кишечного тракта</span><span class="m">BMJ Open</span></a>
 </div>
 </section>
 

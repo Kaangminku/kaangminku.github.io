@@ -33,7 +33,6 @@ toc: false
 <a href="research.qmd"><span class="y">2022–25</span><span class="t">Reform of the resident 36-hour consecutive-duty system</span><span class="m">Principal investigator</span></a>
 <a href="research.qmd"><span class="y">2026–</span><span class="t">Determinants of mental health among military personnel</span><span class="m">Principal investigator</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">Gender inequalities in pandemic-era mental health</span><span class="m">J. Prev. Med. Public Health</span></a>
-<a href="publications.qmd"><span class="y">2026</span><span class="t">National gastrointestinal cancer screening outcomes</span><span class="m">BMJ Open</span></a>
 </div>
 </section>
 

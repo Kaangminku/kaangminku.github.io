@@ -34,7 +34,6 @@ lang: fr
 <a href="research.qmd"><span class="y">2022–25</span><span class="t">Réforme du système de gardes de 36 heures consécutives des internes et résidents</span><span class="m">Chercheur principal</span></a>
 <a href="research.qmd"><span class="y">2026–</span><span class="t">Déterminants de la santé mentale chez les militaires</span><span class="m">Chercheur principal</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">Inégalités de genre en santé mentale à l'ère de la pandémie</span><span class="m">J. Prev. Med. Public Health</span></a>
-<a href="publications.qmd"><span class="y">2026</span><span class="t">Résultats du dépistage national des cancers gastro-intestinaux</span><span class="m">BMJ Open</span></a>
 </div>
 </section>
 

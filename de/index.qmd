@@ -34,7 +34,6 @@ lang: de
 <a href="research.qmd"><span class="y">2022–25</span><span class="t">Reform des 36-Stunden-Dauerdienstsystems für Assistenzärzte</span><span class="m">Leitender Forscher</span></a>
 <a href="research.qmd"><span class="y">2026–</span><span class="t">Determinanten der psychischen Gesundheit bei Militärangehörigen</span><span class="m">Leitender Forscher</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">Geschlechterungleichheiten in der psychischen Gesundheit während der Pandemie</span><span class="m">J. Prev. Med. Public Health</span></a>
-<a href="publications.qmd"><span class="y">2026</span><span class="t">Ergebnisse des nationalen Screenings auf gastrointestinale Krebserkrankungen</span><span class="m">BMJ Open</span></a>
 </div>
 </section>
 

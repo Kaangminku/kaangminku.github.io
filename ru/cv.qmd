@@ -175,7 +175,7 @@ toc-depth: 3
 <details>
 <summary>\(1\) Научные конференции и семинары</summary>
 
-- **Sep 2026**. Введение в исследования по усилению потенциала реагирования на инфекционные заболевания и управления ими в вооружённых силах (планируется). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
+- **Sep 2026**. Введение в исследования по усилению потенциала реагирования на инфекционные заболевания и управления ими в вооружённых силах (устный доклад). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
 - **Sep 2026**. Детерминанты психического здоровья военнослужащих (постер). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
 - **May 2026**. Связь между рабочим временем и депрессией среди корейских военнослужащих: повторный поперечный анализ Military Health Survey (2023–2025) (постер). 2026 Spring Conference of the Korean Society for Health Equity.
 - **Apr 2026**. Экстремальный труд, депрессивные симптомы и суицидальные мысли среди корейских ординаторов: рабочее время, последовательные смены и депривация сна во время дежурств по вызову (устный доклад). 2026 Spring Conference of the Association for Health Policy for Criticism and Alternatives.

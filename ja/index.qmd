@@ -34,7 +34,6 @@ lang: ja
 <a href="research.qmd"><span class="y">2022–25</span><span class="t">研修医の36時間連続勤務制度の改革</span><span class="m">研究代表者</span></a>
 <a href="research.qmd"><span class="y">2026–</span><span class="t">軍人のメンタルヘルスの決定要因</span><span class="m">研究代表者</span></a>
 <a href="publications.qmd"><span class="y">2023</span><span class="t">パンデミック下のメンタルヘルスにおけるジェンダー格差</span><span class="m">J. Prev. Med. Public Health</span></a>
-<a href="publications.qmd"><span class="y">2026</span><span class="t">全国消化器がん検診の成果</span><span class="m">BMJ Open</span></a>
 </div>
 </section>
 
