@@ -99,6 +99,14 @@ details > summary{ cursor:pointer; color:$muted; font-weight:600; list-style:non
 details > summary:hover{ color:$ink; }
 details[open] > summary{ margin-bottom:.6rem; }
 
+/* CV section fold — the section title (h2 tag) is the toggle */
+main.content h2.mk-foldtoggle{ cursor:pointer; user-select:none; -webkit-user-select:none; margin-top:1.5rem; margin-bottom:.5rem; }
+main.content h2.mk-foldtoggle::after{ content:"▾"; margin-left:9px; font-size:.72em; opacity:.7; vertical-align:1px; }
+main.content h2.mk-foldtoggle.collapsed::after{ content:"▸"; }
+main.content h2.mk-foldtoggle:hover{ background:#2c2c28; }
+.mk-foldbody{ margin-bottom:1.4rem; }
+.mk-foldbody > :first-child{ margin-top:.8rem; }
+
 /* right on-this-page TOC (if ever shown) */
 #quarto-margin-sidebar .nav-link{ color:$muted; border:none; }
 #quarto-margin-sidebar .nav-link:hover, #quarto-margin-sidebar .nav-link.active{ color:$ink; }
