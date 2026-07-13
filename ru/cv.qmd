@@ -142,7 +142,8 @@ toc-depth: 3
 
 ## Конференции и доклады
 
-### (1) Научные конференции и семинары
+<details>
+<summary>\(1\) Научные конференции и семинары</summary>
 
 - **Sep 2026**. Введение в исследования по усилению потенциала реагирования на инфекционные заболевания и управления ими в вооружённых силах, а также по детерминантам психического здоровья военнослужащих (планируется). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
 - **May 2026**. Связь между рабочим временем и депрессией среди корейских военнослужащих: повторный поперечный анализ Military Health Survey (2023–2025) (постер). 2026 Spring Conference of the Korean Society for Health Equity.
@@ -157,7 +158,10 @@ toc-depth: 3
 - **Dec 2021**. Государство всеобщего благосостояния, социальная политика и здоровье. (устный доклад). Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine
 - **Oct 2021**. COVID-19 и психическое здоровье: неравенство по возрасту, полу и региону на основе общенациональных данных за 2015–2020. (устный доклад). 71st Fall Academic Conference, Korean Society for Preventive Medicine
 
-### (2) Выступления в парламенте, государственных комитетах и НКО
+</details>
+
+<details>
+<summary>\(2\) Выступления в парламенте, государственных комитетах и НКО</summary>
 
 - **Nov 2023**. Направления реформирования норм рабочего времени ординаторов. (доклад). Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare
 - **Sep 2023**. Направления реформирования системы ординатуры. (доклад). Taskforce on Residency Training System Reform, Ministry of Health and Welfare
@@ -166,7 +170,10 @@ toc-depth: 3
 - **Jan 2023**. Интеграция врачебной профессии. (доклад). KMA Policy Workshop, Korean Medical Association
 - **Oct 2022**. Сокращение рабочего времени ординаторов и ограничение непрерывного дежурства до 24 часов. (доклад). World Medical Association – Junior Doctors Network (WMA-JDN)
 
-### (3) Панельные дискуссии, приглашённые выступления и председательство
+</details>
+
+<details>
+<summary>\(3\) Панельные дискуссии, приглашённые выступления и председательство</summary>
 
 - **Jun 2026**. Институционализация выделенного персонала Physician Assistant и перестройка системы здравоохранения: улучшение условий подготовки ординаторов и обеспечение безопасности пациентов. (дискуссант). Academic Conference, Korean Society for Quality in Health Care
 - **Feb 2026**. Парламентский форум по обеспечению прав ординаторов на здоровье и улучшению условий обучения. (дискуссант). Парламентский форум, организованный депутатом Lee Soo-jin
@@ -186,16 +193,22 @@ toc-depth: 3
 - **Sep 2022**. Куда должна двигаться политика укрепления основной медицинской помощи правительства Yoon Suk Yeol? (дискуссант). K-HOSPITAL FAIR
 - **May 2015**. Форум по решению жилищных проблем двадцатилетних. (дискуссант). Euljiro Committee, Democratic Party of Korea
 
-### (4) Приглашённые лекции
+</details>
+
+<details>
+<summary>\(4\) Приглашённые лекции</summary>
 
 - **Apr 2026**. Проблемы и направления реформирования действующей системы интернатуры. Korean Healthcare Policy School
 - **Feb 2025**. Обзор вакцинации против оспы. Armed Forces Nursing Academy
 - **Oct 2024**. Обзор вакцинации против оспы. Armed Forces Medical Research Institute
 - **Feb 2023**. Выбор карьеры для начинающих врачей. Korean Medical Association
 
+</details>
+
 ## Экспертно-консультативная деятельность
 
-**Ministry of Health and Welfare, Republic of Korea**
+<details>
+<summary>Ministry of Health and Welfare, Republic of Korea</summary>
 
 - Член-эксперт, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee (Sep 2023–Feb 2024)
 - Член, Taskforce for Improving the Physician Assistant System (Jun 2023–Feb 2024)
@@ -203,6 +216,8 @@ toc-depth: 3
 - Член, Policy Committee (Mar 2023–Feb 2024)
 - Член, Investigation Committee (Sep 2021–Aug 2022)
 - Член, Taskforce for Residency Training System Reform (Jul 2023–Oct 2023)
+
+</details>
 
 ## Участие в экспертных панелях и фокус-группах
 

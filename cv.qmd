@@ -140,7 +140,8 @@ As a teaching assistant at Korea University College of Medicine, support courses
 
 ## Conferences & Presentations
 
-### (1) Academic Conferences and Seminars
+<details>
+<summary>\(1\) Academic Conferences and Seminars</summary>
 
 - **Sep 2026**. Introduction to Research on Strengthening Military Infectious-Disease Response and Management Capacity; and Determinants of Mental Health among Military Personnel (planned). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
 - **May 2026**, Association between Working Hours and Depression among Korean Military Personnel: A Repeated Cross-sectional Analysis of the Military Health Survey (2023–2025) (Poster). 2026 Spring Conference of the Korean Society for Health Equity.
@@ -155,7 +156,10 @@ As a teaching assistant at Korea University College of Medicine, support courses
 - **Dec 2021**. Welfare State, Social Policy, and Health. (Oral). Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine
 - **Oct 2021**. COVID-19 and Mental Health: Inequalities by Age, Gender, and Region Using Nationwide Data from 2015–2020. (Oral). 71st Fall Academic Conference, Korean Society for Preventive Medicine
 
-### (2) Presentations to Parliament, Government Committees, and NGOs
+</details>
+
+<details>
+<summary>\(2\) Presentations to Parliament, Government Committees, and NGOs</summary>
 
 - **Nov 2023**. Directions for Reforming Resident Duty-hour Regulations. (Presentation). Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare
 - **Sep 2023**. Directions for Reforming the Residency Training System. (Presentation). Taskforce on Residency Training System Reform, Ministry of Health and Welfare
@@ -164,7 +168,10 @@ As a teaching assistant at Korea University College of Medicine, support courses
 - **Jan 2023**. Integration of the Medical Profession. (Presentation). KMA Policy Workshop, Korean Medical Association
 - **Oct 2022**. Reducing Resident Working Hours and Limiting Consecutive Duty to 24 Hours. (Presentation). World Medical Association – Junior Doctors Network (WMA-JDN)
 
-### (3) Panel Discussions, Invited Discussions, and Chair Roles
+</details>
+
+<details>
+<summary>\(3\) Panel Discussions, Invited Discussions, and Chair Roles</summary>
 
 - **Jun 2026**. Institutionalizing Dedicated Physician-Assistant Personnel and Restructuring the Healthcare System: Focusing on Improving the Resident Training Environment and Ensuring Patient Safety. (Discussant). Academic Conference, Korean Society for Quality in Health Care
 - **Feb 2026**. Parliamentary Forum on Securing Residents' Health Rights and Improving the Training Environment. (Discussant). Parliamentary Forum hosted by Rep. Lee Soo-jin
@@ -184,16 +191,22 @@ As a teaching assistant at Korea University College of Medicine, support courses
 - **Sep 2022**. Where Should the Yoon Suk Yeol Government's Essential Healthcare Strengthening Policy Go? (Discussant). K-HOSPITAL FAIR
 - **May 2015**. Forum on Improving Housing Problems among Young Adults in Their Twenties. (Discussant). Euljiro Committee, Democratic Party of Korea
 
-### (4) Invited Lectures
+</details>
+
+<details>
+<summary>\(4\) Invited Lectures</summary>
 
 - **Apr 2026**. Problems and Reform Directions of the Current Internship System. Korean Healthcare Policy School
 - **Feb 2025**. Overview of Smallpox Vaccination. Armed Forces Nursing Academy
 - **Oct 2024**. Overview of Smallpox Vaccination. Armed Forces Medical Research Institute
 - **Feb 2023**. Career Choices for Early-career Physicians. Korean Medical Association
 
+</details>
+
 ## Advisory and Policy Roles
 
-**Ministry of Health and Welfare, Republic of Korea**
+<details>
+<summary>Ministry of Health and Welfare, Republic of Korea</summary>
 
 - Expert Member, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee (Sep 2023–Feb 2024)
 - Member, Taskforce for Improving the Physician Assistant System (Jun 2023–Feb 2024)
@@ -201,6 +214,8 @@ As a teaching assistant at Korea University College of Medicine, support courses
 - Member, Policy Committee (Mar 2023–Feb 2024)
 - Member, Investigation Committee (Sep 2021–Aug 2022)
 - Member, Taskforce for Residency Training System Reform (Jul 2023–Oct 2023)
+
+</details>
 
 ## Panel and Focus-Group Contributions
 

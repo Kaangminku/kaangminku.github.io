@@ -142,7 +142,8 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 
 ## Congresos y presentaciones
 
-### (1) Congresos académicos y seminarios
+<details>
+<summary>\(1\) Congresos académicos y seminarios</summary>
 
 - **Sep 2026**. Introducción a la investigación sobre el fortalecimiento de la capacidad de respuesta y gestión frente a enfermedades infecciosas en el ámbito militar; y determinantes de la salud mental en el personal militar (previsto). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
 - **May 2026**, Asociación entre las horas de trabajo y la depresión en el personal militar coreano: un análisis transversal repetido de la Military Health Survey (2023–2025) (Póster). 2026 Spring Conference of the Korean Society for Health Equity.
@@ -157,7 +158,10 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 - **Dec 2021**. Estado de bienestar, política social y salud. (Oral). Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine
 - **Oct 2021**. COVID-19 y salud mental: desigualdades por edad, género y región a partir de datos de ámbito nacional de 2015–2020. (Oral). 71st Fall Academic Conference, Korean Society for Preventive Medicine
 
-### (2) Presentaciones ante el Parlamento, comités gubernamentales y ONG
+</details>
+
+<details>
+<summary>\(2\) Presentaciones ante el Parlamento, comités gubernamentales y ONG</summary>
 
 - **Nov 2023**. Orientaciones para la reforma de la regulación de la jornada laboral de los residentes. (Presentación). Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare
 - **Sep 2023**. Orientaciones para la reforma del sistema de formación de residentes. (Presentación). Taskforce on Residency Training System Reform, Ministry of Health and Welfare
@@ -166,7 +170,10 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 - **Jan 2023**. Integración de la profesión médica. (Presentación). KMA Policy Workshop, Korean Medical Association
 - **Oct 2022**. Reducción de las horas de trabajo de los residentes y limitación de las guardias consecutivas a 24 horas. (Presentación). World Medical Association – Junior Doctors Network (WMA-JDN)
 
-### (3) Mesas redondas, comentarios invitados y funciones de moderación
+</details>
+
+<details>
+<summary>\(3\) Mesas redondas, comentarios invitados y funciones de moderación</summary>
 
 - **Jun 2026**. Institucionalización de personal específico de Physician Assistant (PA) y reestructuración del sistema sanitario: con especial atención a la mejora del entorno de formación de los residentes y a la garantía de la seguridad del paciente. (Comentarista). Academic Conference, Korean Society for Quality in Health Care
 - **Feb 2026**. Foro parlamentario sobre la garantía del derecho a la salud de los residentes y la mejora del entorno de formación. (Comentarista). Parliamentary Forum hosted by Rep. Lee Soo-jin
@@ -186,16 +193,22 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 - **Sep 2022**. ¿Hacia dónde debe orientarse la política de fortalecimiento de la atención sanitaria esencial del gobierno de Yoon Suk Yeol? (Comentarista). K-HOSPITAL FAIR
 - **May 2015**. Foro sobre la mejora de las condiciones de vivienda de los jóvenes veinteañeros. (Comentarista). Euljiro Committee, Democratic Party of Korea
 
-### (4) Conferencias invitadas
+</details>
+
+<details>
+<summary>\(4\) Conferencias invitadas</summary>
 
 - **Apr 2026**. Problemas y orientaciones de reforma del actual sistema de internado médico. Korean Healthcare Policy School
 - **Feb 2025**. Panorama general de la vacunación contra la viruela. Armed Forces Nursing Academy
 - **Oct 2024**. Panorama general de la vacunación contra la viruela. Armed Forces Medical Research Institute
 - **Feb 2023**. Opciones de carrera para médicos al inicio de su trayectoria profesional. Korean Medical Association
 
+</details>
+
 ## Cargos de asesoramiento y de política
 
-**Ministry of Health and Welfare, Republic of Korea**
+<details>
+<summary>Ministry of Health and Welfare, Republic of Korea</summary>
 
 - Miembro experto, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee (Sep 2023–Feb 2024)
 - Miembro, Taskforce for Improving the Physician Assistant System (Jun 2023–Feb 2024)
@@ -203,6 +216,8 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 - Miembro, Policy Committee (Mar 2023–Feb 2024)
 - Miembro, Investigation Committee (Sep 2021–Aug 2022)
 - Miembro, Taskforce for Residency Training System Reform (Jul 2023–Oct 2023)
+
+</details>
 
 ## Contribuciones a paneles y grupos de discusión
 
