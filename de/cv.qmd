@@ -30,6 +30,9 @@ Facharzt für Präventivmedizin mit Interesse an psychischer Gesundheit am Arbei
 - Epidemiologe und Offizier (Gesundheitspolitik und -management), Armed Forces Medical Command, MND
 - Epidemiologe und Offizier (Präventivmedizin), Armed Forces Medical Research Institute, MND
 
+<details>
+<summary>Forschungs- und Verwaltungstätigkeiten</summary>
+
 **Forschung im Bereich Public Health**
 
 - Mitglied, Institutional Review Board (IRB), Armed Forces Medical Command, MND (2026–2027)
@@ -45,10 +48,15 @@ Facharzt für Präventivmedizin mit Interesse an psychischer Gesundheit am Arbei
 - Mitglied, Institutional Biosafety Committee, und Biosicherheitsinspektor, Armed Forces Medical Research Institute, MND
 - Mitglied, Biosafety Inspection Committee, Arms Control and Verification Team, MND
 
+</details>
+
 ### Mar 2020–Feb 2024
 
 - Assistenzarzt (Präventivmedizin), Korea University Medicine
 - Arzt im Praktikum (Intern), Korea University Medicine
+
+<details>
+<summary>Klinische, Forschungs- und Lehrtätigkeiten</summary>
 
 **1. Praxis in Public Health und Präventivmedizin**
 
@@ -65,6 +73,8 @@ Erwerb klinischer Erfahrung in der Primärversorgung, der Notfallmedizin und der
 **4. Lehre und Ausbildung**
 
 Als wissenschaftlicher Assistent (Teaching Assistant) am Korea University College of Medicine Mitbetreuung von Lehrveranstaltungen in Präventivmedizin, Medizinrecht und gemeindebasierten klinischen Wahlfächern. Organisation der Preventive Medicine Grand Rounds zur Förderung interaktiven Lernens und zur Stärkung der Ausbildung auf Graduiertenebene.
+
+</details>
 
 ## Approbation und Zertifizierungen
 

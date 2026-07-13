@@ -28,6 +28,9 @@ A board-certified preventive medicine physician interested in workplace mental h
 - Epidemiologist & Officer (Health Policy and Management), Armed Forces Medical Command, MND
 - Epidemiologist & Officer (Preventive Medicine), Armed Forces Medical Research Institute, MND
 
+<details>
+<summary>Research & management duties</summary>
+
 **Research in Public Health Medicine**
 
 - Member, Institutional Review Board (IRB), Armed Forces Medical Command, MND (2026–2027)
@@ -43,10 +46,15 @@ A board-certified preventive medicine physician interested in workplace mental h
 - Member, Institutional Biosafety Committee and Biosafety Inspector, Armed Forces Medical Research Institute, MND
 - Member, Biosafety Inspection Committee, Arms Control and Verification Team, MND
 
+</details>
+
 ### Mar 2020–Feb 2024
 
 - Medical Resident (Preventive Medicine), Korea University Medicine
 - Medical Intern, Korea University Medicine
+
+<details>
+<summary>Clinical, research & teaching activities</summary>
 
 **1. Public Health & Preventive Medicine Practice**
 
@@ -63,6 +71,8 @@ Gained clinical experience across primary care, emergency medicine, and post-ope
 **4. Education & Teaching**
 
 As a teaching assistant at Korea University College of Medicine, support courses in Preventive Medicine, Medical Law, and community-based clinical electives. Organize Preventive Medicine Grand Rounds to foster interactive learning and strengthen graduate-level training.
+
+</details>
 
 ## Licenses & Certifications
 

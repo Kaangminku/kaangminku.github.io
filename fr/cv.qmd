@@ -30,6 +30,9 @@ Médecin spécialiste certifié en médecine préventive, intéressé par la san
 - Épidémiologiste et officier (politique et gestion de la santé), Armed Forces Medical Command, MND
 - Épidémiologiste et officier (médecine préventive), Armed Forces Medical Research Institute, MND
 
+<details>
+<summary>Missions de recherche et de gestion</summary>
+
 **Recherche en médecine de santé publique**
 
 - Membre, Institutional Review Board (IRB), Armed Forces Medical Command, MND (2026–2027)
@@ -45,10 +48,15 @@ Médecin spécialiste certifié en médecine préventive, intéressé par la san
 - Membre, Institutional Biosafety Committee, et inspecteur de biosécurité, Armed Forces Medical Research Institute, MND
 - Membre, Biosafety Inspection Committee, Arms Control and Verification Team, MND
 
+</details>
+
 ### Mar 2020–Feb 2024
 
 - Médecin résident (médecine préventive), Korea University Medicine
 - Interne, Korea University Medicine
+
+<details>
+<summary>Activités cliniques, de recherche et d'enseignement</summary>
 
 **1. Pratique en santé publique et médecine préventive**
 
@@ -65,6 +73,8 @@ Acquisition d'une expérience clinique en soins primaires, en médecine d'urgenc
 **4. Éducation et enseignement**
 
 En tant qu'assistant d'enseignement à la Korea University College of Medicine, appui aux cours de médecine préventive, de droit médical et aux stages cliniques optionnels en milieu communautaire. Organisation des Preventive Medicine Grand Rounds afin de favoriser un apprentissage interactif et de renforcer la formation de troisième cycle.
+
+</details>
 
 ## Licences et certifications
 

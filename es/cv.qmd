@@ -30,6 +30,9 @@ Médico especialista certificado en medicina preventiva, interesado en la salud 
 - Epidemiólogo y oficial (Política y Gestión Sanitaria), Armed Forces Medical Command, MND
 - Epidemiólogo y oficial (Medicina Preventiva), Armed Forces Medical Research Institute, MND
 
+<details>
+<summary>Funciones de investigación y gestión</summary>
+
 **Investigación en medicina de salud pública**
 
 - Miembro, Institutional Review Board (IRB), Armed Forces Medical Command, MND (2026–2027)
@@ -45,10 +48,15 @@ Médico especialista certificado en medicina preventiva, interesado en la salud 
 - Miembro del Institutional Biosafety Committee e inspector de bioseguridad, Armed Forces Medical Research Institute, MND
 - Miembro, Biosafety Inspection Committee, Arms Control and Verification Team, MND
 
+</details>
+
 ### Mar 2020–Feb 2024
 
 - Médico residente (Medicina Preventiva), Korea University Medicine
 - Médico interno, Korea University Medicine
+
+<details>
+<summary>Actividades clínicas, de investigación y docencia</summary>
 
 **1. Práctica en salud pública y medicina preventiva**
 
@@ -65,6 +73,8 @@ Adquirí experiencia clínica en atención primaria, medicina de urgencias y cui
 **4. Docencia y enseñanza**
 
 Como profesor ayudante en la Korea University College of Medicine, apoyo la docencia de asignaturas de Medicina Preventiva, Derecho Médico y prácticas clínicas optativas de base comunitaria. Organizo las Preventive Medicine Grand Rounds para fomentar el aprendizaje interactivo y reforzar la formación de posgrado.
+
+</details>
 
 ## Licencias y certificaciones
 

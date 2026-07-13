@@ -13,14 +13,14 @@ website:
     pinned: true
     background: light
     right:
+      - text: "CV"
+        href: cv.qmd
       - text: "Research"
         href: research.qmd
       - text: "Publications"
         href: publications.qmd
       - text: "Teaching"
         href: teaching.qmd
-      - text: "CV"
-        href: cv.qmd
       - text: "Media"
         href: media.qmd
       - text: "🌐 Language"

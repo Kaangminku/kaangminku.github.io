@@ -30,6 +30,9 @@ toc-depth: 3
 - 疫学調査官・軍医官（保健医療政策・管理）、Armed Forces Medical Command, MND
 - 疫学調査官・軍医官（予防医学）、Armed Forces Medical Research Institute, MND
 
+<details>
+<summary>研究・管理業務の詳細</summary>
+
 **公衆衛生医学における研究**
 
 - 委員、Institutional Review Board (IRB)、Armed Forces Medical Command, MND（2026–2027）
@@ -45,10 +48,15 @@ toc-depth: 3
 - Institutional Biosafety Committee 委員およびバイオセーフティ点検官、Armed Forces Medical Research Institute, MND
 - Biosafety Inspection Committee 委員、Arms Control and Verification Team, MND
 
+</details>
+
 ### Mar 2020–Feb 2024
 
 - 専攻医（予防医学）、Korea University Medicine
 - インターン（研修医）、Korea University Medicine
+
+<details>
+<summary>臨床・研究・教育活動の詳細</summary>
 
 **1. 公衆衛生・予防医学実務**
 
@@ -65,6 +73,8 @@ toc-depth: 3
 **4. 教育・指導**
 
 Korea University College of Medicine のティーチングアシスタントとして、予防医学・医事法・地域基盤の臨床選択実習の講義を支援している。双方向的な学習を促進し、大学院水準の教育を強化するため、Preventive Medicine Grand Rounds を運営している。
+
+</details>
 
 ## 免許・資格
 
