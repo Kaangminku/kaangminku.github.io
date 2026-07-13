@@ -86,40 +86,65 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 
 ## Actividades profesionales y servicio académico
 
-- **Miembro de la junta directiva**, Korean Society for Preventive Medicine, y presidente del Future Generations Committee (Jan 2026–Actualidad)
-- **Vicepresidente y miembro fundador**, Korean Association of Preventive Medicine Physicians (Mar 2025–Actualidad)
-
 ### Korean Association of Preventive Medicine Physicians
 
 **Vicepresidente; miembro fundador** Mar 2025–Actualidad
 
+<details>
+<summary>Función y actividades</summary>
+
 - Responsable de las relaciones externas, la gestión organizativa y los asuntos de política sanitaria de la asociación.
 - Presentó «Encuesta preparatoria para la Korean Association of Preventive Medicine Physicians: ¿en qué situación se encuentran hoy los médicos de medicina preventiva?» en la 77th Fall Academic Conference of the Korean Society for Preventive Medicine, Oct 2025.
 
+</details>
+
 ### Korean Society for Preventive Medicine
 
-- Miembro de la junta directiva
-- Presidente, Future Generations Committee
+**Miembro de la junta directiva; Presidente, Future Generations Committee**
+
+<details>
+<summary>Membresías en comités</summary>
+
 - Miembro, Social Mental Health Committee
 - Miembro, Clinical Preventive Medicine Committee
 - Exmiembro, Policy Planning Taskforce
 - Exmiembro, Residency Training Development Taskforce
 
+</details>
+
 ### Korean Society of Occupational and Environmental Medicine
+
+<details>
+<summary>Consejos y grupos de investigación</summary>
 
 - Miembro, Corporate Occupational Physicians Council
 - Miembro investigador, Work, Sleep, Health Cohort Research Group
 
+</details>
+
 ### Korean Society for Equity in Health
+
+<details>
+<summary>Grupos de investigación y comités</summary>
 
 - Miembro, Labour and Mental Health Research Group
 - Exmiembro estudiantil, Academic Committee
 
+</details>
+
 ### Korean Society of Epidemiology
+
+<details>
+<summary>Grupo de investigación</summary>
 
 - Miembro, Psychiatric Epidemiology Research Group
 
-### Otros
+</details>
+
+### Otras sociedades científicas
+
+<details>
+<summary>Membresías</summary>
 
 - Miembro, Korean Society of Health Administration
 - Miembro, Korean Association of Health Economics and Policy
@@ -128,17 +153,22 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 - Exmiembro, American Public Health Association
 - Exmiembro asociado, World Medical Association
 
+</details>
+
 ## Investigación y publicaciones
 
 - **Investigador principal**, Determinantes de la salud mental en el personal militar
 - **Investigador principal**, Estudio sobre la reforma del sistema de guardias consecutivas de 36 horas para residentes
-- Revisor por pares para International Journal of Equity in Health y BMC Public Health
-- Publicaciones (Google Scholar)
 
-### Actividades de revisión por pares
+Para la lista completa de proyectos de investigación y publicaciones, consulte las páginas [Research](research.html) y [Publications](publications.html).
+
+<details>
+<summary>Actividades de revisión por pares</summary>
 
 - Revisor, International Journal of Equity in Health
 - Revisor, BMC Public Health
+
+</details>
 
 ## Congresos y presentaciones
 
@@ -219,46 +249,54 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 
 </details>
 
-## Contribuciones a paneles y grupos de discusión
+<details>
+<summary>Contribuciones a paneles y grupos de discusión</summary>
 
 - Estudio sobre la legislación para la red de seguridad sanitaria (Korea Legislation Research Institute, 2026)
 - Investigación básica para la introducción de las prescripciones verdes: análisis de casos internacionales y desarrollo de prestaciones de parques y zonas verdes (Keimyung University Master's Thesis, 2024)
 - Estudio de políticas sobre el fortalecimiento del carácter público de la formación de residentes (Korea Hospital Association, 2023)
 - Encuesta nacional sobre las condiciones laborales de los residentes (Ministry of Health and Welfare / Health Insurance Review & Assessment Service, 2023)
 
-## Liderazgo
+</details>
 
-- **Presidente** (Sep 2022–Aug 2023), vicepresidente y asesor de políticas, Korean Intern Resident Association
-- **Director de Políticas**, Korean Medical Association (Sep 2022–Aug 2023)
-- **Vicepresidente**, Korea University Undergraduate Student Union (Dec 2014–Nov 2015)
+## Liderazgo
 
 ### Korean Intern Resident Association
 
-- Presidente (Sep 2022–Aug 2023)
+**Presidente** Sep 2022–Aug 2023
+
+<details>
+<summary>Otras funciones</summary>
+
 - Investigador principal, Estudio sobre la reforma del sistema de guardias consecutivas de 36 horas para residentes
 - Investigador principal, Encuesta Nacional de Residentes de 2022
 - Asesor de políticas (Sep 2023–Feb 2024)
 - Vicepresidente (Sep 2021–Aug 2022)
 - Coordinador principal del folleto de propuestas de política de KIRA para las 20.ª elecciones presidenciales
 
+</details>
+
 ### Korean Medical Association
 
-- Director de Políticas (Sep 2021–Aug 2023)
+**Director de Políticas** Sep 2021–Aug 2023
+
+<details>
+<summary>Cargos de delegado, nombramientos en comités y formación</summary>
+
 - Delegado, KMA National Assembly (Sep 2021–Aug 2022)
 - Delegado, Seoul Medical Association (Nov 2022–Oct 2023)
-
-## Nombramientos en comités
-
 - Miembro, Community Care Special Committee (Sep 2023–Feb 2024)
 - Miembro, Operations Committee, KMA Institute for Healthcare Policy (Sep 2021–Aug 2023)
 - Vicepresidente, Special Committee on Eradicating Unlicensed Medical Practice (Sep 2022–Aug 2023)
 - Miembro, Member Rights Committee (Sep 2022–Aug 2023)
 - Miembro, KMA Policy "Medical and Health Policy" Division (Sep 2021–Aug 2023)
-
-## Educación y formación
-
 - Finalización del Advanced Course on Health Policy, Korean Medical Association (May 2023–Oct 2023)
 - Finalización de la Health Policy Academy for Junior Doctors (Jan 2024–Feb 2024)
+
+</details>
+
+## Actividades comunitarias y estudiantiles
+
 - **Fundador y director**, Woosadan Studio Feb 2018–Feb 2020
   - Organización de conciertos callejeros en Usadan Village, Itaewon
   - Gestión del alquiler de espacios culturales y de programas culturales de base comunitaria
@@ -293,10 +331,15 @@ Como profesor ayudante en la Korea University College of Medicine, apoyo la doce
 
 **Miembro de la delegación coreana** Apr 2022–Feb 2024
 
+<details>
+<summary>Reuniones a las que asistí</summary>
+
 - París, Francia / Berlín, Alemania 2022
 - Nairobi, Kenia / Kigali, Ruanda 2023
 - Seúl, Corea (país anfitrión; participación personal) 2024
 - Oporto, Portugal (participación personal) 2025
+
+</details>
 
 ### Miembro de la delegación coreana de la IFMSA (KMSA)
 

@@ -86,40 +86,65 @@ toc-depth: 3
 
 ## Профессиональная деятельность и членство в научных обществах
 
-- **Член правления**, Korean Society for Preventive Medicine, и председатель Future Generations Committee (Jan 2026 – по настоящее время)
-- **Вице-президент и один из основателей**, Korean Association of Preventive Medicine Physicians (Mar 2025 – по настоящее время)
-
 ### Korean Association of Preventive Medicine Physicians
 
-**Вице-президент; один из основателей** Mar 2025 – по настоящее время
+**Вице-президент; член-учредитель** Mar 2025–настоящее время
+
+<details>
+<summary>Роль и деятельность</summary>
 
 - Курирует внешние связи, организационное управление и вопросы политики здравоохранения ассоциации.
 - Представил доклад «Preparatory Survey for the Korean Association of Preventive Medicine Physicians: Where Do Preventive Medicine Physicians Stand Today?» на 77th Fall Academic Conference of the Korean Society for Preventive Medicine, Oct 2025.
 
+</details>
+
 ### Korean Society for Preventive Medicine
 
-- Член правления
-- Председатель, Future Generations Committee
+**Член правления; председатель Future Generations Committee**
+
+<details>
+<summary>Членство в комитетах</summary>
+
 - Член, Social Mental Health Committee
 - Член, Clinical Preventive Medicine Committee
 - Бывший член, Policy Planning Taskforce
 - Бывший член, Residency Training Development Taskforce
 
+</details>
+
 ### Korean Society of Occupational and Environmental Medicine
+
+<details>
+<summary>Советы и исследовательские группы</summary>
 
 - Член, Corporate Occupational Physicians Council
 - Исследователь, Work, Sleep, Health Cohort Research Group
 
+</details>
+
 ### Korean Society for Equity in Health
+
+<details>
+<summary>Исследовательские группы и комитеты</summary>
 
 - Член, Labour and Mental Health Research Group
 - Бывший член (в статусе студента), Academic Committee
 
+</details>
+
 ### Korean Society of Epidemiology
+
+<details>
+<summary>Исследовательская группа</summary>
 
 - Член, Psychiatric Epidemiology Research Group
 
-### Прочее
+</details>
+
+### Другие научные общества
+
+<details>
+<summary>Членство</summary>
 
 - Член, Korean Society of Health Administration
 - Член, Korean Association of Health Economics and Policy
@@ -128,17 +153,22 @@ toc-depth: 3
 - Бывший член, American Public Health Association
 - Бывший ассоциированный член, World Medical Association
 
+</details>
+
 ## Исследования и публикации
 
 - **Главный исследователь**, «Детерминанты психического здоровья военнослужащих»
 - **Главный исследователь**, «Исследование реформы 36-часового режима непрерывного дежурства для ординаторов»
-- Рецензент журналов International Journal of Equity in Health и BMC Public Health
-- Публикации (Google Scholar)
 
-### Рецензирование
+Полный список исследовательских проектов и публикаций см. на страницах [Research](research.html) и [Publications](publications.html).
+
+<details>
+<summary>Рецензирование</summary>
 
 - Рецензент, International Journal of Equity in Health
 - Рецензент, BMC Public Health
+
+</details>
 
 ## Конференции и доклады
 
@@ -219,46 +249,54 @@ toc-depth: 3
 
 </details>
 
-## Участие в экспертных панелях и фокус-группах
+<details>
+<summary>Участие в экспертных панелях и фокус-группах</summary>
 
 - «Исследование законодательства о системе социальной защиты в здравоохранении» (Korea Legislation Research Institute, 2026)
 - «Базовое исследование по внедрению „зелёных рецептов“: анализ зарубежного опыта и разработка перечня услуг, связанных с парками и зелёными зонами» (магистерская диссертация, Keimyung University, 2024)
 - «Политическое исследование по усилению общественного характера подготовки в ординатуре» (Korea Hospital Association, 2023)
 - «Национальное обследование условий труда ординаторов» (Ministry of Health and Welfare / Health Insurance Review & Assessment Service, 2023)
 
-## Руководящая деятельность
+</details>
 
-- **Президент** (Sep 2022–Aug 2023), вице-президент и советник по политике, Korean Intern Resident Association
-- **Директор по политике**, Korean Medical Association (Sep 2022–Aug 2023)
-- **Вице-президент**, Korea University Undergraduate Student Union (Dec 2014–Nov 2015)
+## Руководящая деятельность
 
 ### Korean Intern Resident Association
 
-- Президент (Sep 2022–Aug 2023)
+**Президент** Sep 2022–Aug 2023
+
+<details>
+<summary>Другие должности</summary>
+
 - Главный исследователь, «Исследование реформы 36-часового режима непрерывного дежурства для ординаторов»
 - Главный исследователь, 2022 National Resident Survey
 - Советник по политике (Sep 2023–Feb 2024)
 - Вице-президент (Sep 2021–Aug 2022)
 - Ведущий координатор буклета политических предложений KIRA к 20-м президентским выборам
 
+</details>
+
 ### Korean Medical Association
 
-- Директор по политике (Sep 2021–Aug 2023)
+**Директор по политике** Sep 2021–Aug 2023
+
+<details>
+<summary>Должности делегата, назначения в комитеты и обучение</summary>
+
 - Делегат, KMA National Assembly (Sep 2021–Aug 2022)
 - Делегат, Seoul Medical Association (Nov 2022–Oct 2023)
-
-## Назначения в комитеты
-
 - Член, Community Care Special Committee (Sep 2023–Feb 2024)
 - Член, Operations Committee, KMA Institute for Healthcare Policy (Sep 2021–Aug 2023)
 - Заместитель председателя, Special Committee on Eradicating Unlicensed Medical Practice (Sep 2022–Aug 2023)
 - Член, Member Rights Committee (Sep 2022–Aug 2023)
 - Член, KMA Policy "Medical and Health Policy" Division (Sep 2021–Aug 2023)
-
-## Обучение и подготовка
-
 - Завершение продвинутого курса по политике здравоохранения, Korean Medical Association (May 2023–Oct 2023)
 - Завершение Health Policy Academy for Junior Doctors (Jan 2024–Feb 2024)
+
+</details>
+
+## Общественная и студенческая деятельность
+
 - **Основатель и директор**, Woosadan Studio Feb 2018–Feb 2020
   - Организация уличных концертов в Usadan Village, Itaewon
   - Управление арендой культурного пространства и культурными программами на базе местного сообщества
@@ -293,10 +331,15 @@ toc-depth: 3
 
 **Член корейской делегации** Apr 2022–Feb 2024
 
+<details>
+<summary>Посещённые заседания</summary>
+
 - Париж, Франция / Берлин, Германия 2022
 - Найроби, Кения / Кигали, Руанда 2023
 - Сеул, Корея (принимающая страна; личное участие) 2024
 - Порту, Португалия (личное участие) 2025
+
+</details>
 
 ### IFMSA (KMSA), член корейской делегации
 

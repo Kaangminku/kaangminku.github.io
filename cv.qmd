@@ -84,40 +84,65 @@ As a teaching assistant at Korea University College of Medicine, support courses
 
 ## Professional Activities & Academic Service
 
-- **Board Member**, Korean Society for Preventive Medicine & Chairperson of the Future Generations Committee (Jan 2026–Present)
-- **Vice President and Founding Member**, Korean Association of Preventive Medicine Physicians (Mar 2025–Present)
-
 ### Korean Association of Preventive Medicine Physicians
 
 **Vice President; Founding Member** Mar 2025–Present
 
+<details>
+<summary>Role & activities</summary>
+
 - Oversees external relations, organizational management, and health policy affairs for the association.
 - Presented "Preparatory Survey for the Korean Association of Preventive Medicine Physicians: Where Do Preventive Medicine Physicians Stand Today?" at the 77th Fall Academic Conference of the Korean Society for Preventive Medicine, Oct 2025.
 
+</details>
+
 ### Korean Society for Preventive Medicine
 
-- Board Member
-- Chairperson, Future Generations Committee
+**Board Member; Chairperson, Future Generations Committee**
+
+<details>
+<summary>Committee memberships</summary>
+
 - Member, Social Mental Health Committee
 - Member, Clinical Preventive Medicine Committee
 - Former Member, Policy Planning Taskforce
 - Former Member, Residency Training Development Taskforce
 
+</details>
+
 ### Korean Society of Occupational and Environmental Medicine
+
+<details>
+<summary>Councils & research groups</summary>
 
 - Member, Corporate Occupational Physicians Council
 - Research Member, Work, Sleep, Health Cohort Research Group
 
+</details>
+
 ### Korean Society for Equity in Health
+
+<details>
+<summary>Research groups & committees</summary>
 
 - Member, Labour and Mental Health Research Group
 - Former Student Member, Academic Committee
 
+</details>
+
 ### Korean Society of Epidemiology
+
+<details>
+<summary>Research group</summary>
 
 - Member, Psychiatric Epidemiology Research Group
 
-### Others
+</details>
+
+### Other Societies
+
+<details>
+<summary>Memberships</summary>
 
 - Member, Korean Society of Health Administration
 - Member, Korean Association of Health Economics and Policy
@@ -126,17 +151,22 @@ As a teaching assistant at Korea University College of Medicine, support courses
 - Former Member, American Public Health Association
 - Former Associate Member, World Medical Association
 
+</details>
+
 ## Research & Publications
 
 - **Principal Investigator**, Determinants of Mental Health Among Military Personnel
 - **Principal Investigator**, Study on Reforming the 36-hour Consecutive Duty System for Residents
-- Peer reviewer for International Journal of Equity in Health and BMC Public Health
-- Publications (Google Scholar)
 
-### Peer Review Activities
+For the full list of research projects and publications, see the [Research](research.html) and [Publications](publications.html) pages.
+
+<details>
+<summary>Peer Review Activities</summary>
 
 - Reviewer, International Journal of Equity in Health
 - Reviewer, BMC Public Health
+
+</details>
 
 ## Conferences & Presentations
 
@@ -217,46 +247,54 @@ As a teaching assistant at Korea University College of Medicine, support courses
 
 </details>
 
-## Panel and Focus-Group Contributions
+<details>
+<summary>Panel and Focus-Group Contributions</summary>
 
 - A Study on Legislation for the Healthcare Safety Net (Korea Legislation Research Institute, 2026)
 - Basic Research for Introducing Green Prescriptions: Overseas Case Analysis and Development of Park and Green Service Items (Keimyung University Master's Thesis, 2024)
 - Policy Study on Strengthening Publicness in Residency Training (Korea Hospital Association, 2023)
 - National Survey on Resident Working Conditions (Ministry of Health and Welfare / Health Insurance Review & Assessment Service, 2023)
 
-## Leadership
+</details>
 
-- **President** (Sep 2022–Aug 2023), Vice President and Policy Advisor, Korean Intern Resident Association
-- **Director of Policy**, Korean Medical Association (Sep 2022–Aug 2023)
-- **Vice President**, Korea University Undergraduate Student Union (Dec 2014–Nov 2015)
+## Leadership
 
 ### Korean Intern Resident Association
 
-- President (Sep 2022–Aug 2023)
+**President** Sep 2022–Aug 2023
+
+<details>
+<summary>Additional roles</summary>
+
 - Principal Investigator, Study on Reforming the 36-hour Consecutive Duty System for Residents
 - Principal Investigator, 2022 National Resident Survey
 - Policy Advisor (Sep 2023–Feb 2024)
 - Vice President (Sep 2021–Aug 2022)
 - Lead coordinator for the KIRA policy proposal booklet for the 20th presidential election
 
+</details>
+
 ### Korean Medical Association
 
-- Director of Policy (Sep 2021–Aug 2023)
+**Director of Policy** Sep 2021–Aug 2023
+
+<details>
+<summary>Delegate roles, committee appointments & training</summary>
+
 - Delegate, KMA National Assembly (Sep 2021–Aug 2022)
 - Delegate, Seoul Medical Association (Nov 2022–Oct 2023)
-
-## Committee Appointments
-
 - Member, Community Care Special Committee (Sep 2023–Feb 2024)
 - Member, Operations Committee, KMA Institute for Healthcare Policy (Sep 2021–Aug 2023)
 - Vice Chair, Special Committee on Eradicating Unlicensed Medical Practice (Sep 2022–Aug 2023)
 - Member, Member Rights Committee (Sep 2022–Aug 2023)
 - Member, KMA Policy "Medical and Health Policy" Division (Sep 2021–Aug 2023)
-
-## Education and Training
-
-- Completion of Advanced Course on Health Policy, Korean Medical Association (May 2023–Oct 2023)
+- Completion of Advanced Course on Health Policy (May 2023–Oct 2023)
 - Completion of Health Policy Academy for Junior Doctors (Jan 2024–Feb 2024)
+
+</details>
+
+## Community and Student Activities
+
 - **Founder and Director**, Woosadan Studio Feb 2018–Feb 2020
   - Organized alley concerts in Usadan Village, Itaewon
   - Operated cultural space rental and community-based cultural programs
@@ -291,10 +329,15 @@ As a teaching assistant at Korea University College of Medicine, support courses
 
 **Korean Delegation Member** Apr 2022–Feb 2024
 
+<details>
+<summary>Meetings attended</summary>
+
 - Paris, France / Berlin, Germany 2022
 - Nairobi, Kenya / Kigali, Rwanda 2023
 - Seoul, Korea (host country; personal participation) 2024
 - Porto, Portugal (personal participation) 2025
+
+</details>
 
 ### IFMSA (KMSA) Korean Delegation Member
 
