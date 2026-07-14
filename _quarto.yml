@@ -5,7 +5,7 @@ project:
 website:
   title: "Minku Kang"
   description: "Minku Kang (강민구) — preventive medicine physician, social epidemiologist, and health-policy researcher."
-  site-url: "https://kaangminku.github.io"
+  site-url: "https://kangminku-kr.github.io"
   favicon: images/profile.jpg
   reader-mode: false
   search: false

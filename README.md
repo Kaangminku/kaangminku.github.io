@@ -1,50 +1,49 @@
-# kaangminku.github.io
+# kangminku-kr.github.io
 
-Personal academic website of **Minku Kang (강민구)** — built with [Quarto](https://quarto.org),
-styled after [paulamoraga.com](https://www.paulamoraga.com/) (Quarto `about`/trestles template).
+Personal academic website of **Minku Kang (강민구)** — preventive-medicine physician and
+health-policy researcher. Built with [Quarto](https://quarto.org); strict black-and-white
+Helvetica editorial theme (`custom.scss`).
 
-Migrated from the previous Google Site (`sites.google.com/view/kangminku`), 2026-06.
+Live at **https://kangminku-kr.github.io**.
 
 ## Structure
 
-| File | Page |
-|---|---|
-| `index.qmd` | Home / About (trestles: photo + links + bio) |
-| `cv.qmd` | Full CV |
-| `research.qmd` | Research projects & grants |
-| `dashboard.qmd` | Research dashboard (⚠ contains internal pipeline notes — review before publishing) |
-| `publications.qmd` | Publications |
-| `teaching.qmd` / `teaching-prevmed.qmd` | Teaching / What is preventive medicine? |
-| `media.qmd` | Media appearances |
-| `contact.qmd` | Contact |
-| `korean.qmd` / `interview.qmd` / `life.qmd` | 약력 / 인터뷰 / 일상 (Korean) |
-| `_quarto.yml` | Site config + navbar |
-| `custom.scss` | Theme (Source Sans 3, blue accent #2761e3 — the Paula Moraga palette) |
-| `images/`, `assets/` | Profile photo, 일상 gallery, CV PDF |
+- **7 languages**: English at the site root; `ko/`, `fr/`, `ja/`, `de/`, `es/`, `ru/` subdirectories
+  (same page set in each). One shared navbar in `_quarto.yml`; `lang-toggle.html` localizes the nav
+  labels and builds the per-page language switcher (keys off the `/xx/` path segment, so it only
+  works when served at the domain root — not under a `file://` preview).
+- **Pages** (per language): `index` (home), `cv`, `research`, `publications`, `teaching`, `media`,
+  `contact`; Korean-only `interview`, `life`.
+- **Blog**: `blog.qmd` (a Quarto listing) over `posts/` — one shared board at the site root; posts are
+  written in any language and appear on every language version (not translated 7×).
+- `custom.scss` — theme (`.mk-*` home classes + site-wide element styling).
 
-## Edit & preview locally
+## Publishing — automatic (GitHub Actions)
 
-Quarto is installed at `C:\Users\mk7ma\AppData\Local\Programs\quarto\bin\quarto.exe`.
+`.github/workflows/publish.yml` renders the site and deploys it to GitHub Pages on **every push to
+`main`** (Pages Source = "GitHub Actions"). The build output `docs/` is **git-ignored** — the repo
+holds sources only; the Action rebuilds it.
 
-```powershell
-$q = "C:\Users\mk7ma\AppData\Local\Programs\quarto\bin\quarto.exe"
-& $q preview .   # live preview in browser
-& $q render .    # build into docs/
+**Add a blog post (no local tools needed):** on GitHub, create `posts/<name>.qmd` via the web/mobile
+editor with front matter, then commit — it auto-publishes in ~1–2 min:
+
+```markdown
+---
+title: "Post title"
+date: "2026-07-20"
+categories: [단상]
+---
+
+Write freely here.
 ```
 
-Edit content by editing the `.qmd` files (plain Markdown — same as your manuscripts).
+Editing any other `.qmd` and committing works the same way.
 
-## Publish to https://kaangminku.github.io
+## Local preview (optional)
 
-1. Create a GitHub repo named **`kaangminku.github.io`** (public) under your account `kaangminku`.
-2. From this folder:
-   ```bash
-   git add -A
-   git commit -m "Update site"
-   git remote add origin https://github.com/kaangminku/kaangminku.github.io.git   # first time only
-   git push -u origin main
-   ```
-3. On GitHub: **Settings → Pages → Build and deployment → Source: Deploy from a branch → Branch: `main` / `/docs`**.
-4. Site goes live at https://kaangminku.github.io within a minute.
+```bash
+quarto render     # builds into docs/ (git-ignored); open docs/index.html
+# or: quarto preview
+```
 
-After any edit: `quarto render .` then commit & push.
+Then just `git push` the sources — the Action deploys. Do **not** commit `docs/`.
