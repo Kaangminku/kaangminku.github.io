@@ -4,6 +4,8 @@ toc: true
 toc-depth: 2
 ---
 
+> **Primer** — [What is preventive medicine?](teaching-prevmed.qmd): the core content outline of the specialty, adapted from the American Board of Preventive Medicine.
+
 ## Teaching experience
 
 **Teaching Assistant** — Korea University College of Medicine (Mar 2021 – Feb 2024)

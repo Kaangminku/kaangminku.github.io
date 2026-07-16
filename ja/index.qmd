@@ -1,4 +1,5 @@
 ---
+title: "Minku Kang"
 pagetitle: "Minku Kang — 予防医学専門医・保健医療政策研究者"
 description: "Minku Kang（강민구）— ソウルを拠点とする予防医学専門医、社会疫学者、保健医療政策研究者。"
 page-layout: full

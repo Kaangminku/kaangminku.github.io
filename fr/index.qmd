@@ -1,4 +1,5 @@
 ---
+title: "Minku Kang"
 pagetitle: "Minku Kang — Médecin spécialiste en médecine préventive et chercheur en politiques de santé"
 description: "Minku Kang (강민구) — médecin spécialiste en médecine préventive, épidémiologiste social et chercheur en politiques de santé à Séoul."
 page-layout: full

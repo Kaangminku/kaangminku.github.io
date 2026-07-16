@@ -1,4 +1,5 @@
 ---
+title: "강민구"
 pagetitle: "강민구 — 예방의학과 전문의 · 보건정책 연구자"
 description: "강민구 (Minku Kang) — 예방의학과 전문의, 사회역학·보건의료정책 연구자."
 page-layout: full

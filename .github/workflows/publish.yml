@@ -26,6 +26,19 @@ jobs:
       - name: Check out
         uses: actions/checkout@v4
 
+      # Version is pinned for reproducibility, not as a workaround.
+      #
+      # History (2026-07-16): before the home pages carried an explicit `title:` in
+      # their front matter, Quarto 1.9+ promoted the hero's <h1 class="mk-name"> to be
+      # the document title and moved it into #title-block-header — which the theme hides.
+      # The result: the name silently vanished from all seven language home pages while
+      # the build still reported success. This pin was the only thing preventing that.
+      #
+      # The homes now set `title:` explicitly (verified on 1.9.38: name stays in the
+      # hero on all 7, <title>/og:title still come from `pagetitle`), so bumping this
+      # version is safe. If you do bump it, re-run the check anyway:
+      #   python "E:/Dropbox/1_Work/google sites/tools/audit_site.py"
+      # and confirm the name renders on / and /ko/ — a green build does not prove it.
       - name: Set up Quarto
         uses: quarto-dev/quarto-actions/setup@v2
         with:

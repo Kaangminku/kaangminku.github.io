@@ -6,7 +6,8 @@
     'teaching.html':    {en:'Teaching',     ko:'교육',   fr:'Enseignement', ja:'教育',   de:'Lehre',        es:'Docencia',      ru:'Преподавание'},
     'cv.html':          {en:'CV',           ko:'약력',   fr:'CV',           ja:'略歴',   de:'CV',           es:'CV',            ru:'CV'},
     'media.html':       {en:'Media',        ko:'미디어', fr:'Médias',       ja:'メディア', de:'Medien',      es:'Medios',        ru:'Медиа'},
-    'blog.html':        {en:'Blog',         ko:'블로그', fr:'Blog',         ja:'ブログ', de:'Blog',         es:'Blog',          ru:'Блог'}
+    'blog.html':        {en:'Blog',         ko:'블로그', fr:'Blog',         ja:'ブログ', de:'Blog',         es:'Blog',          ru:'Блог'},
+    'contact.html':     {en:'Contact',      ko:'연락처', fr:'Contact',      ja:'連絡先', de:'Kontakt',      es:'Contacto',      ru:'Контакты'}
   };
   var LANGNAME = {en:'English', ko:'한국어', fr:'Français', ja:'日本語', de:'Deutsch', es:'Español', ru:'Русский'};
   var PREFIX   = {en:'/', ko:'/ko/', fr:'/fr/', ja:'/ja/', de:'/de/', es:'/es/', ru:'/ru/'};
@@ -21,10 +22,31 @@
     if(!/\.html$/.test(file)) file='index.html';
     return {lang:lang, file:file};
   }
+  var ORIGIN = 'https://kangminku-kr.github.io';
+  // hreflang: 이 페이지의 7개 언어판이 서로 '같은 문서의 다른 언어'임을 검색엔진에 알린다.
+  // (2026-07-16 검토 발견: 7개 언어 사이트인데 hreflang 0개 → 중복문서 평가·엉뚱한 언어판 노출 위험)
+  // 공유 게시판(blog·posts)과 KO 전용 페이지는 대응 언어판이 존재하지 않으므로 제외한다.
+  function hreflang(lang, file, onShared){
+    if(onShared || KO_ONLY[file]) return;
+    var head=document.head; if(!head) return;
+    Object.keys(PREFIX).forEach(function(lg){
+      var l=document.createElement('link');
+      l.setAttribute('rel','alternate');
+      l.setAttribute('hreflang',lg);
+      l.setAttribute('href', ORIGIN + link(lg,file));
+      head.appendChild(l);
+    });
+    var x=document.createElement('link');
+    x.setAttribute('rel','alternate');
+    x.setAttribute('hreflang','x-default');
+    x.setAttribute('href', ORIGIN + link('en',file));
+    head.appendChild(x);
+  }
   function run(){
     var p=pageOf(), lang=p.lang, file=p.file;
     var onShared = !!SHARED[file] || location.pathname.indexOf('/posts/')!==-1;  // shared board or a post page
     document.documentElement.lang=lang;
+    hreflang(lang, file, onShared);
     document.querySelectorAll('.navbar-nav .nav-link').forEach(function(a){
       if(a.classList.contains('dropdown-toggle')) return;
       var t=(a.getAttribute('href')||'').split('/').pop()||'index.html';

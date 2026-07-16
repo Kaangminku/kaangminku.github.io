@@ -1,4 +1,5 @@
 ---
+title: "Minku Kang"
 pagetitle: "Minku Kang — Preventive medicine physician & health-policy researcher"
 description: "Minku Kang (강민구) — preventive medicine physician, social epidemiologist, and health-policy researcher in Seoul."
 page-layout: full

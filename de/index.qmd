@@ -1,4 +1,5 @@
 ---
+title: "Minku Kang"
 pagetitle: "Minku Kang — Facharzt für Präventivmedizin und Gesundheitspolitikforscher"
 description: "Minku Kang (강민구) — Facharzt für Präventivmedizin, Sozialepidemiologe und Gesundheitspolitikforscher in Seoul."
 page-layout: full

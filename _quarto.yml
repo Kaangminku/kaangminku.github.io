@@ -7,6 +7,9 @@ website:
   description: "Minku Kang (강민구) — preventive medicine physician, social epidemiologist, and health-policy researcher."
   site-url: "https://kangminku-kr.github.io"
   favicon: images/profile.jpg
+  image: images/profile.jpg          # 소셜 카드 썸네일
+  open-graph: true                   # 공유 시 미리보기 카드 (2026-07-16 검토: 부재 → 맨 URL만 노출됐음)
+  twitter-card: true
   reader-mode: false
   search: false
   navbar:
@@ -25,6 +28,8 @@ website:
         href: media.qmd
       - text: "Blog"
         href: blog.qmd
+      - text: "Contact"           # 2026-07-16: 7개 언어 contact 페이지가 번역 완비된 채 고아였음
+        href: contact.qmd
       - text: "🌐 Language"
         menu:
           - text: "English"
@@ -62,5 +67,5 @@ format:
       - text: |
           <link rel="preconnect" href="https://fonts.googleapis.com">
           <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-          <link href="https://fonts.googleapis.com/css2?family=Arimo:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap" rel="stylesheet">
+          <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&display=swap" rel="stylesheet">
           <link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/orioncactus/pretendard@v1.3.9/dist/web/static/pretendard.min.css">

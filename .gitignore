@@ -4,3 +4,6 @@
 **/*.quarto_ipynb
 .DS_Store
 Thumbs.db
+
+# Quarto 1.9 로컬 렌더가 남기는 진단 아티팩트 (CI 1.5.56 에선 미발생)
+_quarto_internal_scss_error.scss
