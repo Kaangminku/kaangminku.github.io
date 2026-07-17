@@ -217,6 +217,24 @@ body.mk-home #quarto-content > *{ padding-top:0; }
 .mk-about p{ font-size:16.8px; line-height:1.76; margin:0; }
 .mk-about p + p{ margin-top:1.15em; }
 
+/* 홈 약력 접기 — 전역 details 는 list-style:none 이라 삼각형이 없다.
+   접힌 글이 있다는 걸 보이게 하려면 표식을 직접 줘야 한다(+ / −).            */
+.mk-bio{ margin-top:1.9em; border-top:1px solid $hair; padding:1.15rem 0 0; }
+.mk-bio > summary{
+  display:inline-flex; align-items:baseline; gap:.6em;
+  font-family:$font-family-sans-serif; font-size:11.5px; letter-spacing:.15em;
+  text-transform:uppercase; font-weight:600; color:$accent;
+  cursor:pointer; list-style:none; padding:.15rem 0;
+}
+.mk-bio > summary::-webkit-details-marker{ display:none; }
+.mk-bio > summary::after{
+  content:"+"; font-size:13px; font-weight:400; letter-spacing:0; line-height:1;
+}
+.mk-bio[open] > summary::after{ content:"–"; }
+.mk-bio > summary:hover{ color:$accent-h; }
+.mk-bio[open] > summary{ margin-bottom:.2em; }
+.mk-bio p{ font-size:15.5px; line-height:1.76; color:$muted; margin:1.15em 0 0; }
+
 .mk-sec{ padding:clamp(52px,7vw,86px) 0 0; }
 /* 구 테마: 라벨 밑에 굵은 검정 괘선. 신 테마: 라벨은 액센트로 속삭이고 괘선은 가늘게 */
 .mk-lbl{
