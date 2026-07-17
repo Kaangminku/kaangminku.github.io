@@ -27,7 +27,7 @@ lang: ja
 <section class="mk-about">
 <p>Minku Kang は予防医学専門医であり、社会疫学者です。その研究は、不安定な労働・長時間労働・格差がどのようにメンタルヘルスの悪化を招くのか、そして、そこで得られた根拠が制度改革をいかに後押ししうるのかを問うものです。</p>
 <p>大韓インターン・レジデント協議会の会長として、研修医の勤務時間規制改革に向けた全国的な取り組みを主導し、その功績により保健福祉部長官表彰を受けました。現在は高麗大学校で保健学の博士課程を、KDI 大学院で公共政策学の修士課程を修了しつつあり、国軍医務司令部では疫学者および保健医療政策担当官を務めています。</p>
-<p>予防医学を人々が実際に受けられる診療にする取り組みにも力を注いでいます。Korean Association of Preventive Medicine Physicians の副会長・創立会員として、また Korean Society for Preventive Medicine の理事として、Future Generations Committee の委員長および Clinical Preventive Medicine Committee の委員を務めています。</p>
+<p>予防医学を人々が実際に受けられる診療にする取り組みにも力を注いでいます。Korean Association of Preventive Medicine Physicians の副会長・創立会員として、また Korean Society for Preventive Medicine の理事として、Future Generations Committee の委員長および Clinical Preventive Medicine Committee の委員を務めています。臨床の現場では、これは生活習慣・職業・環境にわたって個人の健康リスクを評価し、それを軽減するためのエビデンスに基づく助言を提供し、さらに業務適合性や職場復帰の評価までを行うことを意味します。</p>
 <details class="mk-bio">
 <summary>略歴全文</summary>
 <p>高麗大学校で医学と社会学を専攻し、経済学を副専攻したのち、KDI 大学院で公共政策学の修士号を取得しました。学部時代には高麗大学校総学生会の副会長を務め、若者の住宅や教育政策の課題を中心に、大学と地域社会のガバナンスに積極的に取り組みました。卒業後は高麗大学校医療院でインターンと予防医学の専攻医課程を修了しました。あわせて、保健学研究の確かな分析的基盤を築くため、高麗大学校大学院の保健学博士課程に進学しました。</p>
