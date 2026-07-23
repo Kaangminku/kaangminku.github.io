@@ -270,7 +270,9 @@ Die vollständige Liste der Forschungsprojekte und Publikationen finden Sie auf 
 ## Beratungs- und politikbezogene Funktionen
 
 <details>
-<summary>Ministry of Health and Welfare, Republik Korea</summary>
+<summary>Regierung, öffentliche Institutionen und staatliche Forschungsinstitute</summary>
+
+**Ministry of Health and Welfare, Republik Korea**
 
 - Sachverständiges Mitglied, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee (Sep 2023–Feb 2024)
 - Mitglied, Taskforce for Improving the Physician Assistant System (Jun 2023–Feb 2024)
@@ -278,16 +280,32 @@ Die vollständige Liste der Forschungsprojekte und Publikationen finden Sie auf 
 - Mitglied, Policy Committee (Mar 2023–Feb 2024)
 - Mitglied, Investigation Committee (Sep 2021–Aug 2022)
 - Mitglied, Taskforce for Residency Training System Reform (Jul 2023–Oct 2023)
+- Landesweite Erhebung zu den Arbeitsbedingungen von Assistenzärzten (mit dem Health Insurance Review & Assessment Service, 2023)
+
+**National Medical Center**
+
+- Mitglied des Inhaltsprüfungsausschusses, E-Learning-Curriculum für die öffentliche Gesundheitsversorgung, Center for Public Healthcare Education and Training (2026)
+
+**Korea Development Institute (KDI)**
+
+- Sachverständiger Berater, gesundheitspolitische Forschung (2026)
+
+**Korea Legislation Research Institute**
+
+- Eine Studie zur Gesetzgebung für das Sicherheitsnetz im Gesundheitswesen (2026)
 
 </details>
 
 <details>
-<summary>Beiträge in Panels und Fokusgruppen</summary>
+<summary>Berufsverbände und Wissenschaft</summary>
 
-- Eine Studie zur Gesetzgebung für das Sicherheitsnetz im Gesundheitswesen (Korea Legislation Research Institute, 2026)
-- Grundlagenforschung zur Einführung von Green Prescriptions (Grünen Rezepten): Analyse ausländischer Fallbeispiele und Entwicklung von Leistungsangeboten für Parks und Grünflächen (Masterarbeit, Keimyung University, 2024)
-- Politikstudie zur Stärkung des öffentlichen Charakters der Facharztweiterbildung (Korea Hospital Association, 2023)
-- Landesweite Erhebung zu den Arbeitsbedingungen von Assistenzärzten (Ministry of Health and Welfare / Health Insurance Review & Assessment Service, 2023)
+**Korea Hospital Association**
+
+- Politikstudie zur Stärkung des öffentlichen Charakters der Facharztweiterbildung (2023)
+
+**Keimyung University**
+
+- Grundlagenforschung zur Einführung von Green Prescriptions (Grünen Rezepten): Analyse ausländischer Fallbeispiele und Entwicklung von Leistungsangeboten für Parks und Grünflächen (Masterarbeit, 2024)
 
 </details>
 

@@ -270,7 +270,9 @@ Para la lista completa de proyectos de investigación y publicaciones, consulte 
 ## Cargos de asesoramiento y de política
 
 <details>
-<summary>Ministry of Health and Welfare, Republic of Korea</summary>
+<summary>Gobierno, instituciones públicas e institutos estatales de investigación</summary>
+
+**Ministry of Health and Welfare, Republic of Korea**
 
 - Miembro experto, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee (Sep 2023–Feb 2024)
 - Miembro, Taskforce for Improving the Physician Assistant System (Jun 2023–Feb 2024)
@@ -278,16 +280,32 @@ Para la lista completa de proyectos de investigación y publicaciones, consulte 
 - Miembro, Policy Committee (Mar 2023–Feb 2024)
 - Miembro, Investigation Committee (Sep 2021–Aug 2022)
 - Miembro, Taskforce for Residency Training System Reform (Jul 2023–Oct 2023)
+- Encuesta nacional sobre las condiciones laborales de los residentes (con Health Insurance Review & Assessment Service, 2023)
+
+**National Medical Center**
+
+- Miembro del comité de revisión de contenidos, currículo de aprendizaje electrónico de atención sanitaria pública, Center for Public Healthcare Education and Training (2026)
+
+**Korea Development Institute (KDI)**
+
+- Asesor experto, investigación en política sanitaria (2026)
+
+**Korea Legislation Research Institute**
+
+- Estudio sobre la legislación para la red de seguridad sanitaria (2026)
 
 </details>
 
 <details>
-<summary>Contribuciones a paneles y grupos de discusión</summary>
+<summary>Organizaciones profesionales y academia</summary>
 
-- Estudio sobre la legislación para la red de seguridad sanitaria (Korea Legislation Research Institute, 2026)
-- Investigación básica para la introducción de las prescripciones verdes: análisis de casos internacionales y desarrollo de prestaciones de parques y zonas verdes (Keimyung University Master's Thesis, 2024)
-- Estudio de políticas sobre el fortalecimiento del carácter público de la formación de residentes (Korea Hospital Association, 2023)
-- Encuesta nacional sobre las condiciones laborales de los residentes (Ministry of Health and Welfare / Health Insurance Review & Assessment Service, 2023)
+**Korea Hospital Association**
+
+- Estudio de políticas sobre el fortalecimiento del carácter público de la formación de residentes (2023)
+
+**Keimyung University**
+
+- Investigación básica para la introducción de las prescripciones verdes: análisis de casos internacionales y desarrollo de prestaciones de parques y zonas verdes (Master's Thesis, 2024)
 
 </details>
 

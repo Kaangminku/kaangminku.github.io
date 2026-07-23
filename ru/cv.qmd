@@ -270,7 +270,9 @@ toc-depth: 3
 ## Экспертно-консультативная деятельность
 
 <details>
-<summary>Ministry of Health and Welfare, Republic of Korea</summary>
+<summary>Правительство, государственные учреждения и государственные научно-исследовательские институты</summary>
+
+**Ministry of Health and Welfare, Republic of Korea**
 
 - Член-эксперт, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee (Sep 2023–Feb 2024)
 - Член, Taskforce for Improving the Physician Assistant System (Jun 2023–Feb 2024)
@@ -278,16 +280,32 @@ toc-depth: 3
 - Член, Policy Committee (Mar 2023–Feb 2024)
 - Член, Investigation Committee (Sep 2021–Aug 2022)
 - Член, Taskforce for Residency Training System Reform (Jul 2023–Oct 2023)
+- «Национальное обследование условий труда ординаторов» (совместно с Health Insurance Review & Assessment Service, 2023)
+
+**National Medical Center**
+
+- Член комитета по экспертизе контента, программа электронного обучения в сфере общественного здравоохранения, Center for Public Healthcare Education and Training (2026)
+
+**Korea Development Institute (KDI)**
+
+- Эксперт-консультант, исследование в области политики здравоохранения (2026)
+
+**Korea Legislation Research Institute**
+
+- «Исследование законодательства о системе социальной защиты в здравоохранении» (2026)
 
 </details>
 
 <details>
-<summary>Участие в экспертных панелях и фокус-группах</summary>
+<summary>Профессиональные организации и академические учреждения</summary>
 
-- «Исследование законодательства о системе социальной защиты в здравоохранении» (Korea Legislation Research Institute, 2026)
-- «Базовое исследование по внедрению „зелёных рецептов“: анализ зарубежного опыта и разработка перечня услуг, связанных с парками и зелёными зонами» (магистерская диссертация, Keimyung University, 2024)
-- «Политическое исследование по усилению общественного характера подготовки в ординатуре» (Korea Hospital Association, 2023)
-- «Национальное обследование условий труда ординаторов» (Ministry of Health and Welfare / Health Insurance Review & Assessment Service, 2023)
+**Korea Hospital Association**
+
+- «Политическое исследование по усилению общественного характера подготовки в ординатуре» (2023)
+
+**Keimyung University**
+
+- «Базовое исследование по внедрению „зелёных рецептов“: анализ зарубежного опыта и разработка перечня услуг, связанных с парками и зелёными зонами» (магистерская диссертация, 2024)
 
 </details>
 

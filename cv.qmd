@@ -268,7 +268,9 @@ For the full list of research projects and publications, see the [Research](rese
 ## Advisory and Policy Roles
 
 <details>
-<summary>Ministry of Health and Welfare, Republic of Korea</summary>
+<summary>Government, Public Institutions, and State Research Institutes</summary>
+
+**Ministry of Health and Welfare, Republic of Korea**
 
 - Expert Member, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee (Sep 2023–Feb 2024)
 - Member, Taskforce for Improving the Physician Assistant System (Jun 2023–Feb 2024)
@@ -276,16 +278,32 @@ For the full list of research projects and publications, see the [Research](rese
 - Member, Policy Committee (Mar 2023–Feb 2024)
 - Member, Investigation Committee (Sep 2021–Aug 2022)
 - Member, Taskforce for Residency Training System Reform (Jul 2023–Oct 2023)
+- National Survey on Resident Working Conditions (with the Health Insurance Review & Assessment Service, 2023)
+
+**National Medical Center**
+
+- Content Review Committee Member, public-healthcare e-learning curriculum, Center for Public Healthcare Education and Training (2026)
+
+**Korea Development Institute (KDI)**
+
+- Expert Advisor, health-policy research (2026)
+
+**Korea Legislation Research Institute**
+
+- A Study on Legislation for the Healthcare Safety Net (2026)
 
 </details>
 
 <details>
-<summary>Panel and Focus-Group Contributions</summary>
+<summary>Professional Organizations and Academia</summary>
 
-- A Study on Legislation for the Healthcare Safety Net (Korea Legislation Research Institute, 2026)
-- Basic Research for Introducing Green Prescriptions: Overseas Case Analysis and Development of Park and Green Service Items (Keimyung University Master's Thesis, 2024)
-- Policy Study on Strengthening Publicness in Residency Training (Korea Hospital Association, 2023)
-- National Survey on Resident Working Conditions (Ministry of Health and Welfare / Health Insurance Review & Assessment Service, 2023)
+**Korea Hospital Association**
+
+- Policy Study on Strengthening Publicness in Residency Training (2023)
+
+**Keimyung University**
+
+- Basic Research for Introducing Green Prescriptions: Overseas Case Analysis and Development of Park and Green Service Items (Master's Thesis, 2024)
 
 </details>
 
