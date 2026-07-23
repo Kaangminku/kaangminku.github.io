@@ -14,7 +14,7 @@ toc: false
 <div class="mk-hgrid">
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-kr">강민구</span></h1>
-<p class="mk-lead">I study how work, inequality, and social policy shape mental health — and turn the evidence into reform.</p>
+<p class="mk-lead">Clinical preventive medicine · Workplace mental health · Policy research</p>
 </div>
 <figure class="mk-portrait">
 <img src="images/profile.jpg" alt="Minku Kang">

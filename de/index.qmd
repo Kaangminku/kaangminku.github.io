@@ -15,7 +15,7 @@ lang: de
 <div class="mk-hgrid">
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-kr">강민구</span></h1>
-<p class="mk-lead">Ich erforsche, wie Arbeit, Ungleichheit und Sozialpolitik die psychische Gesundheit prägen — und überführe die Evidenz in konkrete Reformen.</p>
+<p class="mk-lead">Klinische Präventivmedizin · Psychische Gesundheit am Arbeitsplatz · Politikforschung</p>
 </div>
 <figure class="mk-portrait">
 <img src="../images/profile.jpg" alt="Minku Kang">

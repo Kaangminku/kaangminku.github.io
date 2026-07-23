@@ -15,7 +15,7 @@ lang: ru
 <div class="mk-hgrid">
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-kr">강민구</span></h1>
-<p class="mk-lead">Я изучаю, как труд, неравенство и социальная политика формируют психическое здоровье, и превращаю результаты исследований в реальные реформы.</p>
+<p class="mk-lead">Клиническая профилактическая медицина · Психическое здоровье на рабочем месте · Исследование политики</p>
 </div>
 <figure class="mk-portrait">
 <img src="../images/profile.jpg" alt="Minku Kang">

@@ -15,7 +15,7 @@ lang: ko
 <div class="mk-hgrid">
 <div>
 <h1 class="mk-name">강민구<span class="mk-kr">Minku Kang</span></h1>
-<p class="mk-lead">노동과 불평등이 정신건강에 미치는 영향을 연구하고, 그 근거로 더 나은 제도를 만들고자 합니다.</p>
+<p class="mk-lead">임상예방의학 · 사업장 정신건강 · 정책 연구</p>
 </div>
 <figure class="mk-portrait">
 <img src="../images/profile.jpg" alt="강민구">

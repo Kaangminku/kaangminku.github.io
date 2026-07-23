@@ -84,19 +84,7 @@ toc-depth: 3
 - Сертифицированный врач по общему медицинскому скринингу, The Korean Association of Health Screening
 - Сертифицированный специалист по гериатрии, The Korea Geriatrics Society (планируется)
 
-## Профессиональная деятельность и членство в научных обществах
-
-### Korean Association of Preventive Medicine Physicians
-
-**Вице-президент; член-учредитель** Mar 2025–настоящее время
-
-<details>
-<summary>Роль и деятельность</summary>
-
-- Курирует внешние связи, организационное управление и вопросы политики здравоохранения ассоциации.
-- Представил доклад «Preparatory Survey for the Korean Association of Preventive Medicine Physicians: Where Do Preventive Medicine Physicians Stand Today?» на 77th Fall Academic Conference of the Korean Society for Preventive Medicine, Oct 2025.
-
-</details>
+## Научные общества
 
 ### Korean Society for Preventive Medicine
 
@@ -155,112 +143,19 @@ toc-depth: 3
 
 </details>
 
-## Исследования и публикации
+## Профессиональные организации
 
-- **Главный исследователь**, «Детерминанты психического здоровья военнослужащих»
-- **Главный исследователь**, «Исследование реформы 36-часового режима непрерывного дежурства для ординаторов»
+### Korean Association of Preventive Medicine Physicians
 
-Полный список исследовательских проектов и публикаций см. на страницах [Research](research.html) и [Publications](publications.html).
-
-<details>
-<summary>Рецензирование</summary>
-
-- Рецензент, International Journal of Equity in Health
-- Рецензент, BMC Public Health
-
-</details>
-
-## Конференции и доклады
+**Вице-президент; член-учредитель** Mar 2025–настоящее время
 
 <details>
-<summary>\(1\) Научные конференции и семинары</summary>
+<summary>Роль и деятельность</summary>
 
-- **Sep 2026**. Введение в исследования по усилению потенциала реагирования на инфекционные заболевания и управления ими в вооружённых силах (устный доклад). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
-- **Sep 2026**. Детерминанты психического здоровья военнослужащих (постер). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
-- **May 2026**. Связь между рабочим временем и депрессией среди корейских военнослужащих: повторный поперечный анализ Military Health Survey (2023–2025) (постер). 2026 Spring Conference of the Korean Society for Health Equity.
-- **Apr 2026**. Экстремальный труд, депрессивные симптомы и суицидальные мысли среди корейских ординаторов: рабочее время, последовательные смены и депривация сна во время дежурств по вызову (устный доклад). 2026 Spring Conference of the Association for Health Policy for Criticism and Alternatives.
-- **Nov 2025**. После возвращения ординаторов: куда должна двигаться политика улучшения условий труда ординаторов? (лекция). 42nd Online Comprehensive Academic Conference, Korean Medical Association
-- **Oct 2025**. Подготовительный опрос к созданию Korean Association of Preventive Medicine Physicians: где сегодня находятся специалисты по профилактической медицине? (устный доклад). 77th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Oct 2025**. Сложные связи между употреблением алкоголя и суицидальными мыслями в Южной Корее: поперечный и продольный анализ национальной панели, 2011–2022. (устный доклад). 77th Fall Academic Conference, Korean Society for Preventive Medicine
-- **Nov 2023**. Неравное воздействие пандемии COVID-19: летальность среди проживающих в учреждениях длительного ухода и жителей местных сообществ, Корея. (постер). 2023 APHA Annual Meeting
-- **Oct 2023**. Гендерное неравенство в психическом здоровье во время пандемии COVID-19: различия между городскими и негородскими районами. (устный доклад). 3rd Joint Academic Conference of Five Academic Societies on Identifying and Reducing Regional Health Inequalities
-- **Jul 2023**. COVID-19 и неравенство в здоровье. (устный доклад). Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine
-- **Oct 2022**. Неравенство в заболеваемости и смертности от сердечно-сосудистых заболеваний: 10-летнее национальное репрезентативное когортное наблюдение. (постер). 73rd Fall Academic Conference, Korean Society for Preventive Medicine
-- **Dec 2021**. Государство всеобщего благосостояния, социальная политика и здоровье. (устный доклад). Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine
-- **Oct 2021**. COVID-19 и психическое здоровье: неравенство по возрасту, полу и региону на основе общенациональных данных за 2015–2020. (устный доклад). 71st Fall Academic Conference, Korean Society for Preventive Medicine
+- Курирует внешние связи, организационное управление и вопросы политики здравоохранения ассоциации.
+- Представил доклад «Preparatory Survey for the Korean Association of Preventive Medicine Physicians: Where Do Preventive Medicine Physicians Stand Today?» на 77th Fall Academic Conference of the Korean Society for Preventive Medicine, Oct 2025.
 
 </details>
-
-<details>
-<summary>\(2\) Выступления в парламенте, государственных комитетах и НКО</summary>
-
-- **Nov 2023**. Направления реформирования норм рабочего времени ординаторов. (доклад). Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare
-- **Sep 2023**. Направления реформирования системы ординатуры. (доклад). Taskforce on Residency Training System Reform, Ministry of Health and Welfare
-- **Jul 2023**. Ключевые вопросы политики, связанные с системой Physician Assistant. (доклад). Consultative Body for Improving the Physician Assistant System, Ministry of Health and Welfare
-- **Apr 2023**. Сокращение рабочего времени ординаторов и ограничение непрерывного дежурства до 24 часов. (доклад). Парламентский форум, организованный депутатом Shin Hyun-young
-- **Jan 2023**. Интеграция врачебной профессии. (доклад). KMA Policy Workshop, Korean Medical Association
-- **Oct 2022**. Сокращение рабочего времени ординаторов и ограничение непрерывного дежурства до 24 часов. (доклад). World Medical Association – Junior Doctors Network (WMA-JDN)
-
-</details>
-
-<details>
-<summary>\(3\) Панельные дискуссии, приглашённые выступления и председательство</summary>
-
-- **Jun 2026**. Институционализация выделенного персонала Physician Assistant и перестройка системы здравоохранения: улучшение условий подготовки ординаторов и обеспечение безопасности пациентов. (дискуссант). Academic Conference, Korean Society for Quality in Health Care
-- **Feb 2026**. Парламентский форум по обеспечению прав ординаторов на здоровье и улучшению условий обучения. (дискуссант). Парламентский форум, организованный депутатом Lee Soo-jin
-- **Dec 2025**. Нехватка кадров в здравоохранении. (дискуссант). ETHOS (Ethics in a World of Emerging Technologies) 7.0
-- **Nov 2025**. Баланс между подготовкой ординаторов и сестринской практикой Physician Assistant с точки зрения повышения качества. (дискуссант). Fall Academic Conference, Korean Society for Quality in Health Care
-- **Dec 2023**. Постоянный форум по квотам приёма в медицинские вузы: расширение набора в медицинские вузы, ускоренный отток из STEM-областей, дисбаланс в предложении кадров и альтернативы для подготовки врачей-учёных. (дискуссант). Парламентский форум, организованный депутатом Shin Hyun-young
-- **Nov 2023**. Сессия по Physician Assistant (дискуссант) / Сессия «После COVID-19» (дискуссант). Fall Academic Conference, Korean Academy of Health Policy and Management
-- **Aug 2023**. Форум по надлежащему управлению коечным фондом и реагированию на создание филиалов столичных больниц третичного уровня. (дискуссант). Парламентский форум, организованный депутатом Lee Jong-sung
-- **Jul 2023**. Постоянный форум по актуальным вопросам здравоохранения: к улучшению здоровья граждан через сотрудничество медицинских работников. (дискуссант). Парламентский форум, организованный депутатом Shin Hyun-young
-- **Jul 2023**. Корейское здравоохранение глазами молодых врачей и пути решения его проблем. (дискуссант). Young Doctors Roundtable Special
-- **Jun 2023**. Постоянный форум по актуальным вопросам здравоохранения: обеспечение врачами в районах с недостаточным медицинским обслуживанием. (дискуссант). Парламентский форум, организованный депутатом Shin Hyun-young
-- **Jun 2023**. Проблемы политики поддержки основной медицинской помощи и поиск корейских альтернатив. (дискуссант) / Настоящее и будущее ординатуры: 36-часовое непрерывное дежурство (председатель). Academic Conference, Korean Academy of Medical Sciences
-- **May 2023**. Куда должна двигаться политика Кореи в отношении врачебных кадров? (дискуссант). Spring Academic Conference, Korean Academy of Health Policy and Management
-- **Mar 2023**. Необходимость укрепления системы базовой педиатрической помощи для преодоления низкой рождаемости. (дискуссант). Парламентский форум, организованный депутатом Baek Jong-heon
-- **Dec 2022**. Реформа учебных программ медицинских вузов для подготовки врачей-учёных. (дискуссант). Парламентский форум, организованный депутатами Shin Hyun-young и Cho Myung-hee
-- **Dec 2022**. Новогодний круглый стол: неотложный диагноз основной медицинской помощи и меры для устойчивого финансирования медицинского страхования. (дискуссант). Medical Times
-- **Sep 2022**. Куда должна двигаться политика укрепления основной медицинской помощи правительства Yoon Suk Yeol? (дискуссант). K-HOSPITAL FAIR
-- **May 2015**. Форум по решению жилищных проблем двадцатилетних. (дискуссант). Euljiro Committee, Democratic Party of Korea
-
-</details>
-
-<details>
-<summary>\(4\) Приглашённые лекции</summary>
-
-- **Apr 2026**. Проблемы и направления реформирования действующей системы интернатуры. Korean Healthcare Policy School
-- **Feb 2025**. Обзор вакцинации против оспы. Armed Forces Nursing Academy
-- **Oct 2024**. Обзор вакцинации против оспы. Armed Forces Medical Research Institute
-- **Feb 2023**. Выбор карьеры для начинающих врачей. Korean Medical Association
-
-</details>
-
-## Экспертно-консультативная деятельность
-
-<details>
-<summary>Ministry of Health and Welfare, Republic of Korea</summary>
-
-- Член-эксперт, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee (Sep 2023–Feb 2024)
-- Член, Taskforce for Improving the Physician Assistant System (Jun 2023–Feb 2024)
-- Член, Medical Residency Training Environment Evaluation Committee (Sep 2022–Feb 2024)
-- Член, Policy Committee (Mar 2023–Feb 2024)
-- Член, Investigation Committee (Sep 2021–Aug 2022)
-- Член, Taskforce for Residency Training System Reform (Jul 2023–Oct 2023)
-
-</details>
-
-<details>
-<summary>Участие в экспертных панелях и фокус-группах</summary>
-
-- «Исследование законодательства о системе социальной защиты в здравоохранении» (Korea Legislation Research Institute, 2026)
-- «Базовое исследование по внедрению „зелёных рецептов“: анализ зарубежного опыта и разработка перечня услуг, связанных с парками и зелёными зонами» (магистерская диссертация, Keimyung University, 2024)
-- «Политическое исследование по усилению общественного характера подготовки в ординатуре» (Korea Hospital Association, 2023)
-- «Национальное обследование условий труда ординаторов» (Ministry of Health and Welfare / Health Insurance Review & Assessment Service, 2023)
-
-</details>
-
-## Руководящая деятельность
 
 ### Korean Intern Resident Association
 
@@ -293,6 +188,106 @@ toc-depth: 3
 - Член, KMA Policy "Healthcare and Medical Policy" Division (Sep 2021–Aug 2023)
 - Завершение продвинутого курса по политике здравоохранения, Korean Medical Association (May 2023–Oct 2023)
 - Завершение Health Policy Academy for Junior Doctors (Jan 2024–Feb 2024)
+
+</details>
+
+## Исследования и публикации
+
+- **Главный исследователь**, «Детерминанты психического здоровья военнослужащих»
+- **Главный исследователь**, «Исследование реформы 36-часового режима непрерывного дежурства для ординаторов»
+
+Полный список исследовательских проектов и публикаций см. на страницах [Research](research.html) и [Publications](publications.html).
+
+<details>
+<summary>Рецензирование</summary>
+
+- Рецензент, International Journal of Equity in Health
+- Рецензент, BMC Public Health
+- Рецензент, Safety and Health at Work
+
+</details>
+
+## Конференции и доклады
+
+<details>
+<summary>\(1\) Научные конференции и семинары</summary>
+
+- **Sep 2026**. Введение в исследования по усилению потенциала реагирования на инфекционные заболевания и управления ими в вооружённых силах (устный доклад). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
+- **Sep 2026**. Детерминанты психического здоровья военнослужащих (устный доклад). 57th Conference of Military Medicine & 2026 International Conference on Military Trauma Surgery
+- **Jun 2026**. Институционализация выделенного персонала Physician Assistant и перестройка системы здравоохранения: улучшение условий подготовки ординаторов и обеспечение безопасности пациентов. (дискуссант). Academic Conference, Korean Society for Quality in Health Care
+- **May 2026**. Связь между рабочим временем и депрессией среди корейских военнослужащих: повторный поперечный анализ Military Health Survey (2023–2025) (постер). 2026 Spring Conference of the Korean Society for Health Equity.
+- **Apr 2026**. Экстремальный труд, депрессивные симптомы и суицидальные мысли среди корейских ординаторов: рабочее время, последовательные смены и депривация сна во время дежурств по вызову (устный доклад). 2026 Spring Conference of the Association for Health Policy for Criticism and Alternatives.
+- **Dec 2025**. Нехватка кадров в здравоохранении. (дискуссант). ETHOS (Ethics in a World of Emerging Technologies) 7.0
+- **Nov 2025**. После возвращения ординаторов: куда должна двигаться политика улучшения условий труда ординаторов? (лекция). 42nd Online Comprehensive Academic Conference, Korean Medical Association
+- **Nov 2025**. Баланс между подготовкой ординаторов и сестринской практикой Physician Assistant с точки зрения повышения качества. (дискуссант). Fall Academic Conference, Korean Society for Quality in Health Care
+- **Oct 2025**. Подготовительный опрос к созданию Korean Association of Preventive Medicine Physicians: где сегодня находятся специалисты по профилактической медицине? (устный доклад). 77th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Oct 2025**. Сложные связи между употреблением алкоголя и суицидальными мыслями в Южной Корее: поперечный и продольный анализ национальной панели, 2011–2022. (устный доклад). 77th Fall Academic Conference, Korean Society for Preventive Medicine
+- **Nov 2023**. Неравное воздействие пандемии COVID-19: летальность среди проживающих в учреждениях длительного ухода и жителей местных сообществ, Корея. (постер). 2023 APHA Annual Meeting
+- **Nov 2023**. Сессия по Physician Assistant (дискуссант) / Сессия «После COVID-19» (дискуссант). Fall Academic Conference, Korean Academy of Health Policy and Management
+- **Oct 2023**. Гендерное неравенство в психическом здоровье во время пандемии COVID-19: различия между городскими и негородскими районами. (устный доклад). 3rd Joint Academic Conference of Five Academic Societies on Identifying and Reducing Regional Health Inequalities
+- **Jul 2023**. COVID-19 и неравенство в здоровье. (устный доклад). Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine
+- **Jun 2023**. Проблемы политики поддержки основной медицинской помощи и поиск корейских альтернатив. (дискуссант) / Настоящее и будущее ординатуры: 36-часовое непрерывное дежурство (председатель). Academic Conference, Korean Academy of Medical Sciences
+- **May 2023**. Куда должна двигаться политика Кореи в отношении врачебных кадров? (дискуссант). Spring Academic Conference, Korean Academy of Health Policy and Management
+- **Oct 2022**. Неравенство в заболеваемости и смертности от сердечно-сосудистых заболеваний: 10-летнее национальное репрезентативное когортное наблюдение. (постер). 73rd Fall Academic Conference, Korean Society for Preventive Medicine
+- **Dec 2021**. Государство всеобщего благосостояния, социальная политика и здоровье. (устный доклад). Preventive Medicine Grand Rounds, Department of Preventive Medicine, Korea University College of Medicine
+- **Oct 2021**. COVID-19 и психическое здоровье: неравенство по возрасту, полу и региону на основе общенациональных данных за 2015–2020. (устный доклад). 71st Fall Academic Conference, Korean Society for Preventive Medicine
+
+</details>
+
+<details>
+<summary>\(2\) Выступления в парламенте, государственных комитетах и НКО</summary>
+
+- **Feb 2026**. Парламентский форум по обеспечению прав ординаторов на здоровье и улучшению условий обучения. (дискуссант). Парламентский форум, организованный депутатом Lee Soo-jin
+- **Dec 2023**. Постоянный форум по квотам приёма в медицинские вузы: расширение набора в медицинские вузы, ускоренный отток из STEM-областей, дисбаланс в предложении кадров и альтернативы для подготовки врачей-учёных. (дискуссант). Парламентский форум, организованный депутатом Shin Hyun-young
+- **Nov 2023**. Направления реформирования норм рабочего времени ординаторов. (доклад). Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee, Ministry of Health and Welfare
+- **Sep 2023**. Направления реформирования системы ординатуры. (доклад). Taskforce on Residency Training System Reform, Ministry of Health and Welfare
+- **Aug 2023**. Форум по надлежащему управлению коечным фондом и реагированию на создание филиалов столичных больниц третичного уровня. (дискуссант). Парламентский форум, организованный депутатом Lee Jong-sung
+- **Jul 2023**. Ключевые вопросы политики, связанные с системой Physician Assistant. (доклад). Consultative Body for Improving the Physician Assistant System, Ministry of Health and Welfare
+- **Jul 2023**. Постоянный форум по актуальным вопросам здравоохранения: к улучшению здоровья граждан через сотрудничество медицинских работников. (дискуссант). Парламентский форум, организованный депутатом Shin Hyun-young
+- **Jul 2023**. Корейское здравоохранение глазами молодых врачей и пути решения его проблем. (дискуссант). Young Doctors Roundtable Special
+- **Jun 2023**. Постоянный форум по актуальным вопросам здравоохранения: обеспечение врачами в районах с недостаточным медицинским обслуживанием. (дискуссант). Парламентский форум, организованный депутатом Shin Hyun-young
+- **Apr 2023**. Сокращение рабочего времени ординаторов и ограничение непрерывного дежурства до 24 часов. (доклад). Парламентский форум, организованный депутатом Shin Hyun-young
+- **Mar 2023**. Необходимость укрепления системы базовой педиатрической помощи для преодоления низкой рождаемости. (дискуссант). Парламентский форум, организованный депутатом Baek Jong-heon
+- **Jan 2023**. Интеграция врачебной профессии. (доклад). KMA Policy Workshop, Korean Medical Association
+- **Dec 2022**. Реформа учебных программ медицинских вузов для подготовки врачей-учёных. (дискуссант). Парламентский форум, организованный депутатами Shin Hyun-young и Cho Myung-hee
+- **Dec 2022**. Новогодний круглый стол: неотложный диагноз основной медицинской помощи и меры для устойчивого финансирования медицинского страхования. (дискуссант). Medical Times
+- **Oct 2022**. Сокращение рабочего времени ординаторов и ограничение непрерывного дежурства до 24 часов. (доклад). World Medical Association – Junior Doctors Network (WMA-JDN)
+- **Sep 2022**. Куда должна двигаться политика укрепления основной медицинской помощи правительства Yoon Suk Yeol? (дискуссант). K-HOSPITAL FAIR
+- **May 2015**. Форум по решению жилищных проблем двадцатилетних. (дискуссант). Euljiro Committee, Democratic Party of Korea
+
+</details>
+
+<details>
+<summary>\(3\) Приглашённые лекции</summary>
+
+- **Apr 2026**. Проблемы и направления реформирования действующей системы интернатуры. Korean Healthcare Policy School
+- **Feb 2025**. Обзор вакцинации против оспы. Armed Forces Nursing Academy
+- **Oct 2024**. Обзор вакцинации против оспы. Armed Forces Medical Research Institute
+- **Feb 2023**. Выбор карьеры для начинающих врачей. Korean Medical Association
+
+</details>
+
+## Экспертно-консультативная деятельность
+
+<details>
+<summary>Ministry of Health and Welfare, Republic of Korea</summary>
+
+- Член-эксперт, Subcommittee on Physician Workforce, Healthcare Policy Deliberation Committee (Sep 2023–Feb 2024)
+- Член, Taskforce for Improving the Physician Assistant System (Jun 2023–Feb 2024)
+- Член, Medical Residency Training Environment Evaluation Committee (Sep 2022–Feb 2024)
+- Член, Policy Committee (Mar 2023–Feb 2024)
+- Член, Investigation Committee (Sep 2021–Aug 2022)
+- Член, Taskforce for Residency Training System Reform (Jul 2023–Oct 2023)
+
+</details>
+
+<details>
+<summary>Участие в экспертных панелях и фокус-группах</summary>
+
+- «Исследование законодательства о системе социальной защиты в здравоохранении» (Korea Legislation Research Institute, 2026)
+- «Базовое исследование по внедрению „зелёных рецептов“: анализ зарубежного опыта и разработка перечня услуг, связанных с парками и зелёными зонами» (магистерская диссертация, Keimyung University, 2024)
+- «Политическое исследование по усилению общественного характера подготовки в ординатуре» (Korea Hospital Association, 2023)
+- «Национальное обследование условий труда ординаторов» (Ministry of Health and Welfare / Health Insurance Review & Assessment Service, 2023)
 
 </details>
 
