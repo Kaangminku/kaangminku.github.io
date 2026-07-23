@@ -14,7 +14,7 @@ toc: false
 <div class="mk-hgrid">
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-kr">강민구</span></h1>
-<p class="mk-lead">Clinical preventive medicine · Workplace mental health · Policy research</p>
+<p class="mk-lead">Clinical preventive medicine<br>Workplace mental health<br>Policy research</p>
 </div>
 <figure class="mk-portrait">
 <img src="images/profile.jpg" alt="Minku Kang">
@@ -26,7 +26,7 @@ toc: false
 <section class="mk-about">
 <p>Minku Kang is a preventive medicine physician and social epidemiologist. His research asks how precarious work, long working hours, and inequality translate into poor mental health — and how that evidence can drive institutional reform.</p>
 <p>As president of the Korean Intern Resident Association, he led the national effort to reform resident duty-hour regulations, for which he received a commendation from the Minister of Health and Welfare. He is completing a PhD in Public Health at Korea University and a Master of Public Policy at the KDI School, and serves as an epidemiologist and health-policy officer at the Armed Forces Medical Command.</p>
-<p>He also works to turn preventive medicine into care that people can actually receive — as vice president and a founding member of the Korean Association of Preventive Medicine Physicians, and as a board member of the Korean Society for Preventive Medicine, where he chairs the Future Generations Committee and serves on the Clinical Preventive Medicine Committee. In clinical practice, that means assessing individual health risks — across lifestyle, work, and environment — and providing evidence-based guidance to reduce them.</p>
+<p>He also works to turn preventive medicine into care that people can actually receive — as vice president and a founding member of the Korean Association of Preventive Medicine Physicians, and as a board member of the Korean Society for Preventive Medicine, where he chairs the Future Generations Committee and serves on the Clinical Preventive Medicine Committee. In clinical practice, that means assessing individual health risks — across biomarkers, lifestyle, social determinants of health, and environmental exposures — and providing evidence-based guidance to reduce them.</p>
 <details class="mk-bio">
 <summary>Full biography</summary>
 <p>I graduated from Korea University with an M.D. and a B.A. in Sociology with a minor in Economics, and received an M.P.P. from the KDI School. During my undergraduate years, I served as the Vice President of the Korea University Student Union, where I actively engaged in university and community governance, focusing on youth housing and education policy issues. Following my graduation, I completed my medical internship and residency in Preventive Medicine at the Korea University Medical Center. Concurrently, I embarked on a Ph.D. program in Public Health at Korea University to build a strong analytical foundation for public health research.</p>

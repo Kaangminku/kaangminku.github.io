@@ -15,7 +15,7 @@ lang: de
 <div class="mk-hgrid">
 <div>
 <h1 class="mk-name">Minku Kang<span class="mk-kr">강민구</span></h1>
-<p class="mk-lead">Klinische Präventivmedizin · Psychische Gesundheit am Arbeitsplatz · Politikforschung</p>
+<p class="mk-lead">Klinische Präventivmedizin<br>Psychische Gesundheit am Arbeitsplatz<br>Politikforschung</p>
 </div>
 <figure class="mk-portrait">
 <img src="../images/profile.jpg" alt="Minku Kang">
@@ -27,7 +27,7 @@ lang: de
 <section class="mk-about">
 <p>Minku Kang ist Facharzt für Präventivmedizin und Sozialepidemiologe. Seine Forschung geht der Frage nach, wie sich prekäre Beschäftigung, lange Arbeitszeiten und Ungleichheit in schlechter psychischer Gesundheit niederschlagen — und wie diese Evidenz institutionelle Reformen anstoßen kann.</p>
 <p>Als Präsident der Korean Intern Resident Association leitete er die landesweite Initiative zur Reform der Dienstzeitregelungen für Assistenzärzte, für die er mit einer Auszeichnung des Ministers für Gesundheit und Wohlfahrt geehrt wurde. Er schließt derzeit einen PhD in Public Health an der Korea University sowie einen Master of Public Policy an der KDI School ab und ist als Epidemiologe und Referent für Gesundheitspolitik am Sanitätskommando der Streitkräfte tätig.</p>
-<p>Darüber hinaus setzt er sich dafür ein, Präventivmedizin in eine Versorgung zu überführen, die die Menschen tatsächlich erhalten können — als Vizepräsident und Gründungsmitglied der Korean Association of Preventive Medicine Physicians sowie als Vorstandsmitglied der Korean Society for Preventive Medicine, wo er den Vorsitz des Future Generations Committee führt und dem Clinical Preventive Medicine Committee angehört. In der klinischen Praxis bedeutet das, individuelle Gesundheitsrisiken — bezogen auf Lebensstil, Arbeit und Umwelt — zu bewerten und evidenzbasierte Beratung zu deren Verringerung anzubieten.</p>
+<p>Darüber hinaus setzt er sich dafür ein, Präventivmedizin in eine Versorgung zu überführen, die die Menschen tatsächlich erhalten können — als Vizepräsident und Gründungsmitglied der Korean Association of Preventive Medicine Physicians sowie als Vorstandsmitglied der Korean Society for Preventive Medicine, wo er den Vorsitz des Future Generations Committee führt und dem Clinical Preventive Medicine Committee angehört. In der klinischen Praxis bedeutet das, individuelle Gesundheitsrisiken — bezogen auf Biomarker, Lebensstil, soziale Determinanten der Gesundheit und Umweltexpositionen — zu bewerten und evidenzbasierte Beratung zu deren Verringerung anzubieten.</p>
 <details class="mk-bio">
 <summary>Vollständiger Lebenslauf</summary>
 <p>Ich habe an der Korea University ein Medizinstudium (M.D.) sowie einen Bachelor of Arts (B.A.) in Soziologie mit Nebenfach Volkswirtschaftslehre abgeschlossen und an der KDI School einen Master of Public Policy (M.P.P.) erworben. Während meines Studiums war ich Vizepräsident der Korea University Student Union, wo ich mich aktiv an der Selbstverwaltung von Universität und Gemeinwesen beteiligte und mich schwerpunktmäßig mit Fragen der Wohnungs- und Bildungspolitik für junge Menschen befasste. Nach meinem Abschluss war ich am Korea University Medical Center zunächst als Arzt im Praktikum (Intern) tätig und absolvierte anschließend meine Facharztweiterbildung in Präventivmedizin. Zugleich begann ich an der Korea University ein Promotionsstudium (Ph.D.) in Public Health, um eine solide analytische Grundlage für die Forschung im Bereich Public Health zu schaffen.</p>
