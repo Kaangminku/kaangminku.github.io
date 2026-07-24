@@ -41,3 +41,4 @@ toc-depth: 2
 
 - Рецензент, *International Journal of Equity in Health*
 - Рецензент, *BMC Public Health*
+- Рецензент, *Safety and Health at Work*

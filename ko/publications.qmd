@@ -42,3 +42,4 @@ toc-depth: 2
 
 - Reviewer, *International Journal of Equity in Health*
 - Reviewer, *BMC Public Health*
+- Reviewer, *Safety and Health at Work*
